@@ -1,0 +1,1647 @@
+@Misc{Millard:1919,
+author = {Hannah, G. Millard},
+title = {Dressmaker's Pattern Outfit},
+howpublished = {US Patent No.1313496},
+month = {Augest},
+year = {1919},
+}
+
+@Misc{O'Loughlin:1899,
+author = {Robert O'Loughlin},
+title = {Pattern for Garment},
+howpublished = {US Patent No.632361},
+month = {September},
+year = {1899},
+}
+
+@InProceedings{Thomas2008,
+author = {Thomas Stumpp, Jonas Spillmann, Markus Becker, Matthias Teschner},
+title = {A Geometric Deformation Model for Stable Cloth Simulation},
+booktitle = {Workshop on Virtual Reality Interaction and Physical Simulation, 2008},
+year={2008}, 
+}
+
+@inproceedings{Muller:2010,
+ author = {M\"{u}ller, Matthias and Chentanez, Nuttapong},
+ title = {Wrinkle meshes},
+ booktitle = {Proceedings of the 2010 ACM SIGGRAPH/Eurographics Symposium on Computer Animation},
+ series = {SCA '10},
+ year = {2010},
+ location = {Madrid, Spain},
+ pages = {85--92},
+ numpages = {8},
+ url = {http://dl.acm.org/citation.cfm?id=1921427.1921441},
+ acmid = {1921441},
+ publisher = {Eurographics Association},
+ address = {Aire-la-Ville, Switzerland, Switzerland}
+} 
+
+@inproceedings{Polthier:2006,
+ author = {Polthier, Konrad and Schmies, Markus},
+ title = {Straightest geodesics on polyhedral surfaces},
+ booktitle = {ACM SIGGRAPH 2006 Courses},
+ series = {SIGGRAPH '06},
+ year = {2006},
+ isbn = {1-59593-364-6},
+ location = {Boston, Massachusetts},
+ pages = {30--38},
+ numpages = {9},
+ url = {http://doi.acm.org/10.1145/1185657.1185664},
+ doi = {10.1145/1185657.1185664},
+ acmid = {1185664},
+ publisher = {ACM},
+ address = {New York, NY, USA}
+} 
+
+@book{aleksandrov1967intrinsic,
+  title={Intrinsic geometry of surfaces},
+  author={Aleksandrov, A.D. and Zalgaller, V.A.},
+  lccn={lc66030492},
+  series={Translations of mathematical monographs},
+  url={http://books.google.co.uk/books?id=\_l3vAAAAMAAJ},
+  year={1967},
+  publisher={American Mathematical Society}
+}
+
+
+@article{Terzopoulos1987,
+ author = {Terzopoulos, Demetri and Platt, John and Barr, Alan and Fleischer, Kurt},
+ title = {Elastically deformable models},
+ journal = {SIGGRAPH Comput. Graph.},
+ issue_date = {July 1987},
+ volume = {21},
+ number = {4},
+ month = aug,
+ year = {1987},
+ issn = {0097-8930},
+ pages = {205--214},
+ numpages = {10},
+ url = {http://doi.acm.org/10.1145/37402.37427},
+ doi = {10.1145/37402.37427},
+ acmid = {37427},
+ publisher = {ACM},
+ address = {New York, NY, USA}
+} 
+
+@article{Volino2009,
+ author = {Volino, Pascal and Magnenat-Thalmann, Nadia and Faure, Francois},
+ title = {A simple approach to nonlinear tensile stiffness for accurate cloth simulation},
+ journal = {ACM Trans. Graph.},
+ issue_date = {August 2009},
+ volume = {28},
+ number = {4},
+ month = sep,
+ year = {2009},
+ issn = {0730-0301},
+ pages = {105:1--105:16},
+ articleno = {105},
+ numpages = {16},
+ url = {http://doi.acm.org/10.1145/1559755.1559762},
+ doi = {10.1145/1559755.1559762},
+ acmid = {1559762},
+ publisher = {ACM},
+ address = {New York, NY, USA},
+ keywords = {Particle systems, cloth simulation, finite elements, mechanical simulation}
+} 
+
+@article{Kaldor2010,
+ author = {Kaldor, Jonathan M. and James, Doug L. and Marschner, Steve},
+ title = {Efficient yarn-based cloth with adaptive contact linearization},
+ journal = {ACM Trans. Graph.},
+ issue_date = {July 2010},
+ volume = {29},
+ number = {4},
+ month = jul,
+ year = {2010},
+ issn = {0730-0301},
+ pages = {105:1--105:10},
+ articleno = {105},
+ numpages = {10},
+ url = {http://doi.acm.org/10.1145/1778765.1778842},
+ doi = {10.1145/1778765.1778842},
+ acmid = {1778842},
+ publisher = {ACM},
+ address = {New York, NY, USA},
+ keywords = {adaptive, cloth, contact, corotational, knitted, yarn}
+} 
+
+
+@article{Volino2005,
+author = {P. Volino and N. Magnenat-Thalmann},
+title = {Accurate Garment Prototyping and Simulation},
+journal = {Computer-Aided Design I\& Applications},
+publisher = {CAD Solutions},
+volume = {2},
+number = {5},
+pages = {645-654},
+year = {2005}
+}
+
+@inproceedings{Muller:2004,
+ author = {Muller, Matthias and Teschner, Matthias and Gross, Markus},
+ title = {Physically-Based Simulation of Objects Represented by Surface Meshes},
+ booktitle = {Proceedings of the Computer Graphics International},
+ series = {CGI '04},
+ year = {2004},
+ isbn = {0-7695-2171-1},
+ pages = {26--33},
+ numpages = {8},
+ url = {http://dx.doi.org/10.1109/CGI.2004.75},
+ doi = {10.1109/CGI.2004.75},
+ acmid = {1009573},
+ publisher = {IEEE Computer Society},
+ address = {Washington, DC, USA},
+ keywords = {Physically Based Animation, Finite Element Method, Deformation, Fracture}
+} 
+
+@article{Chen:2010,
+ author = {Chen, Ming and Tang, Kai},
+ title = {A fully geometric approach for developable cloth deformation simulation},
+ journal = {Vis. Comput.},
+ issue_date = {June 2010},
+ volume = {26},
+ number = {6-8},
+ month = jun,
+ year = {2010},
+ issn = {0178-2789},
+ pages = {853--863},
+ numpages = {11},
+ url = {http://dx.doi.org/10.1007/s00371-010-0467-5},
+ doi = {10.1007/s00371-010-0467-5},
+ acmid = {1821935},
+ publisher = {Springer-Verlag New York, Inc.},
+ address = {Secaucus, NJ, USA},
+ keywords = {Cloth simulation, Collision, Mesh deformation}
+} 
+
+@INPROCEEDINGS{Etzmuss2003, 
+author={Etzmuss, O. and Keckeisen, M. and Strasser, W.}, 
+booktitle={Computer Graphics and Applications, 2003. Proceedings. 11th Pacific Conference on}, 
+title={A fast finite element solution for cloth modelling}, 
+year={2003}, 
+pages={244-251}, 
+keywords={CAD;clothing;computer animation;finite element analysis;textiles;viscoelasticity;CAD cloth patterns;cloth animation;fast finite element;garment simulation;viscoelastic element;Animation;Assembly;Clothing;Elasticity;Finite element methods;Layout;Material properties;Nonlinear equations;Textiles;Viscosity}, 
+doi={10.1109/PCCGA.2003.1238266},}
+
+@article{Fontana2006,
+title = "A CAD-oriented cloth simulation system with stable and efficient \{ODE\} solution ",
+journal = "Computers  Graphics ",
+volume = "30",
+number = "3",
+pages = "391 - 406",
+year = "2006",
+note = "",
+issn = "0097-8493",
+author = "Marzia Fontana and Caterina Rizzi and Umberto Cugini",
+keywords = "Cloth modelling",
+keywords = "Apparel design",
+keywords = "Particle-based modelling",
+keywords = "\{ODE\} solution",
+keywords = "Virtual simulation "
+}
+
+
+@article{Fuhrmann200371,
+title = "Interaction-free dressing of virtual humans ",
+journal = "Computer  Graphics ",
+volume = "27",
+number = "1",
+pages = "71 - 82",
+year = "2003",
+note = "",
+issn = "0097-8493",
+doi = "http://dx.doi.org/10.1016/S0097-8493(02)00245-5",
+url = "http://www.sciencedirect.com/science/article/pii/S0097849302002455",
+author = "Arnulph Fuhrmann and Clemens Groß and Volker Luckas and Andreas Weber",
+keywords = "Cloth modeling",
+keywords = "Physically based modeling",
+keywords = "Optimization for animation "
+}
+
+@article{Kim2013,
+  note = {Proceedings of ACM SIGGRAPH 2013, Anaheim},
+  title = {Near-exhaustive Precomputation of Secondary Cloth Effects},
+  journal = {ACM Transactions on Graphics},
+  author = {Doyub Kim and Woojong Koh and Rahul Narain and Kayvon Fatahalian and Adrien Treuille and James F. O'Brien},
+  number = 4,
+  month = jul,
+  volume = 32,
+  year = 2013,
+  pages = {xxx:1--7},
+  url = {http://graphics.berkeley.edu/papers/Kim-NEP-2013-07/},
+}
+
+@article{Weil:1986,
+ author = {Weil, Jerry},
+ title = {The synthesis of cloth objects},
+ journal = {SIGGRAPH Comput. Graph.},
+ issue_date = {Aug. 1986},
+ volume = {20},
+ number = {4},
+ month = aug,
+ year = {1986},
+ issn = {0097-8930},
+ pages = {49--54},
+ numpages = {6},
+ url = {http://doi.acm.org/10.1145/15886.15891},
+ doi = {10.1145/15886.15891},
+ acmid = {15891},
+ publisher = {ACM},
+ address = {New York, NY, USA}
+} 
+
+
+@Proceedings{agui1990,
+title = { An expression method of cylindrical cloth objects-an expression of folds of a sleeve using computer graphics},
+year = {1990},
+OPTvolume = {J73\-D\-II},
+OPTseries = {7},
+OPTorganization = {Soc. of Electronics, Information and Communications},
+}
+
+@article{Miller:1991,
+ author = {Miller, James V. and Breen, David E. and Lorensen, William E. and O'Bara, Robert M. and Wozny, Michael J.},
+ title = {Geometrically deformed models: a method for extracting closed geometric models form volume data},
+ journal = {SIGGRAPH Comput. Graph.},
+ issue_date = {July 1991},
+ volume = {25},
+ number = {4},
+ month = jul,
+ year = {1991},
+ issn = {0097-8930},
+ pages = {217--226},
+ numpages = {10},
+ url = {http://doi.acm.org/10.1145/127719.122742},
+ doi = {10.1145/127719.122742},
+ acmid = {122742},
+ publisher = {ACM},
+ address = {New York, NY, USA},
+ keywords = {constraint minimization, deformable models, geometric modelling, volume modelling, volume visualization}
+} 
+
+@article{Hinds1990,
+year={1990},
+issn={0178-2789},
+journal={The Visual Computer},
+volume={6},
+number={2},
+doi={10.1007/BF01901066},
+title={Interactive garment design},
+url={http://dx.doi.org/10.1007/BF01901066},
+publisher={Springer-Verlag},
+keywords={Garment design; Interactive three-dimensional design},
+author={Hinds, B.K. and McCartney, J.},
+pages={53-61},
+language={English}
+}
+
+@article{Cavazza1998,
+ author = {Cavazza, Marc and Earnshaw, Rae and Magnenat-Thalmann, Nadia and Thalmann, Daniel},
+ title = {Motion Control of Virtual Humans},
+ journal = {IEEE Comput. Graph. Appl.},
+ issue_date = {September 1998},
+ volume = {18},
+ number = {5},
+ month = sep,
+ year = {1998},
+ issn = {0272-1716},
+ pages = {24--31},
+ numpages = {8},
+ url = {http://dx.doi.org/10.1109/38.708558},
+ doi = {10.1109/38.708558},
+ acmid = {618559},
+ publisher = {IEEE Computer Society Press},
+ address = {Los Alamitos, CA, USA}
+} 
+
+@article{Magnenat-Thalmann:1991,
+ author = {Magnenat-Thalmann, Nadia and Thalmann, Daniel},
+ title = {Complex Models for Animating Synthetic Actors},
+ journal = {IEEE Comput. Graph. Appl.},
+ issue_date = {September 1991},
+ volume = {11},
+ number = {5},
+ month = sep,
+ year = {1991},
+ issn = {0272-1716},
+ pages = {32--44},
+ numpages = {13},
+ url = {http://dx.doi.org/10.1109/38.90566},
+ doi = {10.1109/38.90566},
+ acmid = {617690},
+ publisher = {IEEE Computer Society Press},
+ address = {Los Alamitos, CA, USA}
+} 
+
+@inproceedings{Thalmann:1992,
+   affiliation = {EPFL},
+   author      = {Thalmann, D},
+   booktitle   = {Proc. Virtual {R}eality {S}ystems, {B}ritish {C}omputer {S}ociety},
+   details     = {http://infoscience.epfl.ch/record/102445},
+   documenturl = {http://infoscience.epfl.ch/record/102445/files/Thalmann_VRS_92.pdf},
+   location    = {London, UK},
+   oai-id      = {oai:infoscience.epfl.ch:102445},
+   oai-set     = {conf},
+   review      = {REVIEWED},
+   status      = {PUBLISHED},
+   title       = {Using {V}irtual {R}eality {T}echniques in the {A}nimation {P}rocess},
+   unit        = {VRLAB},
+   year        = 1992
+}
+
+@inproceedings{Badler:1997,
+ author = {Badler, Norman},
+ title = {Virtual Humans for Animation, Ergonomics, and Simulation},
+ booktitle = {Proceedings of the 1997 IEEE Workshop on Motion of Non-Rigid and Articulated Objects (NAM '97)},
+ series = {NAM '97},
+ year = {1997},
+ isbn = {0-8186-8040-7},
+ pages = {28--},
+ url = {http://dl.acm.org/citation.cfm?id=523987.883064},
+ acmid = {883064},
+ publisher = {IEEE Computer Society},
+ address = {Washington, DC, USA}
+} 
+
+@book{armstrong2000,
+  title={Patternmaking: for fashion design},
+  author={Armstrong, Helen Joseph.},
+  editor={},
+  isbn={9780321034236},
+  lccn={94039388},
+  url={http://books.google.co.uk/books?id=Y94LAQAAMAAJ},
+  year={2000},
+  publisher={Pearson Prentice Hall}
+}
+
+@article{Kittler2003,
+title = "Molecular Evolution of Pediculus humanus and the Origin of Clothing ",
+journal = "Current Biology ",
+volume = "13",
+number = "16",
+pages = "1414 - 1417",
+year = "2003",
+note = "",
+issn = "0960-9822",
+doi = "http://dx.doi.org/10.1016/S0960-9822(03)00507-4",
+url = "http://www.sciencedirect.com/science/article/pii/S0960982203005074",
+author = "Ralf Kittler and Manfred Kayser and Mark Stoneking"
+}
+
+@article{Toups2011,
+title = "Origin of Clothing Lice Indicates Early Clothing Use by Anatomically Modern Humans in Africa ",
+journal = "Oxford Journals ",
+volume = "28",
+number = "1",
+pages = "29 - 32",
+year = "2011",
+note = "",
+issn = "0960-9822",
+author = "Melissa A.Toups and David Reed and Andrew Kitchen and Jessica E. Light"
+}
+
+@article{Harms1938,
+     title = {The Psychology of Clothes},
+     author = {Harms, Ernst},
+     journal = {American Journal of Sociology},
+     volume = {44},
+     number = {2},
+     jstor_formatteddate = {Sep., 1938},
+     pages = {pp. 239-250},
+     url = {http://www.jstor.org/stable/2768730},
+     ISSN = {00029602},
+     language = {English},
+     year = {1938},
+     publisher = {The University of Chicago Press},
+     copyright = {Copyright © 1938 The University of Chicago Press},
+    }
+    
+@book{tanner_history_1981,
+	title = {A History of the Study of Human Growth},
+	isbn = {9780521224888},
+	lccn = {lc80040485},
+	url = {http://books.google.co.uk/books?id=EJjP2UX1tLAC},
+	publisher = {Cambridge University Press},
+	author = {Tanner, {J.M.}},
+	editor = {},
+	year = {1981}
+}    
+
+@book{pheasant2006bodyspace,
+  title={Bodyspace: Anthropometry, Ergonomics, And The Design Of Work},
+  author={Pheasant, S.T. and Haslegrave, C.M.},
+  editor={Pheasant, S.T. and Haslegrave, C.M.},
+  isbn={9780415285209},
+  lccn={2005002712},
+  url={http://books.google.co.uk/books?id=nwfvSbuyBdMC},
+  year={2006},
+  publisher={Taylor \& Francis/CRC Press}
+}
+
+@book{selin2008encyclopaedia,
+  title={Encyclopaedia of the History of Science, Technology, and Medicine in Non-Western Cultures},
+  author={Selin, H.},
+  editor={},
+  isbn={9781402045592},
+  series={Springer Reference Series},
+  url={http://books.google.co.uk/books?id=kt9DIY1g9HYC},
+  year={2008},
+  publisher={Springer}
+}
+
+
+@book{robins1994proportion,
+  title={Proportion and Style in Ancient Egyptian Art},
+  author={Robins, G. and Fowler, A.S.},
+  editor={},
+  isbn={9780292770645},
+  lccn={93000065},
+  url={http://books.google.co.uk/books?id=Y5x17DBAsCwC},
+  year={1994},
+  publisher={University of Texas Press}
+}
+
+@book{pollio1914ten,
+  title={The Ten Books on Architecture},
+  author={Pollio, V. and Morgan, M.H. and Warren, H.L.},
+  editor={},
+  url={http://books.google.co.uk/books?id=La4aAAAAYAAJ},
+  year={1914},
+  publisher={Harvard University Press}
+}
+
+@article{Marcus2002,
+year={2002},
+issn={1590-5896},
+journal={Nexus Network Journal},
+volume={4},
+number={1},
+doi={10.1007/s00004-001-0002-0},
+title={The Golden Section in Architectural Theory},
+url={http://dx.doi.org/10.1007/s00004-001-0002-0},
+publisher={Birkhäuser-Verlag},
+keywords={Marcus Frings; Golden Section; Vitruvius; Euclid; Luca Pacioli; Leon Battista Alberti; Sebastiano Serlio; Filarete; Francesco di Giorgio Martini; Albrecht Durer; Adolf Zeising; Gustav Theodor Fechner; Ernst Neufert; Le Corbusier; The Modulor},
+author={Frings, Marcus},
+pages={9-32},
+language={English}
+}
+
+@article{Rudolf1955,
+    jstor_articletype = {research-article},
+    title = {A Review of Proportion},
+    author = {Arnheim, Rudolf},
+    journal = {The Journal of Aesthetics and Art Criticism},
+    jstor_issuetitle = {},
+    volume = {14},
+    number = {1},
+    jstor_formatteddate = {Sep., 1955},
+    pages = {pp. 44-57},
+    url = {http://www.jstor.org/stable/426640},
+    ISSN = {00218529},
+    abstract = {},
+    language = {English},
+    year = {1955},
+    publisher = {Wiley on behalf of The American Society for Aesthetics},
+    copyright = {Copyright © 1955 The American Society for Aesthetics},
+}
+
+@book{stemp2006secret,
+  title={The Secret Language of the Renaissance: Decoding the Hidden Symbolism of Italian Art},
+  author={Stemp, R.},
+  editor={},
+  isbn={9781844833221},
+  url={http://books.google.co.uk/books?id=s3AjcoLfYMsC},
+  year={2006},
+  publisher={Duncan Baird Publishers}
+}
+
+
+@article{Schott19921518,
+title = "The extent of man from Vitruvius to Marfan ",
+journal = "The Lancet ",
+volume = "340",
+pages = "1518 - 1520",
+year = "1992",
+note = "",
+issn = "0140-6736",
+doi = "http://dx.doi.org/10.1016/0140-6736(92)92767-A",
+url = "http://www.sciencedirect.com/science/article/pii/014067369292767A",
+author = "G.D. Schott"
+}
+
+@book{quetelet2011anthropométrie,
+  title={Anthropom{\'e}trie Ou Mesure Des Diff{\'e}rentes Facult{\'e}s de L'Homme},
+  author={Quetelet, A.},
+  editor={},
+  isbn={9781179114859},
+  url={http://books.google.co.uk/books?id=qWP8ygAACAAJ},
+  year={2011},
+  publisher={BiblioBazaar}
+}
+
+@book{sebesta2001world,
+  title={The World of Roman Costume},
+  author={Sebesta, J.L. and Bonfante, L.},
+  isbn={9780299138547},
+  lccn={93012709},
+  series={Wisconsin Studies in Classics},
+  url={http://books.google.co.uk/books?id=GxGPLju4KEkC},
+  year={2001},
+  publisher={University of Wisconsin Press}
+}
+
+@online{McManus2003,
+author={McManus,Barbara F. },
+editor={},
+title = {ROMAN CLOTHING: WOMEN},
+year = {2003},
+url = {http://www.vroma.org/~bmcmanus/clothing2.html},
+}
+
+@book{macdonald2009principles,
+  title={Principles of Flat Pattern Design 4th Edition},
+  author={MacDonald, Nora M.},
+  editor={},
+  isbn={9781563678516},
+  lccn={2008939617},
+  url={http://books.google.co.uk/books?id=jL-mPgAACAAJ},
+  year={2009},
+  publisher={Bloomsbury Academic}
+}
+
+@article{Caroline1996,
+     title = {The Myth of the Toga: Understanding the History of Roman Dress},
+     author = {Vout, Caroline},
+     journal = {Greece \& Rome},
+     volume = {43},
+     number = {2},
+     series = {Second Series},
+     jstor_formatteddate = {Oct., 1996},
+     pages = {pp. 204-220},
+     url = {http://www.jstor.org/stable/643096},
+     ISSN = {00173835},
+     abstract = {},
+     language = {English},
+     year = {1996},
+     publisher = {Cambridge University Press on behalf of The Classical Association},
+}
+
+@article{Schofield01012005,
+author = {Schofield, Nancy A. and LaBat, Karen L.}, 
+title = {Exploring the Relationships of Grading, Sizing, and Anthropometric Data},
+volume = {23}, 
+number = {1}, 
+pages = {13-27}, 
+year = {2005}, 
+doi = {10.1177/0887302X0502300102},  
+URL = {http://ctr.sagepub.com/content/23/1/13.abstract}, 
+eprint = {http://ctr.sagepub.com/content/23/1/13.full.pdf+html}, 
+journal = {Clothing and Textiles Research Journal} 
+}
+
+@Article{dijkstra59a,
+  author =	 {Edsger W. Dijkstra},
+  title =	 {A note on two problems in connexion with graphs},
+  journal =	 {Numerische Mathematik},
+  year =	 {1959},
+  volume =	 {1},
+  pages =	 {269--271},
+  url = 	 {http://jmvidal.cse.sc.edu/library/dijkstra59a.pdf},
+  cluster = 	 {531581949522259482},
+  keywords = 	 {distributed algorithms}
+}
+
+@inproceedings{Sharir:1984,
+ author = {Sharir(, Micha and Schorr, Amir},
+ title = {On shortest paths in polyhedral spaces},
+ booktitle = {Proceedings of the sixteenth annual ACM symposium on Theory of computing},
+ series = {STOC '84},
+ year = {1984},
+ isbn = {0-89791-133-4},
+ pages = {144--153},
+ numpages = {10},
+ url = {http://doi.acm.org/10.1145/800057.808676},
+ doi = {10.1145/800057.808676},
+ acmid = {808676},
+ publisher = {ACM},
+ address = {New York, NY, USA}
+} 
+
+@article{Mitchell,
+ author = {Mitchell, Joseph S. B. and Mount, David M. and Papadimitriou, Christos H.},
+ title = {The discrete geodesic problem},
+ journal = {SIAM J. Comput.},
+ issue_date = {Aug. 1987},
+ volume = {16},
+ number = {4},
+ month = aug,
+ year = {1987},
+ issn = {0097-5397},
+ pages = {647--668},
+ numpages = {22},
+ url = {http://dx.doi.org/10.1137/0216045},
+ doi = {10.1137/0216045},
+ acmid = {33372},
+ publisher = {Society for Industrial and Applied Mathematics},
+ address = {Philadelphia, PA, USA}
+} 
+
+@inproceedings{Chen:1990,
+ author = {Chen, Jindong and Han, Yijie},
+ title = {Shortest paths on a polyhedron},
+ booktitle = {Proceedings of the sixth annual symposium on Computational geometry},
+ series = {SCG '90},
+ year = {1990},
+ isbn = {0-89791-362-0},
+ location = {Berkley, California, USA},
+ pages = {360--369},
+ numpages = {10},
+ url = {http://doi.acm.org/10.1145/98524.98601},
+ doi = {10.1145/98524.98601},
+ acmid = {98601},
+ publisher = {ACM},
+ address = {New York, NY, USA}
+} 
+
+@inproceedings{Lanthier:1997,
+ author = {Lanthier, Mark and Maheshwari, Anil and Sack, J\"{o}rg-R\"{u}diger},
+ title = {Approximating weighted shortest paths on polyhedral surfaces},
+ booktitle = {Proceedings of the thirteenth annual symposium on Computational geometry},
+ series = {SCG '97},
+ year = {1997},
+ isbn = {0-89791-878-9},
+ location = {Nice, France},
+ pages = {485--486},
+ numpages = {2},
+ url = {http://doi.acm.org/10.1145/262839.263101},
+ doi = {10.1145/262839.263101},
+ acmid = {263101},
+ publisher = {ACM},
+ address = {New York, NY, USA}
+} 
+
+@article{Floater1998,
+year={1998},
+issn={0006-3835},
+journal={BIT Numerical Mathematics},
+volume={38},
+number={4},
+doi={10.1007/BF02510410},
+title={Thinning algorithms for scattered data interpolation},
+url={http://dx.doi.org/10.1007/BF02510410},
+publisher={Kluwer Academic Publishers},
+keywords={41A15; 65D05; 65D07; Multistep interpolation; scattered data; thinning},
+author={Floater, Michael S. and Iske, Armin},
+pages={705-720},
+language={English}
+}
+
+@book{sethian1999level,
+  title={Level Set Methods and Fast Marching Methods: Evolving Interfaces in Computational Geometry, Fluid Mechanics, Computer Vision, and Materials Science},
+  author={Sethian, J.A.},
+  isbn={9780521645577},
+  lccn={98040859},
+  series={Cambridge Monographs on Applied and Computational Mathematics},
+  url={http://books.google.co.uk/books?id=ErpOoynE4dIC},
+  year={1999},
+  publisher={Cambridge University Press}
+}
+
+@article{Hershberger:1999,
+ author = {Hershberger, John and Suri, Subhash},
+ title = {An Optimal Algorithm for Euclidean Shortest Paths in the Plane},
+ journal = {SIAM J. Comput.},
+ issue_date = {Dec. 1999},
+ volume = {28},
+ number = {6},
+ month = aug,
+ year = {1999},
+ issn = {0097-5397},
+ pages = {2215--2256},
+ numpages = {42},
+ url = {http://dx.doi.org/10.1137/S0097539795289604},
+ doi = {10.1137/S0097539795289604},
+ acmid = {323346},
+ publisher = {Society for Industrial and Applied Mathematics},
+ address = {Philadelphia, PA, USA},
+ keywords = {Euclidean distance, obstacle avoidance, planar subdivision, quad-tree, shortest path, shortest path map, weighted distance}
+} 
+
+@inproceedings{Kapoor:1999,
+ author = {Kapoor, Sanjiv},
+ title = {Efficient computation of geodesic shortest paths},
+ booktitle = {Proceedings of the thirty-first annual ACM symposium on Theory of computing},
+ series = {STOC '99},
+ year = {1999},
+ isbn = {1-58113-067-8},
+ location = {Atlanta, Georgia, USA},
+ pages = {770--779},
+ numpages = {10},
+ url = {http://doi.acm.org/10.1145/301250.301449},
+ doi = {10.1145/301250.301449},
+ acmid = {301449},
+ publisher = {ACM},
+ address = {New York, NY, USA}
+} 
+
+@book{kaneva2000implementation,
+  title={An Implementation of Chen \& Han's Shortest Paths Algorithm},
+  author={Kaneva, B.K.},
+  url={http://books.google.co.uk/books?id=e4k9NwAACAAJ},
+  year={2000},
+  publisher={Smith College, Northampton, Mass.}
+}
+
+@article{ahk-caspcp-02,
+  author =       {P.K.~Agarwal and S.~Har-Peled and M.~Karia},
+  title =        {Computing Approximate Shortest Paths on Convex Polytopes},
+  year =         {2002},
+  journal =      {ALGORITHMICA},
+  pages =        {227--242},
+  volume =       {33},
+  number =       {2}
+}
+
+@inproceedings{Frisken:2000,
+ author = {Frisken, Sarah F. and Perry, Ronald N. and Rockwood, Alyn P. and Jones, Thouis R.},
+ title = {Adaptively sampled distance fields: a general representation of shape for computer graphics},
+ booktitle = {Proceedings of the 27th annual conference on Computer graphics and interactive techniques},
+ series = {SIGGRAPH '00},
+ year = {2000},
+ isbn = {1-58113-208-5},
+ pages = {249--254},
+ numpages = {6},
+ url = {http://dx.doi.org/10.1145/344779.344899},
+ doi = {10.1145/344779.344899},
+ acmid = {344899},
+ publisher = {ACM Press/Addison-Wesley Publishing Co.},
+ address = {New York, NY, USA},
+ keywords = {carving, distance fields, graphics, implicit surfaces, level of detail, rendering, volume modeling, volume rendering}
+} 
+
+@inproceedings{Kanai:2000,
+ author = {Kanai, Takashi and Suzuki, Hiromasa},
+ title = {Approximate Shortest Path on Polyhedral Surface Based on Selective Refinement of the Discrete Graph and Its Applications},
+ booktitle = {Proceedings of the Geometric Modeling and Processing 2000},
+ series = {GMP '00},
+ year = {2000},
+ isbn = {0-7695-0562-7},
+ pages = {241--},
+ url = {http://dl.acm.org/citation.cfm?id=795680.797431},
+ acmid = {797431},
+ publisher = {IEEE Computer Society},
+ address = {Washington, DC, USA},
+ keywords = {geometric modeling, computational geometry, polyhedral surface, shortest path, Dijkstra's algorithm}
+} 
+
+
+@article{Jean724716,
+author = {Jean-daniel Boissonnat and Frédéric Cazals},
+title = {{Coarse-to-fine surface simplification with geometric guarantees}},
+journal = {Computer Graphics Forum},
+volume = {20},
+year = {2001},
+pages = {490--499},
+issue = {3},
+doi = {10.1111/1467-8659.00542},
+masid = {724716}
+}
+
+@article{Mémoli2001730,
+title = "Fast Computation of Weighted Distance Functions and Geodesics on Implicit Hyper-Surfaces ",
+journal = "Journal of Computational Physics ",
+volume = "173",
+number = "2",
+pages = "730 - 764",
+year = "2001",
+note = "",
+issn = "0021-9991",
+doi = "http://dx.doi.org/10.1006/jcph.2001.6910",
+url = "http://www.sciencedirect.com/science/article/pii/S0021999101969104",
+author = "Facundo Mémoli and Guillermo Sapiro"
+}
+
+@inproceedings{Pauly:2002:ESP:602099.602123,
+ author = {Pauly, Mark and Gross, Markus and Kobbelt, Leif P.},
+ title = {Efficient simplification of point-sampled surfaces},
+ booktitle = {Proceedings of the conference on Visualization '02},
+ series = {VIS '02},
+ year = {2002},
+ isbn = {0-7803-7498-3},
+ location = {Boston, Massachusetts},
+ pages = {163--170},
+ numpages = {8},
+ url = {http://dl.acm.org/citation.cfm?id=602099.602123},
+ acmid = {602123},
+ publisher = {IEEE Computer Society},
+ address = {Washington, DC, USA}
+} 
+
+@article{Dyn:2002:ATB:636261.636279,
+ author = {Dyn, N. and Floater, M. S. and Iske, A.},
+ title = {Adaptive thinning for bivariate scattered data},
+ journal = {J. Comput. Appl. Math.},
+ issue_date = {August 2002},
+ volume = {145},
+ number = {2},
+ month = aug,
+ year = {2002},
+ issn = {0377-0427},
+ pages = {505--517},
+ numpages = {13},
+ url = {http://dx.doi.org/10.1016/S0377-0427(02)00352-7},
+ doi = {10.1016/S0377-0427(02)00352-7},
+ acmid = {636279},
+ publisher = {Elsevier Science Publishers B. V.},
+ address = {Amsterdam, The Netherlands, The Netherlands},
+ keywords = {adaptive data reduction, bivariate scattered data, piecewise linear approximation, simplification, thinning, triangulation}
+} 
+
+@article{Katz:2003:HMD:882262.882369,
+ author = {Katz, Sagi and Tal, Ayellet},
+ title = {Hierarchical mesh decomposition using fuzzy clustering and cuts},
+ journal = {ACM Trans. Graph.},
+ issue_date = {July 2003},
+ volume = {22},
+ number = {3},
+ month = jul,
+ year = {2003},
+ issn = {0730-0301},
+ pages = {954--961},
+ numpages = {8},
+ url = {http://doi.acm.org/10.1145/882262.882369},
+ doi = {10.1145/882262.882369},
+ acmid = {882369},
+ publisher = {ACM},
+ address = {New York, NY, USA},
+ keywords = {control-skeleton extraction, mesh decomposition, mesh segmentation}
+} 
+
+@article{Arya:1998,
+title = "An optimal algorithm for approximate nearest neighbor searching fixed dimensions",
+author = "Arya, Sunil and Mount, David M. and Netanyahu, Nathan S. and Silverman, Ruth and Wu, Angela Y.",
+journal = "J. ACM",
+issue_date = "Nov. 1998",
+volume = "45",
+number = "6",
+month = nov,
+year = "1998",
+issn = "0004-5411",
+pages = "891--923",
+publisher = "ACM",
+address = "New York, NY, USA",
+keywords = "approximation algorithms, box-decomposition trees, closet-point queries, nearest neighbor searching, post-office problem, priority search"
+}
+
+@article{Aleksandrov:2005,
+ author = {Aleksandrov, L. and Maheshwari, A. and Sack, J.-R.},
+ title = {Determining approximate shortest paths on weighted polyhedral surfaces},
+ journal = {J. ACM},
+ issue_date = {January 2005},
+ volume = {52},
+ number = {1},
+ month = jan,
+ year = {2005},
+ issn = {0004-5411},
+ pages = {25--53},
+ numpages = {29},
+ url = {http://doi.acm.org/10.1145/1044731.1044733},
+ doi = {10.1145/1044731.1044733},
+ acmid = {1044733},
+ publisher = {ACM},
+ address = {New York, NY, USA},
+ keywords = {Design and analysis of algorithms, approximation algorithms, computational geometry, polyhedral surfaces, shortest path problems, weighted paths}
+}
+
+
+@article{Jolesz:1997,
+  Author	= {F.A. Jolesz and W.E. Lorensen and H. Shinmoto and H. Atsumi and S. Nakajima and P. Kavanaugh and P. Saiviroonporn and S.E. Seltzer and S.G. Silverman and M. Phillips and R. Kikinis},
+  Title		= {Interactive Virtual Endoscopy},
+  Year		= {1997},
+  Month	= {11},
+  Volume	= {169},
+  Number	= {5},
+  Pages	= {1229--1235},
+  Publisher	= {AJR Am J Roentgenol},
+  Institution	= {Department of Radiology/MRI, Harvard Medical School, Boston, MA 02115, USA.},
+  Sponsor	= {CA 05936 (CA) funded by NCI},
+  PubMedID	= {9353433}
+}
+
+
+
+
+@article {Bartesaghi:2001,
+author = {Bartesaghi, Alberto and Sapiro, Guillermo},
+title = {A system for the generation of curves on 3D brain images},
+journal = {Human Brain Mapping},
+volume = {14},
+number = {1},
+publisher = {John Wiley I\& Sons, Inc.},
+issn = {1097-0193},
+url = {http://dx.doi.org/10.1002/hbm.1037},
+doi = {10.1002/hbm.1037},
+pages = {1--15},
+keywords = {brain images, warping, sulci, gyri, geodesics, segmentation, triangulated surfaces, computational neuroscience},
+year = {2001}
+}
+
+
+@article{Bose:2011,
+title = "A survey of geodesic paths on 3D surfaces ",
+journal = "Computational Geometry ",
+volume = "44",
+number = "9",
+pages = "486 - 498",
+year = "2011",
+note = "",
+issn = "0925-7721",
+author = "Prosenjit Bose and Anil Maheshwari and Chang Shu and Stefanie Wuhrer",
+keywords = "Computational geometry",
+keywords = "Shortest paths",
+keywords = "Three-dimensional shortest paths",
+keywords = "Polyhedral surfaces "
+}
+
+
+@inproceedings{Chen:1990,
+author = {Chen, Jindong and Han, Yijie},
+title = {Shortest paths on a polyhedron},
+booktitle = {Proceedings of the sixth annual symposium on Computational geometry},
+series = {SCG '90},
+year = {1990},
+isbn = {0-89791-362-0},
+location = {Berkley, California, USA},
+pages = {360--369},
+numpages = {10},
+acmid = {98601},
+publisher = {ACM},
+address = {New York, NY, USA},
+}
+
+
+@book{golub-vanloan:1996,
+author = {Golub, Gene H. and Van Loan, Charles F.},
+day = {15},
+edition = {3rd},
+howpublished = {Paperback},
+isbn = {0801854148},
+keywords = {matrix, numerical-method},
+month = oct,
+posted-at = {2007-12-04 04:05:27},
+priority = {5},
+publisher = {The Johns Hopkins University Press},
+title = {{Matrix Computations (Johns Hopkins Studies in Mathematical Sciences)(3rd Edition)}},
+year = {1996}
+}
+
+@article{Farin:1989,
+author = {Farin, Gerald and Sapidis, Nickolas},
+title = {Curvature and the Fairness of Curves and Surfaces},
+journal = {IEEE Comput. Graph. Appl.},
+issue_date = {March 1989},
+volume = {9},
+number = {2},
+month = mar,
+year = {1989},
+issn = {0272-1716},
+pages = {52--57},
+numpages = {6},
+acmid = {617474},
+publisher = {IEEE Computer Society Press},
+address = {Los Alamitos, CA, USA},
+}
+
+@article{Hofer:2004,
+author = {Hofer, Michael and Pottmann, Helmut},
+title = {Energy-minimizing splines in manifolds},
+journal = {ACM Trans. Graph.},
+issue_date = {August 2004},
+volume = {23},
+number = {3},
+month = aug,
+year = {2004},
+issn = {0730-0301},
+pages = {284--293},
+numpages = {10},
+acmid = {1015716},
+publisher = {ACM},
+address = {New York, NY, USA},
+keywords = {geometric optimization, motion design, obstacle avoidance, splines in manifolds, variational curve design},
+}
+
+@article{Katz:2003,
+author = {Katz, Sagi and Tal, Ayellet},
+title = {Hierarchical mesh decomposition using fuzzy clustering and cuts},
+journal = {ACM Trans. Graph.},
+issue_date = {July 2003},
+volume = {22},
+number = {3},
+month = jul,
+year = {2003},
+issn = {0730-0301},
+pages = {954--961},
+numpages = {8},
+acmid = {882369},
+publisher = {ACM},
+address = {New York, NY, USA},
+keywords = {control-skeleton extraction, mesh decomposition, mesh segmentation}
+}
+
+@article{Kimmel:1998,
+author = {Kimmel, R. and Sethian, J. A.},
+title = {Computing geodesic paths on manifolds},
+volume = {95},
+number = {15},
+pages = {8431-8435},
+year = {1998},
+abstract ={The Fast Marching Method is a numerical algorithm for solving the Eikonal equation on a rectangular orthogonal mesh in O(M log M) steps, where M is the total number of grid points. In this paper we extend the Fast Marching Method to triangulated domains with the same computational complexity. As an application, we provide an optimal time algorithm for computing the geodesic distances and thereby extracting shortest paths on triangulated manifolds. },
+URL = {http://www.pnas.org/content/95/15/8431.abstract},
+eprint = {http://www.pnas.org/content/95/15/8431.full.pdf+html},
+journal = {Proceedings of the National Academy of Sciences}
+}
+
+@article {Lee:1999,
+author = {Lee, Seungyong},
+title = {Interactive Multiresolution Editing of Arbitrary Meshes},
+journal = {Computer Graphics Forum},
+volume = {18},
+number = {3},
+publisher = {Blackwell Publishers Ltd},
+issn = {1467-8659},
+pages = {73--82},
+keywords = {Physically Based Modeling, Surgery Simulation, Soft Tissue, Tetrahedralization, Interactive Cut, Virtual Scalpel, Runge Kutta Method},
+year = {1999}
+}
+
+
+@article{Memoli:2001,
+author = {M{\'e}moli, Facundo and Sapiro, Guillermo},
+title = {Fast computation of weighted distance functions and geodesics on implicit hyper-surfaces: 730},
+journal = {J. Comput. Phys.},
+issue_date = {November 1, 2001},
+volume = {173},
+number = {2},
+month = nov,
+year = {2001},
+issn = {0021-9991},
+pages = {764--},
+acmid = {511936},
+publisher = {Academic Press Professional, Inc.},
+address = {San Diego, CA, USA}
+}
+
+
+@article{Mitchell:1987,
+author = {Mitchell, Joseph S. B. and Mount, David M. and Papadimitriou, Christos H.},
+title = {The discrete geodesic problem},
+journal = {SIAM J. Comput.},
+issue_date = {Aug. 1987},
+volume = {16},
+number = {4},
+month = aug,
+year = {1987},
+issn = {0097-5397},
+pages = {647--668},
+numpages = {22},
+acmid = {33372},
+publisher = {Society for Industrial and Applied Mathematics},
+address = {Philadelphia, PA, USA}
+}
+
+
+
+@article{Peyre:2006,
+author = {Peyr{\'e}, Gabriel and Cohen, Laurent D.},
+title = {Geodesic Remeshing Using Front Propagation},
+journal = {Int. J. Comput. Vision},
+issue_date = {August    2006},
+volume = {69},
+number = {1},
+month = aug,
+year = {2006},
+issn = {0920-5691},
+pages = {145--156},
+numpages = {12},
+acmid = {1133794},
+publisher = {Kluwer Academic Publishers},
+address = {Hingham, MA, USA},
+keywords = {deformable models, fast marching algorithm, geodesic computation, mesh segmentation, remeshing, surface parameterization, texture mapping}
+}
+
+
+
+@book{Press:2001,
+author = {Press, William H. and Vetterling, William T. and Teukolsky, Saul A. and Flannery, Brian P.},
+title = {Numerical Recipes in C++: the art of scientific computing},
+year = {2002},
+isbn = {0-521-75033-4},
+edition = {2nd},
+publisher = {Cambridge University Press},
+address = {New York, NY, USA},
+}
+
+
+@inproceedings{Schreiber:2006,
+author = {Schreiber, Yevgeny and Sharir, Micha},
+title = {An optimal-time algorithm for shortest paths on a convex polytope in three dimensions},
+booktitle = {Proceedings of the twenty-second annual symposium on Computational geometry},
+series = {SCG '06},
+year = {2006},
+isbn = {1-59593-340-9},
+location = {Sedona, Arizona, USA},
+pages = {30--39},
+numpages = {10},
+acmid = {1137862},
+publisher = {ACM},
+address = {New York, NY, USA},
+keywords = {continuous Dijkstra, geodesics, polytope surface, shortest path, shortest path map, unfolding, wavefront},
+}
+
+
+@book{Sethian:1999,
+author = {Sethian, J. A.},
+day = {13},
+edition = {2},
+howpublished = {Paperback},
+isbn = {0521645573},
+keywords = {book, level-sets},
+month = jun,
+posted-at = {2007-08-20 11:34:12},
+priority = {0},
+publisher = {Cambridge University Press},
+title = {{Level Set Methods and Fast Marching Methods: Evolving Interfaces in Computational Geometry, Fluid Mechanics, Computer Vision, and Materials Science ... on Applied and Computational Mathematics)}},
+year = {1999}
+}
+
+
+
+@inproceedings{Sharir:1984,
+author = {Sharir, Micha and Schorr, Amir},
+title = {On shortest paths in polyhedral spaces},
+booktitle = {Proceedings of the sixteenth annual ACM symposium on Theory of computing},
+series = {STOC '84},
+year = {1984},
+isbn = {0-89791-133-4},
+pages = {144--153},
+numpages = {10},
+acmid = {808676},
+publisher = {ACM},
+address = {New York, NY, USA},
+}
+
+
+
+@article{Surazhsky:2005,
+author = {Surazhsky, Vitaly and Surazhsky, Tatiana and Kirsanov, Danil and Gortler, Steven J. and Hoppe, Hugues},
+title = {Fast exact and approximate geodesics on meshes},
+journal = {ACM Trans. Graph.},
+issue_date = {July 2005},
+volume = {24},
+number = {3},
+month = jul,
+year = {2005},
+issn = {0730-0301},
+pages = {553--560},
+numpages = {8},
+acmid = {1073228},
+publisher = {ACM},
+address = {New York, NY, USA},
+keywords = {geodesic distance, shortest path}
+}
+
+
+
+@article{Wandell:2000,
+author = {Wandell, Brian A. and Chial, Suelika and Backus, Benjamin T.},
+title = {Visualization and Measurement of the Cortical Surface},
+journal = {J. Cognitive Neuroscience},
+issue_date = {September 2000},
+volume = {12},
+number = {5},
+month = sep,
+year = {2000},
+issn = {0898-929X},
+pages = {739--752},
+numpages = {14},
+acmid = {1163493},
+publisher = {MIT Press},
+address = {Cambridge, MA, USA}
+}
+
+
+@article{Xin:2009,
+author = {Xin, Shi-Qing and Wang, Guo-Jin},
+title = {Improving Chen and Han's algorithm on the discrete geodesic problem},
+journal = {ACM Trans. Graph.},
+issue_date = {August 2009},
+volume = {28},
+number = {4},
+month = sep,
+year = {2009},
+issn = {0730-0301},
+pages = {104:1--104:8},
+articleno = {104},
+numpages = {8},
+acmid = {1559761},
+publisher = {ACM},
+address = {New York, NY, USA},
+keywords = {Design and analysis of algorithms, computational geometry, shortest path problems}
+}
+
+@article{fuhrmann-2003-interaction,
+        author = {Fuhrmann, A. and Gro{\ss}, C. and Luckas, V. and Weber, Andreas},
+         pages = {71--82},
+         title = {Interaction Free Dressing of Virtual Humans},
+       journal = {Computers and Graphics},
+        volume = {27},
+        number = {1},
+          year = {2003},
+  howpublished = {http://www.elsevier.com/gej-ng/10/13/20/95/25/33/abstract.html},
+          note = {Best Paper Award Computers \& Graphics 2003},
+      keywords = {Interaction Free Dressing, Virtual Humans},
+           doi = {10.1016/S0097-8493(02)00245-5}
+}
+
+@inproceedings{Thomaszewski:2006,
+ author = {Thomaszewski, Bernhard and Wacker, Markus and Stra\sser, Wolfgang},
+ title = {A consistent bending model for cloth simulation with corotational subdivision finite elements},
+ booktitle = {Proceedings of the 2006 ACM SIGGRAPH/Eurographics symposium on Computer animation},
+ series = {SCA '06},
+ year = {2006},
+ isbn = {3-905673-34-7},
+ location = {Vienna, Austria},
+ pages = {107--116},
+ numpages = {10},
+ url = {http://dl.acm.org/citation.cfm?id=1218064.1218079},
+ acmid = {1218079},
+ publisher = {Eurographics Association},
+ address = {Aire-la-Ville, Switzerland, Switzerland},
+ keywords = {cloth simulation, finite elements, polar decomposition, subdivision surfaces, thin shells}
+} 
+
+@inproceedings{GroB:2003,
+ author = {Gro\ss, Clemens and Fuhrmann, Arnulph and Luckas, Volker},
+ title = {Automatic pre-positioning of virtual clothing},
+ booktitle = {Proceedings of the 19th spring conference on Computer graphics},
+ series = {SCCG '03},
+ year = {2003},
+ isbn = {1-58113-861-X},
+ location = {Budmerice, Slovakia},
+ pages = {99--108},
+ numpages = {10},
+ url = {http://doi.acm.org/10.1145/984952.984970},
+ doi = {10.1145/984952.984970},
+ acmid = {984970},
+ publisher = {ACM},
+ address = {New York, NY, USA},
+ keywords = {cloth modeling, physically based simulation}
+} 
+
+@inproceedings{Baraff:1998,
+ author = {Baraff, David and Witkin, Andrew},
+ title = {Large steps in cloth simulation},
+ booktitle = {Proceedings of the 25th annual conference on Computer graphics and interactive techniques},
+ series = {SIGGRAPH '98},
+ year = {1998},
+ isbn = {0-89791-999-8},
+ pages = {43--54},
+ numpages = {12},
+ url = {http://doi.acm.org/10.1145/280814.280821},
+ doi = {10.1145/280814.280821},
+ acmid = {280821},
+ publisher = {ACM},
+ address = {New York, NY, USA},
+ keywords = {cloth, constraints, implicit integration, physically-based modeling, simulation}
+} 
+
+@article{DJWBSC06,
+  author       = "Decaudin, Philippe and Julius, Dan and Wither, Jamie and Boissieux, Laurence and Sheffer, Alla and Cani, Marie-Paule",
+  title        = "Virtual Garments: A Fully Geometric Approach for Clothing Design",
+  journal      = "Computer Graphics Forum (Eurographics'06 proc.)",
+  number       = "3",
+  volume       = "25",
+  month        = "sep",
+  year         = "2006",
+  keywords     = "geometric modeling of garments, developable surfaces, procedural models, buckling",
+  url          = "http://evasion.imag.fr/Publications/2006/DJWBSC06"
+}
+
+@MISC{Divivier_virtualtryon,
+    author = {A. Divivier and Dr. R. Trieb and A. Ebert and Prof Dr and H. Hagen and C. Gross and A. Fuhrmann and Dr. V. Luckas and Prof Dr. -ing and J. L. Encarnação and E. Kirchdörfer and S. Kimmerle and M. Keckeisen and Dr. M. Wacker and Prof Dr and W. Strasser and Ralf Sarlette and Prof Dr and R. Klein},
+    title = {Virtual Try-On Topics in Realistic, Individualized Dressing in Virtual Reality},
+    year = {2012}
+}
+
+@book{House:2000,
+ editor = {House, Donald H. and Breen, David E.},
+ title = {Cloth modeling and animation},
+ year = {2000},
+ isbn = {1-56881-090-3},
+ publisher = {A. K. Peters, Ltd.},
+ address = {Natick, MA, USA}
+} 
+
+
+@INPROCEEDINGS{Zhang883956, 
+author={Dongliang Zhang and Yuen, M.M.-F.}, 
+booktitle={Computer Graphics and Applications, 2000. Proceedings. The Eighth Pacific Conference on}, 
+title={Collision detection for clothed human animation}, 
+year={2000}, 
+pages={328-337}, 
+keywords={collision avoidance;computational geometry;computer animation;auxiliary line segments;cloth animation;clothed human animation;collision detection;curvature;fast voxelization;multilayer methods;self-collision detection method;voxel size;voxel-based collision detection method;Animation;Biological system modeling;Computational efficiency;Computational geometry;Computational modeling;Computer graphics;Design automation;Detection algorithms;Humans;Robots}, 
+doi={10.1109/PCCGA.2000.883956},}
+
+@misc{wacker2001AClothModelling,
+    author = "Etzmuß, Olaf and Hauth, Michael and Kimmerle, Stefan and Mezger, Johannes and Wacker, Markus",
+    url = "http://citeseerx.ist.psu.edu/viewdoc/download?rep=rep1&type=pdf&doi=10.1.1.20.2682",
+    year = "2001",
+    title = "A Cloth Modelling System for Animated Characters"
+}
+
+@inproceedings{Fontana:2004,
+ author = {Fontana, M. and Rizzi, C. and Cugini, U.},
+ title = {Physics-based Modelling and Simulation of Functional Cloth for Virtual Prototyping Applications},
+ booktitle = {Proceedings of the Ninth ACM Symposium on Solid Modeling and Applications},
+ series = {SM '04},
+ year = {2004},
+ isbn = {3-905673-55-X},
+ location = {Genoa, Italy},
+ pages = {267--272},
+ numpages = {6},
+ url = {http://dl.acm.org/citation.cfm?id=1217875.1217917},
+ acmid = {1217917},
+ publisher = {Eurographics Association},
+ address = {Aire-la-Ville, Switzerland, Switzerland}
+} 
+
+@ARTICLE{Ng536273, 
+author={Ng, H.N. and Grimsdale, R.L.}, 
+journal={Computer Graphics and Applications, IEEE}, 
+title={Computer graphics techniques for modeling cloth}, 
+year={1996}, 
+volume={16}, 
+number={5}, 
+pages={28-41}, 
+keywords={CAD/CAM;engineering graphics;realistic images;textile industry;cloth modeling techniques;computer graphics techniques;future research directions;geometrical method;hybrid method;physical accuracy;physical method;publication chronology;survey;textile engineering;visual realism;Animation;CADCAM;Clothing industry;Computer aided manufacturing;Computer graphics;Hardware;Humans;Shape;Solid modeling;Textile industry}, 
+doi={10.1109/38.536273}, 
+ISSN={0272-1716}
+}
+
+@article{Wang:2010:EWS:1778765.1778844,
+ author = {Wang, Huamin and Hecht, Florian and Ramamoorthi, Ravi and O'Brien, James},
+ title = {Example-based wrinkle synthesis for clothing animation},
+ journal = {ACM Trans. Graph.},
+ issue_date = {July 2010},
+ volume = {29},
+ number = {4},
+ month = jul,
+ year = {2010},
+ issn = {0730-0301},
+ pages = {107:1--107:8},
+ articleno = {107},
+ numpages = {8},
+ url = {http://doi.acm.org/10.1145/1778765.1778844},
+ doi = {10.1145/1778765.1778844},
+ acmid = {1778844},
+ publisher = {ACM},
+ address = {New York, NY, USA},
+ keywords = {cloth simulation, clothing animation, example-based animation, precomputed animation, wrinkles}
+} 
+
+@inproceedings{Cordier:2004,
+ author = {Cordier, Frederic and Magnenat-Thalmann, Nadia},
+ title = {A Data-Driven Approach for Real-Time Clothes Simulation},
+ booktitle = {Proceedings of the Computer Graphics and Applications, 12th Pacific Conference},
+ series = {PG '04},
+ year = {2004},
+ isbn = {0-7695-2234-3},
+ pages = {257--266},
+ numpages = {10},
+ url = {http://dl.acm.org/citation.cfm?id=1025128.1026049},
+ acmid = {1026049},
+ publisher = {IEEE Computer Society},
+ address = {Washington, DC, USA}
+} 
+
+@inproceedings{Cutler:2005,
+ author = {Cutler, Lawrence D. and Gershbein, Reid and Wang, Xiaohuan Corina and Curtis, Cassidy and Maigret, Erwan and Prasso, Luca and Farson, Peter},
+ title = {An art-directed wrinkle system for CG character clothing},
+ booktitle = {Proceedings of the 2005 ACM SIGGRAPH/Eurographics symposium on Computer animation},
+ series = {SCA '05},
+ year = {2005},
+ isbn = {1-59593-198-8},
+ location = {Los Angeles, California},
+ pages = {117--125},
+ numpages = {9},
+ url = {http://doi.acm.org/10.1145/1073368.1073384},
+ doi = {10.1145/1073368.1073384},
+ acmid = {1073384},
+ publisher = {ACM},
+ address = {New York, NY, USA}
+} 
+
+@inproceedings{Chittaro:2003,
+ author = {Chittaro, Luca and Corvaglia, Demis},
+ title = {3D virtual clothing: from garment design to web3d visualization and simulation},
+ booktitle = {Proceedings of the eighth international conference on 3D Web technology},
+ series = {Web3D '03},
+ year = {2003},
+ isbn = {1-58113-644-7},
+ location = {Saint Malo, France},
+ pages = {73--ff},
+ url = {http://doi.acm.org/10.1145/636593.636605},
+ doi = {10.1145/636593.636605},
+ acmid = {636605},
+ publisher = {ACM},
+ address = {New York, NY, USA},
+ keywords = {CAD tools for garment design, VRML/Java, XML, cross-application data exchange format for the textile industry, physically-based simulation, product visualization, virtual clothing}
+} 
+
+@inproceedings{KeckeisenFW04,
+  added-at = {2006-03-02T00:00:00.000+0100},
+  author = {Keckeisen, Michael and Feurer, Matthias and Wacker, Markus},
+  biburl = {http://www.bibsonomy.org/bibtex/290db3a4627170660c8b7033ff6767157/dblp},
+  booktitle = {VRST},
+  crossref = {conf/vrst/2004},
+  date = {2006-03-02},
+  description = {dblp},
+  editor = {Lau, Rynson W. H. and Baciu, George},
+  ee = {http://doi.acm.org/10.1145/1077534.1077572},
+  interhash = {cbd26478cae486bcae5eb7f5d0e98238},
+  intrahash = {90db3a4627170660c8b7033ff6767157},
+  isbn = {1-58113-907-1},
+  keywords = {dblp},
+  pages = {182-185},
+  publisher = {ACM},
+  timestamp = {2006-03-02T00:00:00.000+0100},
+  title = {Tailor tools for interactive design of clothing in virtual environments.},
+  url = {http://dblp.uni-trier.de/db/conf/vrst/vrst2004.html#KeckeisenFW04},
+  year = 2004
+}
+
+@INPROCEEDINGS{4407832, 
+author={Magnenat-Thalmann, N. and Luible, C. and Volino, P. and Lyard, E.}, 
+booktitle={Computer-Aided Design and Computer Graphics, 2007 10th IEEE International Conference on}, 
+title={From Measured Fabric to the Simulation of Cloth}, 
+year={2007}, 
+pages={7-18}, 
+keywords={clothing industry;fabrics;cloth features;cloth simulation;measured fabric;simulated garment;Clothing;Computational modeling;Deformable models;Elasticity;Fabrics;Mechanical factors;Shape;Textile fibers;Viscosity;Yarn}, 
+doi={10.1109/CADCG.2007.4407832}
+}
+
+@inproceedings{Metaaphanon:2005:RCS:1101389.1101404,
+ author = {Metaaphanon, Napaporn and Kanongchaiyos, Pizzanu},
+ title = {Real-time cloth simulation for garment CAD},
+ booktitle = {Proceedings of the 3rd international conference on Computer graphics and interactive techniques in Australasia and South East Asia},
+ series = {GRAPHITE '05},
+ year = {2005},
+ isbn = {1-59593-201-1},
+ location = {Dunedin, New Zealand},
+ pages = {83--89},
+ numpages = {7},
+ url = {http://doi.acm.org/10.1145/1101389.1101404},
+ doi = {10.1145/1101389.1101404},
+ acmid = {1101404},
+ publisher = {ACM},
+ address = {New York, NY, USA},
+ keywords = {cellular structured space, cloth model, garment model, human model mass-spring model}
+} 
+
+@article{DRAPE2012,
+  title = {DRAPE: DRessing Any PErson},
+  author = {Guan, P. and Reiss, L. and Hirshberg, D. and Weiss, A. and Black, M. J.},
+  month = jul,
+  number = {4},
+  volume = {31},
+  pages = {35:1--35:10},
+  journal = {ACM Trans. on Graphics (Proc. SIGGRAPH)},
+  year = {2012}
+}
+
+@article{brouet:hal-00695903,
+    hal_id = {hal-00695903},
+    url = {http://hal.inria.fr/hal-00695903},
+    title = {{Design Preserving Garment Transfer}},
+    author = {Brouet, R{\'e}mi and Sheffer, Alla and Boissieux, Laurence and Cani, Marie-Paule},
+    keywords = {Garment Modeling, Geometry Processing, Transfer},
+    language = {Anglais},
+    booktitle = {{SIGGRAPH 2012}},
+    publisher = {ACM},
+    journal = {ACM Transactions on Graphics},
+    audience = {internationale },
+    doi = {10.1145/2185520.2185532 },
+    year = {2012},
+    month = Aug,
+    pdf = {http://hal.inria.fr/hal-00695903/PDF/GarmentTransfer.pdf}
+}
+
+@article{Kavan-11-CUP,
+  author       = {Ladislav Kavan and Dan Gerszewski and Adam Bargteil and Peter-Pike Sloan},
+  title        = {Physics-inspired Upsampling for Cloth Simulation in Games},
+  journal      = {ACM Trans. Graph.},
+  volume       = {30},
+  number       = {4},
+  year         = {2011},
+  publisher    = {ACM Press},
+  pages        = {93:1--93:9},
+  address      = {New York, NY, USA},
+}
+
+@article{Volino:2009:SAN:1559755.1559762,
+ author = {Volino, Pascal and Magnenat-Thalmann, Nadia and Faure, Francois},
+ title = {A simple approach to nonlinear tensile stiffness for accurate cloth simulation},
+ journal = {ACM Trans. Graph.},
+ issue_date = {August 2009},
+ volume = {28},
+ number = {4},
+ month = sep,
+ year = {2009},
+ issn = {0730-0301},
+ pages = {105:1--105:16},
+ articleno = {105},
+ numpages = {16},
+ url = {http://doi.acm.org/10.1145/1559755.1559762},
+ doi = {10.1145/1559755.1559762},
+ acmid = {1559762},
+ publisher = {ACM},
+ address = {New York, NY, USA},
+ keywords = {Particle systems, cloth simulation, finite elements, mechanical simulation}
+} 
+
+@inproceedings{Hadap:1999:AWC:319351.319372,
+ author = {Hadap, Sunil and Bangerter, Endre and Volino, Pascal and Magnenat-Thalmann, Nadia},
+ title = {Animating wrinkles on clothes},
+ booktitle = {Proceedings of the conference on Visualization '99: celebrating ten years},
+ series = {VIS '99},
+ year = {1999},
+ isbn = {0-7803-5897-X},
+ location = {San Francisco, California, USA},
+ pages = {175--182},
+ numpages = {8},
+ url = {http://dl.acm.org/citation.cfm?id=319351.319372},
+ acmid = {319372},
+ publisher = {IEEE Computer Society Press},
+ address = {Los Alamitos, CA, USA},
+ keywords = {cloth modeling, deformable models, wrinkle modeling}
+} 
+
+@article{Kunii1990,
+year={1990},
+issn={0178-2789},
+journal={The Visual Computer},
+volume={6},
+number={6},
+doi={10.1007/BF01901019},
+title={Singularity theoretical modeling and animation of garment wrinkle formation processes},
+url={http://dx.doi.org/10.1007/BF01901019},
+publisher={Springer-Verlag},
+keywords={Soft objects; Garment wrinkle formation; Singularity theory; Metric invariant deformation; Approximation},
+author={Kunii, TosiyasuL. and Gotoda, Hironobu},
+pages={326-336},
+language={English}
+}
+
+@book{volino2000virtual,
+  title={Virtual Clothing: Theory and Practice},
+  author={Volino, P. and Thalmann, N.M.},
+  isbn={9783540676003},
+  lccn={00057364},
+  url={http://books.google.co.uk/books?id=gTjXsxIkTCYC},
+  year={2000},
+  publisher={Springer-Verlag GmbH}
+}
+
+
+@article{Thielhelm2012,
+year={2012},
+issn={0178-2789},
+journal={The Visual Computer},
+volume={28},
+number={6-8},
+doi={10.1007/s00371-012-0681-4},
+title={Connecting geodesics on smooth surfaces},
+url={http://dx.doi.org/10.1007/s00371-012-0681-4},
+publisher={Springer-Verlag},
+keywords={Shortest paths; Distance computation; Geodesics; Homotopy method; Focal curves},
+author={Thielhelm, Hannes and Vais, Alexander and Brandes, Daniel and Wolter, Franz-Erich},
+pages={529-539},
+language={English}
+}
+
+@inproceedings{Ruggeri:2006,
+ author = {Ruggeri, M. R. and Darom, T. and Saupe, D. and Kiryati, N.},
+ title = {Approximating geodesics on point set surfaces},
+ booktitle = {Proceedings of the 3rd Eurographics / IEEE VGTC conference on Point-Based Graphics},
+ series = {SPBG'06},
+ year = {2006},
+ isbn = {3-905673-32-0},
+ location = {Boston, Massachusetts},
+ pages = {85--94},
+ numpages = {10},
+ url = {http://dx.doi.org/10.2312/SPBG/SPBG06/085-093},
+ doi = {10.2312/SPBG/SPBG06/085-093},
+ acmid = {2386400},
+ publisher = {Eurographics Association},
+ address = {Aire-la-Ville, Switzerland, Switzerland}
+} 

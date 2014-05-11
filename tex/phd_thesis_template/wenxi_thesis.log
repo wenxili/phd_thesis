@@ -1,0 +1,2028 @@
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2014.4.21)  11 MAY 2014 19:42
+entering extended mode
+**wenxi_thesis.tex
+
+("D:\dropBox\Dropbox\New folder\wli_final_thesis\tex\phd_thesis_template\wenxi_
+thesis.tex"
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
+abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
+croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, ga
+lician, german, german-x-2012-05-30, greek, gujarati, hindi, hungarian, iceland
+ic, indonesian, interlingua, irish, italian, kannada, kurmanji, latin, latvian,
+ lithuanian, malayalam, marathi, mongolian, mongolianlmc, monogreek, ngerman, n
+german-x-2012-05-30, nynorsk, oriya, panjabi, pinyin, polish, portuguese, roman
+ian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swissgerm
+an, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, usengl
+ishmax, welsh, loaded.
+
+("D:\dropBox\Dropbox\New folder\wli_final_thesis\tex\phd_thesis_template\format
+/format-setup.tex" ("d:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\report.cl
+s"
+Document Class: report 2007/10/19 v1.4h Standard LaTeX document class
+("d:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\size12.clo"
+File: size12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("d:\Program Files (x86)\MiKTeX 2.9\tex\latex\geometry\geometry.sty"
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+("d:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+("d:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+("d:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ifvtex.sty"
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+("d:\Program Files (x86)\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count88
+\Gm@cntv=\count89
+\c@Gm@tempcnt=\count90
+\Gm@bindingoffset=\dimen103
+\Gm@wd@mp=\dimen104
+\Gm@odd@mp=\dimen105
+\Gm@even@mp=\dimen106
+\Gm@layoutwidth=\dimen107
+\Gm@layoutheight=\dimen108
+\Gm@layouthoffset=\dimen109
+\Gm@layoutvoffset=\dimen110
+\Gm@dimlist=\toks15
+
+("d:\Program Files (x86)\MiKTeX 2.9\tex\latex\geometry\geometry.cfg"))
+("d:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\times.sty"
+Package: times 2005/04/12 PSNFSS-v9.2a (SPQR) 
+)
+(C:\Users\wli.STAFF.009\AppData\Roaming\MiKTeX\2.9\tex\latex\caption\caption.st
+y
+Package: caption 2013/04/14 v3.3-73 Customizing captions (AR)
+
+(C:\Users\wli.STAFF.009\AppData\Roaming\MiKTeX\2.9\tex\latex\caption\caption3.s
+ty
+Package: caption3 2013/04/14 v1.5-71 caption3 kernel (AR)
+\captionmargin=\dimen111
+\captionmargin@=\dimen112
+\captionwidth=\dimen113
+\caption@tempdima=\dimen114
+\caption@indent=\dimen115
+\caption@parindent=\dimen116
+\caption@hangindent=\dimen117
+)
+\c@ContinuedFloat=\count91
+)
+(C:\Users\wli.STAFF.009\AppData\Roaming\MiKTeX\2.9\tex\latex\footmisc\footmisc.
+sty
+Package: footmisc 2011/06/06 v5.5b a miscellany of footnote facilities
+\FN@temptoken=\toks16
+\footnotemargin=\dimen118
+\c@pp@next@reset=\count92
+Package footmisc Info: Declaring symbol style bringhurst on input line 855.
+Package footmisc Info: Declaring symbol style chicago on input line 863.
+Package footmisc Info: Declaring symbol style wiley on input line 872.
+Package footmisc Info: Declaring symbol style lamport-robust on input line 883.
+
+Package footmisc Info: Declaring symbol style lamport* on input line 903.
+Package footmisc Info: Declaring symbol style lamport*-robust on input line 924
+.
+) ("d:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\hyperref.sty"
+Package: hyperref 2012/11/06 v6.83m Hypertext links for LaTeX
+
+("d:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\hobsub-hyperref.sty"
+Package: hobsub-hyperref 2012/04/25 v1.12 Bundle oberdiek, subset hyperref (HO)
+
+
+("d:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\hobsub-generic.sty"
+Package: hobsub-generic 2012/04/25 v1.12 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2012/04/25 v1.12 Construct package bundles (HO)
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+Package hobsub Info: Skipping package `ifvtex' (already loaded).
+Package: intcalc 2007/09/27 v1.1 Expandable calculations with integers (HO)
+Package hobsub Info: Skipping package `ifpdf' (already loaded).
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+Package: pdfescape 2011/11/25 v1.13 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2012/04/08 v1.3 Expandable calculations on big integers (HO
+)
+Package: bitset 2011/01/30 v1.1 Handle bit-vector datatype (HO)
+Package: uniquecounter 2011/01/30 v1.2 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2010/09/02 v1.4 Let assignment for LaTeX macros (HO)
+Package: hopatch 2011/06/24 v1.1 Wrapper for package hooks (HO)
+Package: xcolor-patch 2011/01/30 xcolor patch
+Package: atveryend 2011/06/30 v1.8 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
+Package: refcount 2011/10/16 v3.4 Data extraction from label references (HO)
+Package: hycolor 2011/01/30 v1.7 Color options for hyperref/bookmark (HO)
+)
+("d:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\auxhook.sty"
+Package: auxhook 2011/03/04 v1.3 Hooks for auxiliary files (HO)
+)
+("d:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+)
+\@linkdim=\dimen119
+\Hy@linkcounter=\count93
+\Hy@pagecounter=\count94
+
+("d:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\pd1enc.def"
+File: pd1enc.def 2012/11/06 v6.83m Hyperref: PDFDocEncoding definition (HO)
+)
+\Hy@SavedSpaceFactor=\count95
+
+("d:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\hyperref.cfg"
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Hyper figures OFF on input line 4443.
+Package hyperref Info: Link nesting OFF on input line 4448.
+Package hyperref Info: Hyper index ON on input line 4451.
+Package hyperref Info: Plain pages OFF on input line 4458.
+Package hyperref Info: Backreferencing OFF on input line 4463.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4688.
+\c@Hy@tempcnt=\count96
+
+("d:\Program Files (x86)\MiKTeX 2.9\tex\latex\ltxmisc\url.sty"
+\Urlmuskip=\muskip10
+Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5041.
+\XeTeXLinkMargin=\dimen120
+\Fld@menulength=\count97
+\Field@Width=\dimen121
+\Fld@charsize=\dimen122
+Package hyperref Info: Hyper figures OFF on input line 6295.
+Package hyperref Info: Link nesting OFF on input line 6300.
+Package hyperref Info: Hyper index ON on input line 6303.
+Package hyperref Info: backreferencing OFF on input line 6310.
+Package hyperref Info: Link coloring OFF on input line 6315.
+Package hyperref Info: Link coloring with OCG OFF on input line 6320.
+Package hyperref Info: PDF/A mode OFF on input line 6325.
+LaTeX Info: Redefining \ref on input line 6365.
+LaTeX Info: Redefining \pageref on input line 6369.
+\Hy@abspage=\count98
+\c@Item=\count99
+\c@Hfootnote=\count100
+)
+
+Package hyperref Message: Driver (autodetected): hpdftex.
+
+("d:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\hpdftex.def"
+File: hpdftex.def 2012/11/06 v6.83m Hyperref driver for pdfTeX
+\Fld@listcount=\count101
+\c@bookmark@seq@number=\count102
+
+("d:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\rerunfilecheck.sty"
+Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+)
+\Hy@SectionHShift=\skip43
+)
+("d:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\bookmark.sty"
+Package: bookmark 2011/12/02 v1.24 PDF bookmarks (HO)
+
+("d:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\bkm-pdftex.def"
+File: bkm-pdftex.def 2011/12/02 v1.24 bookmark driver for pdfTeX (HO)
+\BKM@id=\count103
+))
+(C:\Users\wli.STAFF.009\AppData\Roaming\MiKTeX\2.9\tex\latex\fancyhdr\fancyhdr.
+sty
+\fancy@headwidth=\skip44
+\f@ncyO@elh=\skip45
+\f@ncyO@erh=\skip46
+\f@ncyO@olh=\skip47
+\f@ncyO@orh=\skip48
+\f@ncyO@elf=\skip49
+\f@ncyO@erf=\skip50
+\f@ncyO@olf=\skip51
+\f@ncyO@orf=\skip52
+) ("d:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+("d:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+("d:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+("d:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+("d:\Program Files (x86)\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+\Gread@gobject=\count104
+))
+\Gin@req@height=\dimen123
+\Gin@req@width=\dimen124
+)
+("d:\Program Files (x86)\MiKTeX 2.9\tex\latex\ltxmisc\parskip.sty"
+Package: parskip 2001/04/09 non-zero parskip adjustments
+)
+(C:\Users\wli.STAFF.009\AppData\Roaming\MiKTeX\2.9\tex\latex\tocloft\tocloft.st
+y
+Package: tocloft 2013/05/02 v2.3f parameterised ToC, etc., typesetting
+Package tocloft Info: The document has chapter divisions on input line 44.
+\cftparskip=\skip53
+\cftbeforetoctitleskip=\skip54
+\cftaftertoctitleskip=\skip55
+\cftbeforepartskip=\skip56
+\cftpartnumwidth=\skip57
+\cftpartindent=\skip58
+\cftbeforechapskip=\skip59
+\cftchapindent=\skip60
+\cftchapnumwidth=\skip61
+\cftbeforesecskip=\skip62
+\cftsecindent=\skip63
+\cftsecnumwidth=\skip64
+\cftbeforesubsecskip=\skip65
+\cftsubsecindent=\skip66
+\cftsubsecnumwidth=\skip67
+\cftbeforesubsubsecskip=\skip68
+\cftsubsubsecindent=\skip69
+\cftsubsubsecnumwidth=\skip70
+\cftbeforeparaskip=\skip71
+\cftparaindent=\skip72
+\cftparanumwidth=\skip73
+\cftbeforesubparaskip=\skip74
+\cftsubparaindent=\skip75
+\cftsubparanumwidth=\skip76
+\cftbeforeloftitleskip=\skip77
+\cftafterloftitleskip=\skip78
+\cftbeforefigskip=\skip79
+\cftfigindent=\skip80
+\cftfignumwidth=\skip81
+\c@lofdepth=\count105
+\c@lotdepth=\count106
+\cftbeforelottitleskip=\skip82
+\cftafterlottitleskip=\skip83
+\cftbeforetabskip=\skip84
+\cfttabindent=\skip85
+\cfttabnumwidth=\skip86
+) ("d:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\array.sty"
+Package: array 2008/09/09 v2.4c Tabular extension package (FMi)
+\col@sep=\dimen125
+\extrarowheight=\dimen126
+\NC@list=\toks17
+\extratabsurround=\skip87
+\backup@length=\skip88
+)
+("d:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\longtable.sty"
+Package: longtable 2004/02/01 v4.11 Multi-page Table package (DPC)
+\LTleft=\skip89
+\LTright=\skip90
+\LTpre=\skip91
+\LTpost=\skip92
+\LTchunksize=\count107
+\LTcapwidth=\dimen127
+\LT@head=\box26
+\LT@firsthead=\box27
+\LT@foot=\box28
+\LT@lastfoot=\box29
+\LT@cols=\count108
+\LT@rows=\count109
+\c@LT@tables=\count110
+\c@LT@chunks=\count111
+\LT@p@ftn=\toks18
+)
+(C:\Users\wli.STAFF.009\AppData\Roaming\MiKTeX\2.9\tex\latex\wrapfig\wrapfig.st
+y
+\wrapoverhang=\dimen128
+\WF@size=\dimen129
+\c@WF@wrappedlines=\count112
+\WF@box=\box30
+\WF@everypar=\toks19
+Package: wrapfig 2003/01/31  v 3.6
+)
+(C:\Users\wli.STAFF.009\AppData\Roaming\MiKTeX\2.9\tex\latex\caption\subcaption
+.sty
+Package: subcaption 2013/02/03 v1.1-62 Sub-captions (AR)
+\c@subfigure=\count113
+\c@subtable=\count114
+) ("d:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\color.sty"
+Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
+
+("d:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\color.cfg"
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: pdftex.def on input line 130.
+)
+(C:\Users\wli.STAFF.009\AppData\Roaming\MiKTeX\2.9\tex\latex\setspace\setspace.
+sty
+Package: setspace 2011/12/19 v6.7a set line spacing
+) ("d:\Program Files (x86)\MiKTeX 2.9\tex\latex\multirow\multirow.sty"
+\bigstrutjot=\dimen130
+)
+("d:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty"
+Package: amsmath 2013/01/14 v2.14 AMS math features
+\@mathmargin=\skip93
+
+For additional information on amsmath, use the `?' option.
+("d:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amstext.sty"
+Package: amstext 2000/06/29 v2.01
+
+("d:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty"
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks20
+\ex@=\dimen131
+))
+("d:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty"
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen132
+)
+("d:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty"
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count115
+LaTeX Info: Redefining \frac on input line 210.
+\uproot@=\count116
+\leftroot@=\count117
+LaTeX Info: Redefining \overline on input line 306.
+\classnum@=\count118
+\DOTSCASE@=\count119
+LaTeX Info: Redefining \ldots on input line 378.
+LaTeX Info: Redefining \dots on input line 381.
+LaTeX Info: Redefining \cdots on input line 466.
+\Mathstrutbox@=\box31
+\strutbox@=\box32
+\big@size=\dimen133
+LaTeX Font Info:    Redeclaring font encoding OML on input line 566.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
+\macc@depth=\count120
+\c@MaxMatrixCols=\count121
+\dotsspace@=\muskip11
+\c@parentequation=\count122
+\dspbrk@lvl=\count123
+\tag@help=\toks21
+\row@=\count124
+\column@=\count125
+\maxfields@=\count126
+\andhelp@=\toks22
+\eqnshift@=\dimen134
+\alignsep@=\dimen135
+\tagshift@=\dimen136
+\tagwidth@=\dimen137
+\totwidth@=\dimen138
+\lineht@=\dimen139
+\@envbody=\toks23
+\multlinegap=\skip94
+\multlinetaggap=\skip95
+\mathdisplay@stack=\toks24
+LaTeX Info: Redefining \[ on input line 2665.
+LaTeX Info: Redefining \] on input line 2666.
+)
+("d:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.sty"
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)
+("d:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\alltt.sty"
+Package: alltt 1997/06/16 v2.0g defines alltt environment
+)
+(C:\Users\wli.STAFF.009\AppData\Roaming\MiKTeX\2.9\tex\latex\algorithmicx\algor
+ithmicx.sty
+Package: algorithmicx 2005/04/27 v1.2 Algorithmicx
+ ("d:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\ifthen.sty"
+Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
+)
+Document Style algorithmicx 1.2 - a greatly improved `algorithmic' style
+\c@ALG@line=\count127
+\c@ALG@rem=\count128
+\c@ALG@nested=\count129
+\ALG@tlm=\skip96
+\ALG@thistlm=\skip97
+\c@ALG@Lnr=\count130
+\c@ALG@blocknr=\count131
+\c@ALG@storecount=\count132
+\c@ALG@tmpcounter=\count133
+\ALG@tmplength=\skip98
+)
+(C:\Users\wli.STAFF.009\AppData\Roaming\MiKTeX\2.9\tex\latex\algorithms\algorit
+hm.sty
+Package: algorithm 2009/08/24 v0.1 Document Style `algorithm' - floating enviro
+nment
+ ("d:\Program Files (x86)\MiKTeX 2.9\tex\latex\float\float.sty"
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count134
+\float@exts=\toks25
+\float@box=\box33
+\@float@everytoks=\toks26
+\@floatcapt=\box34
+)
+\@float@every@algorithm=\toks27
+\c@algorithm=\count135
+)
+(C:\Users\wli.STAFF.009\AppData\Roaming\MiKTeX\2.9\tex\latex\algorithmicx\algpa
+scal.sty
+Package: algpascal 
+
+Document Style - pascal environments for the `algorithmicx' style
+)
+(C:\Users\wli.STAFF.009\AppData\Roaming\MiKTeX\2.9\tex\latex\algorithmicx\algc.
+sty
+Package: algc 
+
+Document Style - c/c++ environments for use with the `algorithmicx' style
+)
+(C:\Users\wli.STAFF.009\AppData\Roaming\MiKTeX\2.9\tex\latex\algorithmicx\algco
+mpatible.sty
+Package: algcompatible 
+
+Document Style - algorithmic compatible environments for the `algorithmicx' sty
+le
+)
+(C:\Users\wli.STAFF.009\AppData\Roaming\MiKTeX\2.9\tex\latex\algorithmicx\algps
+eudocode.sty
+Package: algpseudocode 
+
+Document Style - pseudocode environments for use with the `algorithmicx' style
+)
+(C:\Users\wli.STAFF.009\AppData\Roaming\MiKTeX\2.9\tex\latex\linegoal\linegoal.
+sty
+Package: linegoal 2011/02/25 v2.9 - Measuring the remaining width of the line
+ ("d:\Program Files (x86)\MiKTeX 2.9\tex\latex\misc\etex.sty"
+Package: etex 1998/03/26 v2.0 eTeX basic definition package (PEB)
+\et@xins=\count136
+)
+("d:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\zref.sty"
+Package: zref 2012/04/04 v2.24 A new reference scheme for LaTeX (HO)
+
+("d:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\zref-base.sty"
+Package: zref-base 2012/04/04 v2.24 Module base for zref (HO)
+Package zref Info: New property list: main on input line 759.
+Package zref Info: New property: default on input line 760.
+Package zref Info: New property: page on input line 761.
+))
+("d:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\zref-savepos.sty"
+Package: zref-savepos 2012/04/04 v2.24 Module savepos for zref (HO)
+Package zref Info: New property list: savepos on input line 75.
+Package zref Info: New property: posx on input line 76.
+Package zref Info: New property: posy on input line 77.
+)
+Package zref Info: New property: linegoal on input line 39.
+\LNGL@unique=\count277
+\LNGL@tempdim=\dimen256
+)
+(C:\Users\wli.STAFF.009\AppData\Roaming\MiKTeX\2.9\tex\latex\natbib\natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip99
+\bibsep=\skip100
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count137
+))
+("D:\dropBox\Dropbox\New folder\wli_final_thesis\tex\phd_thesis_template\wenxi_
+thesis.aux")
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 9.
+ ("d:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\ot1ptm.fd"
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(144.54pt, 381.836pt, 71.13188pt)
+* v-part:(T,H,B)=(101.40665pt, 672.50832pt, 71.13188pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=368.57744pt
+* \textheight=650.43pt
+* \oddsidemargin=72.27pt
+* \evensidemargin=72.27pt
+* \topmargin=-14.45377pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=35.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: float package is loaded.
+Package caption Info: hyperref package is loaded.
+Package caption Info: longtable package is loaded.
+
+(C:\Users\wli.STAFF.009\AppData\Roaming\MiKTeX\2.9\tex\latex\caption\ltcaption.
+sty
+Package: ltcaption 2013/02/03 v1.3-62 longtable captions (AR)
+)
+Package caption Info: wrapfig package is loaded.
+Package caption Info: End \AtBeginDocument code.
+\AtBeginShipoutBox=\box35
+Package hyperref Info: Link coloring OFF on input line 9.
+ ("d:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
+Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
+
+("d:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty"
+Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
+)
+\c@section@level=\count138
+)
+LaTeX Info: Redefining \ref on input line 9.
+LaTeX Info: Redefining \pageref on input line 9.
+LaTeX Info: Redefining \nameref on input line 9.
+
+(C:\Users\wli.STAFF.009\AppData\Roaming\MiKTeX\2.9\tex\context\base\supp-pdf.mk
+ii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count139
+\scratchdimen=\dimen140
+\scratchbox=\box36
+\nofMPsegments=\count140
+\nofMParguments=\count141
+\everyMPshowfont=\toks28
+\MPscratchCnt=\count142
+\MPscratchDim=\dimen141
+\MPnumerator=\count143
+\makeMPintoPDFobject=\count144
+\everyMPtoPDFconversion=\toks29
+)
+("D:\dropBox\Dropbox\New folder\wli_final_thesis\tex\phd_thesis_template\format
+/front.tex"
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <24.88> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 7.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 17.
+ <images/bu_logo.jpg, id=3, 266.9975pt x 190.7125pt>
+File: images/bu_logo.jpg Graphic file (type jpg)
+
+<use images/bu_logo.jpg>
+Package pdftex.def Info: images/bu_logo.jpg used on input line 19.
+(pdftex.def)             Requested size: 110.57436pt x 78.98123pt.
+ [1
+
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <D:/dropBox/Dropbox/New fo
+lder/wli_final_thesis/tex/phd_thesis_template/images/bu_logo.jpg>])
+("D:\dropBox\Dropbox\New folder\wli_final_thesis\tex\phd_thesis_template\format
+/copyright.tex")
+("D:\dropBox\Dropbox\New folder\wli_final_thesis\tex\phd_thesis_template\chapte
+rs/abstract.tex" [1]
+Overfull \hbox (2.10023pt too wide) in paragraph at lines 19--20
+[]\OT1/ptm/m/n/12 In fash-ion in-dus-try, vir-tual cloth-ing tech-nol-ogy is an
+ ef-fec-tive tool which
+ []
+
+[2
+
+]) [3]
+("D:\dropBox\Dropbox\New folder\wli_final_thesis\tex\phd_thesis_template\wenxi_
+thesis.toc"
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1.
+LaTeX Font Info:    Try loading font information for U+msa on input line 1.
+ ("d:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 1.
+
+("d:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+) [4] [5])
+\tf@toc=\write3
+
+[6]
+("D:\dropBox\Dropbox\New folder\wli_final_thesis\tex\phd_thesis_template\wenxi_
+thesis.lof"
+Overfull \hbox (0.46555pt too wide) in paragraph at lines 15--15
+ [][] \OT1/ptm/m/n/12 Fig-ure [][]Taking of mea-sure-ments in fash-ion in-dus-t
+ry ([]Brad Bird[] 
+ []
+
+[7]
+Overfull \hbox (2.32532pt too wide) in paragraph at lines 45--45
+ [][] \OT1/ptm/m/n/12 Fig-ure [][]Measurements with geodesic shape cor-rec-tion
+ on Char- 
+ []
+
+[8] [9]
+Overfull \hbox (8.79288pt too wide) in paragraph at lines 74--74
+ [][] \OT1/ptm/m/n/12 Fig-ure [][]Cloth pat-terns([]Xiong[] []2008[]), stan-dar
+d shirt pat-terns(left); 
+ []
+
+)
+\tf@lof=\write4
+ [10]
+("D:\dropBox\Dropbox\New folder\wli_final_thesis\tex\phd_thesis_template\wenxi_
+thesis.lot")
+\tf@lot=\write5
+ [11]
+("D:\dropBox\Dropbox\New folder\wli_final_thesis\tex\phd_thesis_template\chapte
+rs/abbreviations.tex") [12
+
+]
+("D:\dropBox\Dropbox\New folder\wli_final_thesis\tex\phd_thesis_template\chapte
+rs/list_of_symbols.tex" [13
+
+]) [14]
+("D:\dropBox\Dropbox\New folder\wli_final_thesis\tex\phd_thesis_template\format
+/acknowledgements.tex")
+("D:\dropBox\Dropbox\New folder\wli_final_thesis\tex\phd_thesis_template\format
+/declaration.tex" [15
+
+]) [16
+
+]
+("D:\dropBox\Dropbox\New folder\wli_final_thesis\tex\phd_thesis_template\chapte
+rs/introduction.tex"
+Chapter 1.
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.18 \section
+             {Cloth Making and Fashion Design} [1
+
+]
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <17.28> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 18.
+
+Overfull \hbox (4.06755pt too wide) in paragraph at lines 19--20
+\OT1/ptm/m/n/12 nomenon of a reg-u-lar pat-tern of change in the pre-vail-ing m
+ode of dress.''([]Steele[]
+ []
+
+Missing character: There is no â in font ptmr7t!
+Missing character: There is no € in font ptmr7t!
+Missing character: There is no “ in font ptmr7t!
+[2]
+<./images/../images/cloth_design/standard_body_template.jpg, id=482, 848.16875p
+t x 883.3pt>
+File: ./images/../images/cloth_design/standard_body_template.jpg Graphic file (
+type jpg)
+ <use ./images/../images/cloth_design/standard_body_template.jpg>
+Package pdftex.def Info: ./images/../images/cloth_design/standard_body_template
+.jpg used on input line 31.
+(pdftex.def)             Requested size: 331.71744pt x 345.45604pt.
+
+[3 <D:/dropBox/Dropbox/New folder/wli_final_thesis/tex/phd_thesis_template/imag
+es/cloth_design/standard_body_template.jpg>] [4] [5]
+<./images/../images/cloth_design/size_chart.jpg, id=513, 429.85594pt x 146.7984
+3pt>
+File: ./images/../images/cloth_design/size_chart.jpg Graphic file (type jpg)
+ <use ./images/../images/cloth_design/size_chart.jpg>
+Package pdftex.def Info: ./images/../images/cloth_design/size_chart.jpg used on
+ input line 74.
+(pdftex.def)             Requested size: 368.57744pt x 125.87459pt.
+ [6 <D:/dropBox/Dropbox/New folder/wli_final_thesis/tex/phd_thesis_template/ima
+ges/cloth_design/size_chart.jpg>] [7]
+Overfull \hbox (3.16592pt too wide) in paragraph at lines 165--167
+\OT1/ptm/m/n/12 it-er-a-tions and labours in tra-di-tional fash-ion de-sign pro
+-cess. Any changes
+ []
+
+[8]
+<./images/../images/animation_pipeline.jpg, id=552, 607.26875pt x 617.30624pt>
+File: ./images/../images/animation_pipeline.jpg Graphic file (type jpg)
+
+<use ./images/../images/animation_pipeline.jpg>
+Package pdftex.def Info: ./images/../images/animation_pipeline.jpg used on inpu
+t line 225.
+(pdftex.def)             Requested size: 331.71744pt x 337.20233pt.
+ [9] [10 <D:/dropBox/Dropbox/New folder/wli_final_thesis/tex/phd_thesis_templat
+e/images/animation_pipeline.jpg>] [11]
+Overfull \hbox (3.04771pt too wide) in paragraph at lines 244--245
+[]\OT1/ptm/m/n/12 Hybrid cloth sim-u-la-tion meth-ods utilise other types of de
+-for-ma-tion mod-
+ []
+
+[12] [13]
+Overfull \hbox (0.5155pt too wide) in paragraph at lines 282--283
+\OT1/ptm/m/n/12 have be-come the bot-tle-neck of im-prov-ing the reusablity of 
+cloth mod-els which
+ []
+
+[14] [15]
+Overfull \hbox (2.61336pt too wide) in paragraph at lines 310--311
+[]\OT1/ptm/m/n/12 This the-sis de-scribes an au-to-matic pat-tern based cloth m
+od-elling method
+ []
+
+
+Overfull \hbox (0.53793pt too wide) in paragraph at lines 310--311
+\OT1/ptm/m/n/12 which bridges the gap be-tween tra-di-tional tai-lor-ing tech-n
+iques and cloth
+ []
+
+[16] [17])
+("D:\dropBox\Dropbox\New folder\wli_final_thesis\tex\phd_thesis_template\chapte
+rs/literature_review.tex" [18]
+Chapter 2.
+
+Overfull \hbox (0.82678pt too wide) in paragraph at lines 21--22
+\OT1/ptm/m/n/12 fash-ion in-dus-try. This the-sis presents an pat-tern based cl
+oth mod-elling method
+ []
+
+[19
+
+]
+<./images/../images/ancient_roman_cloth.jpg, id=636, 8669.38875pt x 2371.86125p
+t>
+File: ./images/../images/ancient_roman_cloth.jpg Graphic file (type jpg)
+ <use ./images/../images/ancient_roman_cloth.jpg>
+Package pdftex.def Info: ./images/../images/ancient_roman_cloth.jpg used on inp
+ut line 33.
+(pdftex.def)             Requested size: 368.57744pt x 100.82991pt.
+ [20] [21 <D:/dropBox/Dropbox/New folder/wli_final_thesis/tex/phd_thesis_templa
+te/images/ancient_roman_cloth.jpg>] [22]
+<./images/../images/threefigures.jpg, id=698, 689.57625pt x 404.51125pt>
+File: ./images/../images/threefigures.jpg Graphic file (type jpg)
+
+<use ./images/../images/threefigures.jpg>
+Package pdftex.def Info: ./images/../images/threefigures.jpg used on input line
+ 54.
+(pdftex.def)             Requested size: 368.57744pt x 216.21077pt.
+ [23 <D:/dropBox/Dropbox/New folder/wli_final_thesis/tex/phd_thesis_template/im
+ages/threefigures.jpg>]
+<./images/../images/Da_Vinci.jpg, id=720, 755.82375pt x 1027.84pt>
+File: ./images/../images/Da_Vinci.jpg Graphic file (type jpg)
+
+<use ./images/../images/Da_Vinci.jpg>
+Package pdftex.def Info: ./images/../images/Da_Vinci.jpg used on input line 66.
+
+(pdftex.def)             Requested size: 176.91559pt x 240.58574pt.
+ [24 <D:/dropBox/Dropbox/New folder/wli_final_thesis/tex/phd_thesis_template/im
+ages/Da_Vinci.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 83--84
+[]|\OT1/ptm/m/n/12 Point-to-point hor-i-zon-tal mea-sure-ment run-ning
+ []
+
+
+<./images/../images/anthropometry_measurement.jpg, id=738, 692.5875pt x 776.902
+5pt>
+File: ./images/../images/anthropometry_measurement.jpg Graphic file (type jpg)
+ <use ./images/../images/anthropometry_measurement.jpg>
+Package pdftex.def Info: ./images/../images/anthropometry_measurement.jpg used 
+on input line 102.
+(pdftex.def)             Requested size: 368.57744pt x 413.45155pt.
+ [25] [26 <D:/dropBox/Dropbox/New folder/wli_final_thesis/tex/phd_thesis_templa
+te/images/anthropometry_measurement.jpg>] [27]
+<./images/../images/weil1986.jpg, id=780, 394.47375pt x 362.10281pt>
+File: ./images/../images/weil1986.jpg Graphic file (type jpg)
+
+<use ./images/../images/weil1986.jpg>
+Package pdftex.def Info: ./images/../images/weil1986.jpg used on input line 123
+.
+(pdftex.def)             Requested size: 258.00307pt x 236.82822pt.
+ [28 <D:/dropBox/Dropbox/New folder/wli_final_thesis/tex/phd_thesis_template/im
+ages/weil1986.jpg>] [29]
+<./images/../images/decaudin.jpg, id=814, 443.40656pt x 324.46219pt>
+File: ./images/../images/decaudin.jpg Graphic file (type jpg)
+
+<use ./images/../images/decaudin.jpg>
+Package pdftex.def Info: ./images/../images/decaudin.jpg used on input line 139
+.
+(pdftex.def)             Requested size: 258.00307pt x 188.8021pt.
+ [30 <D:/dropBox/Dropbox/New folder/wli_final_thesis/tex/phd_thesis_template/im
+ages/decaudin.jpg>] [31] [32] [33]
+[34]
+Missing character: There is no ã in font ptmr7t!
+Missing character: There is no € in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+ <./images/../images/Volino2005.jpg, id=880, 1583.9175pt x 623.32875pt>
+File: ./images/../images/Volino2005.jpg Graphic file (type jpg)
+
+<use ./images/../images/Volino2005.jpg>
+Package pdftex.def Info: ./images/../images/Volino2005.jpg used on input line 1
+93.
+(pdftex.def)             Requested size: 258.00307pt x 101.53226pt.
+ [35] [36 <D:/dropBox/Dropbox/New folder/wli_final_thesis/tex/phd_thesis_templa
+te/images/Volino2005.jpg>]
+<./images/../images/chen2010.jpg, id=897, 237.40695pt x 161.1621pt>
+File: ./images/../images/chen2010.jpg Graphic file (type jpg)
+
+<use ./images/../images/chen2010.jpg>
+Package pdftex.def Info: ./images/../images/chen2010.jpg used on input line 205
+.
+(pdftex.def)             Requested size: 258.00307pt x 175.14186pt.
+ [37 <D:/dropBox/Dropbox/New folder/wli_final_thesis/tex/phd_thesis_template/im
+ages/chen2010.jpg>] [38] [39] [40]
+<./images/../images/Ratatouille_character.jpg, id=945, 707.64375pt x 497.86pt>
+File: ./images/../images/Ratatouille_character.jpg Graphic file (type jpg)
+
+<use ./images/../images/Ratatouille_character.jpg>
+Package pdftex.def Info: ./images/../images/Ratatouille_character.jpg used on i
+nput line 264.
+(pdftex.def)             Requested size: 350.14743pt x 246.3465pt.
+
+<./images/../images/ItalianTailoringTerms4b.jpg, id=953, 1405.25pt x 1274.7625p
+t>
+File: ./images/../images/ItalianTailoringTerms4b.jpg Graphic file (type jpg)
+ <use ./images/../images/ItalianTailoringTerms4b.jpg>
+Package pdftex.def Info: ./images/../images/ItalianTailoringTerms4b.jpg used on
+ input line 274.
+(pdftex.def)             Requested size: 350.14743pt x 317.63947pt.
+ [41 <D:/dropBox/Dropbox/New folder/wli_final_thesis/tex/phd_thesis_template/im
+ages/Ratatouille_character.jpg>] [42 <D:/dropBox/Dropbox/New folder/wli_final_t
+hesis/tex/phd_thesis_template/images/ItalianTailoringTerms4b.jpg>]
+Missing character: There is no â in font ptmr7t!
+Missing character: There is no € in font ptmr7t!
+Missing character: There is no ™ in font ptmr7t!
+ [43]
+Overfull \hbox (9.60004pt too wide) in paragraph at lines 293--294
+[][]\OT1/ptm/m/n/12 Chen & Han[] ([]1990[])(CH al-go-rithm) pro-vided an ex-act
+ so-lu-tion to geodesic
+ []
+
+[44]
+Overfull \hbox (9.40727pt too wide) in paragraph at lines 303--304
+\OT1/ptm/m/n/12 More-over, al-though tech-nique such as fast march-ing method([
+]Kimmel & Sethian[]
+ []
+
+[45] [46]
+Overfull \hbox (5.42456pt too wide) in paragraph at lines 318--319
+[][]\OT1/ptm/m/n/12 Ishibuchi & Mu-rata[] ([]1996[]) pro-posed a weighted-sum a
+p-proach for multi-
+ []
+
+
+Overfull \hbox (1.3782pt too wide) in paragraph at lines 322--323
+\OT1/ptm/m/n/12 dom-i-na-tion tour-na-ment se-lec-tion and equiv-a-lence class 
+shar-ing(NPGA) ([]Horn
+ []
+
+[47]
+Overfull \hbox (6.27483pt too wide) in paragraph at lines 326--327
+\OT1/ptm/m/n/12 tributed prob-a-bil-ity func-tion that has zero mean and con-st
+ant mu-ta-tion strength.
+ []
+
+[48]
+Overfull \hbox (15.07301pt too wide) in paragraph at lines 328--329
+[][]\OT1/ptm/m/n/12 Deb[] ([]1999[]); []Srini-vas & Deb[] ([]1994[]); []Deb[] (
+[]2001[]) in-tro-duced non-dominated
+ []
+
+
+Overfull \hbox (7.04337pt too wide) in paragraph at lines 330--331
+\OT1/ptm/m/n/12 Al-though it can han-dles any num-ber of the ob-jec-tives, re-c
+ent re-search([]Ishibuchi
+ []
+
+
+Overfull \hbox (27.6945pt too wide) in paragraph at lines 330--331
+\OT1/ptm/m/n/12 NSGA-II per-forms best when the num-ber of the ob-jec-tives is 
+around three([]Ishibuchi
+ []
+
+[49]
+Overfull \hbox (1.41574pt too wide) in paragraph at lines 336--337
+[]\OT1/ptm/m/n/12 The ge-o-met-ri-cal vir-tual cloth-ing method gen-er-ates clo
+th for vir-tual char-
+ []
+
+[50] [51])
+("D:\dropBox\Dropbox\New folder\wli_final_thesis\tex\phd_thesis_template\chapte
+rs/geodesic.tex" [52]
+Chapter 3.
+
+Overfull \vbox (10.31467pt too high) detected at line 28
+ []
+
+
+Underfull \hbox (badness 1226) in paragraph at lines 31--32
+[]|\OT1/ptm/m/n/12 The hor-i-zon-tal girth passed over the shoul-der
+ []
+
+
+Overfull \vbox (65.14076pt too high) detected at line 44
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 60--60
+[]|\OT1/ptm/m/n/12 Inside-Leg
+ []
+
+
+Overfull \hbox (10.45558pt too wide) in paragraph at lines 23--62
+ [][] 
+ []
+
+[53
+
+] <./images/../images/body_datum.jpg, id=1152, 380.403pt x 496.035pt>
+File: ./images/../images/body_datum.jpg Graphic file (type jpg)
+
+<use ./images/../images/body_datum.jpg>
+Package pdftex.def Info: ./images/../images/body_datum.jpg used on input line 7
+1.
+(pdftex.def)             Requested size: 368.57744pt x 480.64626pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 71--72
+
+ []
+
+[54] [55 <D:/dropBox/Dropbox/New folder/wli_final_thesis/tex/phd_thesis_templat
+e/images/body_datum.jpg>]
+<./images/../images/character_circumference.jpg, id=1170, 921.4425pt x 791.9587
+6pt>
+File: ./images/../images/character_circumference.jpg Graphic file (type jpg)
+ <use ./images/../images/character_circumference.jpg>
+Package pdftex.def Info: ./images/../images/character_circumference.jpg used on
+ input line 80.
+(pdftex.def)             Requested size: 368.57744pt x 316.7779pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 80--81
+
+ []
+
+[56 <D:/dropBox/Dropbox/New folder/wli_final_thesis/tex/phd_thesis_template/ima
+ges/character_circumference.jpg>] [57]
+<./images/../images/geodesic_image/straight_arm_posture.jpg, id=1184, 1099.1062
+5pt x 825.0825pt>
+File: ./images/../images/geodesic_image/straight_arm_posture.jpg Graphic file (
+type jpg)
+
+<use ./images/../images/geodesic_image/straight_arm_posture.jpg>
+Package pdftex.def Info: ./images/../images/geodesic_image/straight_arm_posture
+.jpg used on input line 96.
+(pdftex.def)             Requested size: 184.28871pt x 138.33594pt.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 97.
+
+<./images/../images/geodesic_image/bend_arm_posture.jpg, id=1185, 1114.1625pt x
+ 837.1275pt>
+File: ./images/../images/geodesic_image/bend_arm_posture.jpg Graphic file (type
+ jpg)
+ <use ./images/../images/geodesic_image/bend_arm_posture.jpg>
+Package pdftex.def Info: ./images/../images/geodesic_image/bend_arm_posture.jpg
+ used on input line 102.
+(pdftex.def)             Requested size: 184.28871pt x 138.46495pt.
+
+Overfull \hbox (4.56004pt too wide) in paragraph at lines 95--106
+ [][]  [] 
+ []
+
+
+Overfull \hbox (7.99097pt too wide) in paragraph at lines 112--113
+\OT1/ptm/m/n/12 many ap-pli-ca-tions, such as sur-face flat-ten-ing([]Zigelman 
+et al.[] []2002[]) and remesh-
+ []
+
+[58 <D:/dropBox/Dropbox/New folder/wli_final_thesis/tex/phd_thesis_template/ima
+ges/geodesic_image/straight_arm_posture.jpg> <D:/dropBox/Dropbox/New folder/wli
+_final_thesis/tex/phd_thesis_template/images/geodesic_image/bend_arm_posture.jp
+g>]
+<./images/../images/geodesic_smoothSurfDef.jpg, id=1198, 1147.28625pt x 761.846
+25pt>
+File: ./images/../images/geodesic_smoothSurfDef.jpg Graphic file (type jpg)
+ <use ./images/../images/geodesic_smoothSurfDef.jpg>
+Package pdftex.def Info: ./images/../images/geodesic_smoothSurfDef.jpg used on 
+input line 122.
+(pdftex.def)             Requested size: 368.57744pt x 244.74901pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 122--123
+
+ []
+
+[59 <D:/dropBox/Dropbox/New folder/wli_final_thesis/tex/phd_thesis_template/ima
+ges/geodesic_smoothSurfDef.jpg>]
+\c@geodesic_def=\count145
+
+<./images/../images/vertex_type.jpg, id=1210, 1099.10625pt x 677.53125pt>
+File: ./images/../images/vertex_type.jpg Graphic file (type jpg)
+
+<use ./images/../images/vertex_type.jpg>
+Package pdftex.def Info: ./images/../images/vertex_type.jpg used on input line 
+156.
+(pdftex.def)             Requested size: 368.57744pt x 227.20439pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 156--157
+
+ []
+
+[60]
+<./images/../images/geodesic_polyDef_2.jpg, id=1225, 882.29625pt x 337.26pt>
+File: ./images/../images/geodesic_polyDef_2.jpg Graphic file (type jpg)
+
+<use ./images/../images/geodesic_polyDef_2.jpg>
+Package pdftex.def Info: ./images/../images/geodesic_polyDef_2.jpg used on inpu
+t line 170.
+(pdftex.def)             Requested size: 368.57744pt x 140.8866pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 170--171
+
+ []
+
+[61 <D:/dropBox/Dropbox/New folder/wli_final_thesis/tex/phd_thesis_template/ima
+ges/vertex_type.jpg>]
+Overfull \hbox (4.48845pt too wide) in paragraph at lines 184--185
+[]\OT1/ptm/m/n/12 In the fol-low-ing sec-tions, a novel geodesic cur-va-ture fl
+ow based geodesic
+ []
+
+
+Overfull \hbox (20.14589pt too wide) in paragraph at lines 188--189
+[]\OT1/ptm/m/n/12 Linear time com-plex-ity ap-prox-i-mate geodesics com-pu-ta-t
+ion with a bounded
+ []
+
+[62 <D:/dropBox/Dropbox/New folder/wli_final_thesis/tex/phd_thesis_template/ima
+ges/geodesic_polyDef_2.jpg>]
+Missing character: There is no â in font ptmr7t!
+Missing character: There is no € in font ptmr7t!
+Missing character: There is no “ in font ptmr7t!
+ [63]
+Missing character: There is no â in font ptmr7t!
+Missing character: There is no € in font ptmr7t!
+Missing character: There is no “ in font ptmr7t!
+ [64] [65]
+<./images/../images/geodesic_polyDef_d.jpeg, id=1294, 1147.28625pt x 761.84625p
+t>
+File: ./images/../images/geodesic_polyDef_d.jpeg Graphic file (type jpg)
+ <use ./images/../images/geodesic_polyDef_d.jpeg>
+Package pdftex.def Info: ./images/../images/geodesic_polyDef_d.jpeg used on inp
+ut line 325.
+(pdftex.def)             Requested size: 368.57744pt x 244.74901pt.
+ [66 <D:/dropBox/Dropbox/New folder/wli_final_thesis/tex/phd_thesis_template/im
+ages/geodesic_polyDef_d.jpeg>]
+Overfull \hbox (8.93692pt too wide) in paragraph at lines 347--368
+[]$\OML/cmm/m/it/12 K \OT1/cmr/m/n/12 = [][]$ 
+ []
+
+[67] [68] [69] [70] [71] [72] [73] [74] [75]
+<./images/../images/geodesic_image/offset_point.jpg, id=1408, 984.67876pt x 653
+.44125pt>
+File: ./images/../images/geodesic_image/offset_point.jpg Graphic file (type jpg
+)
+ <use ./images/../images/geodesic_image/offset_point.jpg>
+Package pdftex.def Info: ./images/../images/geodesic_image/offset_point.jpg use
+d on input line 591.
+(pdftex.def)             Requested size: 331.71744pt x 220.13306pt.
+ [76 <D:/dropBox/Dropbox/New folder/wli_final_thesis/tex/phd_thesis_template/im
+ages/geodesic_image/offset_point.jpg>]
+<./images/../images/geodesic_image/straightest_geodesic_demo2.jpg, id=1419, 875
+.27pt x 766.865pt>
+File: ./images/../images/geodesic_image/straightest_geodesic_demo2.jpg Graphic 
+file (type jpg)
+
+<use ./images/../images/geodesic_image/straightest_geodesic_demo2.jpg>
+Package pdftex.def Info: ./images/../images/geodesic_image/straightest_geodesic
+_demo2.jpg used on input line 600.
+(pdftex.def)             Requested size: 331.71744pt x 290.62773pt.
+ [77 <D:/dropBox/Dropbox/New folder/wli_final_thesis/tex/phd_thesis_template/im
+ages/geodesic_image/straightest_geodesic_demo2.jpg>]
+<./images/../images/geodesic_image/projection_demo.jpg, id=1429, 981.6675pt x 6
+41.39626pt>
+File: ./images/../images/geodesic_image/projection_demo.jpg Graphic file (type 
+jpg)
+ <use ./images/../images/geodesic_image/projection_demo.jpg>
+Package pdftex.def Info: ./images/../images/geodesic_image/projection_demo.jpg 
+used on input line 621.
+(pdftex.def)             Requested size: 331.71744pt x 216.73103pt.
+
+[78]
+Overfull \hbox (13.72806pt too wide) in paragraph at lines 626--627
+[]\OT1/ptm/m/n/12 In Fig-ure []3.10[], red line in-di-cate the piece-wise ap-pr
+ox-i-ma-tion of a geodesic.
+ []
+
+[79 <D:/dropBox/Dropbox/New folder/wli_final_thesis/tex/phd_thesis_template/ima
+ges/geodesic_image/projection_demo.jpg>]
+Package hyperref Info: bookmark level for unknown algorithm defaults to 0 on in
+put line 640.
+ [80] [81]
+<./images/../images/geodesic_image/select_parent.jpg, id=1465, 3733.95pt x 2582
+.64874pt>
+File: ./images/../images/geodesic_image/select_parent.jpg Graphic file (type jp
+g)
+ <use ./images/../images/geodesic_image/select_parent.jpg>
+Package pdftex.def Info: ./images/../images/geodesic_image/select_parent.jpg us
+ed on input line 678.
+(pdftex.def)             Requested size: 331.71744pt x 229.43335pt.
+ [82 <D:/dropBox/Dropbox/New folder/wli_final_thesis/tex/phd_thesis_template/im
+ages/geodesic_image/select_parent.jpg>] [83]
+Overfull \hbox (0.81305pt too wide) in paragraph at lines 745--745
+[]$\OT1/cmr/m/n/12 = \OML/cmm/m/it/12 distanceBetween\OT1/cmr/m/n/12 (\OML/cmm/
+m/it/12 parentNode; pc[]\OT1/cmr/m/n/12 ) +$
+ []
+
+[84] [85] [86]
+Underfull \hbox (badness 10000) in paragraph at lines 803--804
+[]\OT1/ptm/b/n/12 func-tion \OT1/ptm/m/sc/12 get-Par-entN-ode\OT1/ptm/m/n/12 ($
+\OML/cmm/m/it/12 W$\OT1/ptm/m/n/12 ,$\OML/cmm/m/it/12 v[]$\OT1/ptm/m/n/12 )($\O
+ML/cmm/m/it/12 W$ \OT1/ptm/m/n/12 de-notes prop-a-ga-tion
+ []
+
+
+Overfull \hbox (0.81305pt too wide) in paragraph at lines 835--835
+[]$\OT1/cmr/m/n/12 = \OML/cmm/m/it/12 distanceBetween\OT1/cmr/m/n/12 (\OML/cmm/
+m/it/12 parentNode; pc[]\OT1/cmr/m/n/12 ) +$
+ []
+
+[87] [88] [89]
+<./images/../images/tape_measuring.jpg, id=1530, 271.0125pt x 186.6975pt>
+File: ./images/../images/tape_measuring.jpg Graphic file (type jpg)
+
+<use ./images/../images/tape_measuring.jpg>
+Package pdftex.def Info: ./images/../images/tape_measuring.jpg used on input li
+ne 868.
+(pdftex.def)             Requested size: 368.57744pt x 253.91946pt.
+ [90] [91 <D:/dropBox/Dropbox/New folder/wli_final_thesis/tex/phd_thesis_templa
+te/images/tape_measuring.jpg>]
+<./images/../images/geodesic_image/arm_curvature_normal.jpg, id=1541, 1027.84pt
+ x 601.24625pt>
+File: ./images/../images/geodesic_image/arm_curvature_normal.jpg Graphic file (
+type jpg)
+
+<use ./images/../images/geodesic_image/arm_curvature_normal.jpg>
+Package pdftex.def Info: ./images/../images/geodesic_image/arm_curvature_normal
+.jpg used on input line 881.
+(pdftex.def)             Requested size: 294.86307pt x 172.48538pt.
+
+<./images/../images/geodesic_image/straighten.jpg, id=1544, 1842.885pt x 1718.4
+2pt>
+File: ./images/../images/geodesic_image/straighten.jpg Graphic file (type jpg)
+ <use ./images/../images/geodesic_image/straighten.jpg>
+Package pdftex.def Info: ./images/../images/geodesic_image/straighten.jpg used 
+on input line 890.
+(pdftex.def)             Requested size: 294.86307pt x 274.9266pt.
+ [92 <D:/dropBox/Dropbox/New folder/wli_final_thesis/tex/phd_thesis_template/im
+ages/geodesic_image/arm_curvature_normal.jpg>]
+<./images/../images/geodesic_image/arm_path_corrected.jpg, id=1552, 1027.84pt x
+ 601.24625pt>
+File: ./images/../images/geodesic_image/arm_path_corrected.jpg Graphic file (ty
+pe jpg)
+ <use ./images/../images/geodesic_image/arm_path_corrected.jpg>
+Package pdftex.def Info: ./images/../images/geodesic_image/arm_path_corrected.j
+pg used on input line 900.
+(pdftex.def)             Requested size: 294.86307pt x 172.48538pt.
+
+[93 <D:/dropBox/Dropbox/New folder/wli_final_thesis/tex/phd_thesis_template/ima
+ges/geodesic_image/straighten.jpg>]
+<./images/../images/geodesic_image/bentArm.png, id=1559, 1284.8pt x 722.7pt>
+File: ./images/../images/geodesic_image/bentArm.png Graphic file (type png)
+
+<use ./images/../images/geodesic_image/bentArm.png>
+Package pdftex.def Info: ./images/../images/geodesic_image/bentArm.png used on 
+input line 915.
+(pdftex.def)             Requested size: 294.86307pt x 165.85359pt.
+
+<./images/../images/geodesic_image/bentArm_corrected.png, id=1561, 1284.8pt x 7
+22.7pt>
+File: ./images/../images/geodesic_image/bentArm_corrected.png Graphic file (typ
+e png)
+ <use ./images/../images/geodesic_image/bentArm_corrected.png>
+Package pdftex.def Info: ./images/../images/geodesic_image/bentArm_corrected.pn
+g used on input line 922.
+(pdftex.def)             Requested size: 294.86307pt x 165.85359pt.
+ [94 <D:/dropBox/Dropbox/New folder/wli_final_thesis/tex/phd_thesis_template/im
+ages/geodesic_image/arm_path_corrected.jpg> <D:/dropBox/Dropbox/New folder/wli_
+final_thesis/tex/phd_thesis_template/images/geodesic_image/bentArm.png>] [95 <D
+:/dropBox/Dropbox/New folder/wli_final_thesis/tex/phd_thesis_template/images/ge
+odesic_image/bentArm_corrected.png>]
+Overfull \hbox (11.3402pt too wide) in paragraph at lines 1090--1091
+[]\OT1/ptm/m/n/12 The afore-men-tioned al-go-rithms is im-ple-mented on an In-t
+el Xeon 3.33GHz
+ []
+
+[96]
+LaTeX Font Info:    Try loading font information for OT1+pcr on input line 1092
+.
+ ("d:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\ot1pcr.fd"
+File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
+)
+<./images/../images/geodesic_image/Picture1-1.jpg, id=1609, 1091.07625pt x 699.
+61375pt>
+File: ./images/../images/geodesic_image/Picture1-1.jpg Graphic file (type jpg)
+ <use ./images/../images/geodesic_image/Picture1-1.jpg>
+Package pdftex.def Info: ./images/../images/geodesic_image/Picture1-1.jpg used 
+on input line 1095.
+(pdftex.def)             Requested size: 368.57744pt x 236.33897pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1095--1096
+
+ []
+
+[97 <D:/dropBox/Dropbox/New folder/wli_final_thesis/tex/phd_thesis_template/ima
+ges/geodesic_image/Picture1-1.jpg>]
+<./images/../images/geodesic_image/standard_ball.jpeg, id=1633, 1003.75pt x 100
+3.75pt>
+File: ./images/../images/geodesic_image/standard_ball.jpeg Graphic file (type j
+pg)
+ <use ./images/../images/geodesic_image/standard_ball.jpeg>
+Package pdftex.def Info: ./images/../images/geodesic_image/standard_ball.jpeg u
+sed on input line 1134.
+(pdftex.def)             Requested size: 294.86307pt x 294.86308pt.
+ [98]
+<./images/../images/geodesic_image/accuracy_2.png, id=1643, 492.64969pt x 297.7
+7916pt>
+File: ./images/../images/geodesic_image/accuracy_2.png Graphic file (type png)
+ <use ./images/../images/geodesic_image/accuracy_2.png>
+Package pdftex.def Info: ./images/../images/geodesic_image/accuracy_2.png used 
+on input line 1142.
+(pdftex.def)             Requested size: 294.86307pt x 178.23267pt.
+
+<./images/../images/geodesic_image/accuracy_1.png, id=1654, 492.75pt x 297.621p
+t>
+File: ./images/../images/geodesic_image/accuracy_1.png Graphic file (type png)
+ <use ./images/../images/geodesic_image/accuracy_1.png>
+Package pdftex.def Info: ./images/../images/geodesic_image/accuracy_1.png used 
+on input line 1151.
+(pdftex.def)             Requested size: 294.86307pt x 178.1062pt.
+ [99 <D:/dropBox/Dropbox/New folder/wli_final_thesis/tex/phd_thesis_template/im
+ages/geodesic_image/standard_ball.jpeg> <D:/dropBox/Dropbox/New folder/wli_fina
+l_thesis/tex/phd_thesis_template/images/geodesic_image/accuracy_2.png>]
+<./images/../images/geodesic_image/error_demo_triangle.jpg, id=1668, 803.0pt x 
+602.25pt>
+File: ./images/../images/geodesic_image/error_demo_triangle.jpg Graphic file (t
+ype jpg)
+ <use ./images/../images/geodesic_image/error_demo_triangle.jpg>
+Package pdftex.def Info: ./images/../images/geodesic_image/error_demo_triangle.
+jpg used on input line 1162.
+(pdftex.def)             Requested size: 331.71744pt x 248.78958pt.
+
+[100 <D:/dropBox/Dropbox/New folder/wli_final_thesis/tex/phd_thesis_template/im
+ages/geodesic_image/accuracy_1.png>] [101 <D:/dropBox/Dropbox/New folder/wli_fi
+nal_thesis/tex/phd_thesis_template/images/geodesic_image/error_demo_triangle.jp
+g>]
+<./images/../images/geodesic_image/cylinder_test.jpg, id=1689, 1096.095pt x 816
+.04875pt>
+File: ./images/../images/geodesic_image/cylinder_test.jpg Graphic file (type jp
+g)
+ <use ./images/../images/geodesic_image/cylinder_test.jpg>
+Package pdftex.def Info: ./images/../images/geodesic_image/cylinder_test.jpg us
+ed on input line 1199.
+(pdftex.def)             Requested size: 294.86307pt x 219.52673pt.
+ [102]
+[103 <D:/dropBox/Dropbox/New folder/wli_final_thesis/tex/phd_thesis_template/im
+ages/geodesic_image/cylinder_test.jpg>]
+<./images/../images/geodesic_image/app_error1.jpg, id=1711, 784.9325pt x 483.80
+75pt>
+File: ./images/../images/geodesic_image/app_error1.jpg Graphic file (type jpg)
+ <use ./images/../images/geodesic_image/app_error1.jpg>
+Package pdftex.def Info: ./images/../images/geodesic_image/app_error1.jpg used 
+on input line 1209.
+(pdftex.def)             Requested size: 184.28871pt x 113.58405pt.
+
+<./images/../images/geodesic_image/app_error2.jpg, id=1712, 784.9325pt x 483.80
+75pt>
+File: ./images/../images/geodesic_image/app_error2.jpg Graphic file (type jpg)
+ <use ./images/../images/geodesic_image/app_error2.jpg>
+Package pdftex.def Info: ./images/../images/geodesic_image/app_error2.jpg used 
+on input line 1215.
+(pdftex.def)             Requested size: 184.28871pt x 113.58405pt.
+
+Overfull \hbox (4.56004pt too wide) in paragraph at lines 1208--1219
+ [][]  [] 
+ []
+
+
+<./images/../images/geodesic_image/absolute_error.jpg, id=1715, 743.77875pt x 6
+26.34pt>
+File: ./images/../images/geodesic_image/absolute_error.jpg Graphic file (type j
+pg)
+ <use ./images/../images/geodesic_image/absolute_error.jpg>
+Package pdftex.def Info: ./images/../images/geodesic_image/absolute_error.jpg u
+sed on input line 1228.
+(pdftex.def)             Requested size: 184.28871pt x 155.18925pt.
+
+<./images/../images/geodesic_image/running_time.jpg, id=1716, 743.77875pt x 626
+.34pt>
+File: ./images/../images/geodesic_image/running_time.jpg Graphic file (type jpg
+)
+ <use ./images/../images/geodesic_image/running_time.jpg>
+Package pdftex.def Info: ./images/../images/geodesic_image/running_time.jpg use
+d on input line 1233.
+(pdftex.def)             Requested size: 184.28871pt x 155.18925pt.
+ [104 <D:/dropBox/Dropbox/New folder/wli_final_thesis/tex/phd_thesis_template/i
+mages/geodesic_image/app_error1.jpg> <D:/dropBox/Dropbox/New folder/wli_final_t
+hesis/tex/phd_thesis_template/images/geodesic_image/app_error2.jpg> <D:/dropBox
+/Dropbox/New folder/wli_final_thesis/tex/phd_thesis_template/images/geodesic_im
+age/absolute_error.jpg> <D:/dropBox/Dropbox/New folder/wli_final_thesis/tex/phd
+_thesis_template/images/geodesic_image/running_time.jpg>]
+Overfull \hbox (4.74225pt too wide) in paragraph at lines 1251--1251
+\OT1/ptm/m/n/12 #V:127490 
+ []
+
+
+Overfull \hbox (3.63821pt too wide) in paragraph at lines 1251--1251
+\OT1/ptm/m/n/12 #F:254976| 
+ []
+
+
+Overfull \hbox (4.74225pt too wide) in paragraph at lines 1251--1251
+\OT1/ptm/m/n/12 #V:367942 
+ []
+
+
+Overfull \hbox (3.63821pt too wide) in paragraph at lines 1251--1251
+\OT1/ptm/m/n/12 #F:735656| 
+ []
+
+
+Overfull \hbox (4.74225pt too wide) in paragraph at lines 1251--1251
+\OT1/ptm/m/n/12 #V:365476 
+ []
+
+
+Overfull \hbox (3.63821pt too wide) in paragraph at lines 1251--1251
+\OT1/ptm/m/n/12 #F:730760| 
+ []
+
+
+Overfull \hbox (4.74225pt too wide) in paragraph at lines 1251--1252
+\OT1/ptm/m/n/12 #V:356544 
+ []
+
+
+Overfull \hbox (3.63821pt too wide) in paragraph at lines 1251--1252
+\OT1/ptm/m/n/12 #F:712992| 
+ []
+
+
+Overfull \hbox (308.82649pt too wide) in paragraph at lines 1253--1253
+[]|[]| 
+ []
+
+
+Overfull \hbox (308.82649pt too wide) in paragraph at lines 1257--1257
+[]|[]| 
+ []
+
+
+Overfull \hbox (308.82649pt too wide) in paragraph at lines 1261--1261
+[]|[]| 
+ []
+
+
+Overfull \hbox (308.82649pt too wide) in paragraph at lines 1265--1265
+[]|[]| 
+ []
+
+
+Overfull \hbox (2.13092pt too wide) in paragraph at lines 1248--1270
+ [][] 
+ []
+
+[105]
+<./images/../images/geodesic_image/figure7a.jpg, id=1745, 813.0375pt x 494.8487
+5pt>
+File: ./images/../images/geodesic_image/figure7a.jpg Graphic file (type jpg)
+ <use ./images/../images/geodesic_image/figure7a.jpg>
+Package pdftex.def Info: ./images/../images/geodesic_image/figure7a.jpg used on
+ input line 1283.
+(pdftex.def)             Requested size: 331.71744pt x 201.8926pt.
+
+<./images/../images/geodesic_image/figure7b.jpg, id=1749, 853.1875pt x 534.9987
+5pt>
+File: ./images/../images/geodesic_image/figure7b.jpg Graphic file (type jpg)
+ <use ./images/../images/geodesic_image/figure7b.jpg>
+Package pdftex.def Info: ./images/../images/geodesic_image/figure7b.jpg used on
+ input line 1294.
+(pdftex.def)             Requested size: 331.71744pt x 208.01192pt.
+ [106 <D:/dropBox/Dropbox/New folder/wli_final_thesis/tex/phd_thesis_template/i
+mages/geodesic_image/figure7a.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 1321--1321
+[]|\OT1/ptm/m/n/12 Character
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1321--1321
+[]|\OT1/ptm/m/n/12 Character
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1321--1321
+[]|\OT1/ptm/m/n/12 Character
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1321--1322
+[]|\OT1/ptm/m/n/12 Character
+ []
+
+[107 <D:/dropBox/Dropbox/New folder/wli_final_thesis/tex/phd_thesis_template/im
+ages/geodesic_image/figure7b.jpg>]
+<./images/../images/geodesic_image/A_measurement.jpg, id=1768, 1003.75pt x 1084
+.05pt>
+File: ./images/../images/geodesic_image/A_measurement.jpg Graphic file (type jp
+g)
+ <use ./images/../images/geodesic_image/A_measurement.jpg>
+Package pdftex.def Info: ./images/../images/geodesic_image/A_measurement.jpg us
+ed on input line 1338.
+(pdftex.def)             Requested size: 368.57744pt x 398.06517pt.
+
+<./images/../images/geodesic_image/hulk_correction.jpg, id=1769, 1003.75pt x 81
+2.03375pt>
+File: ./images/../images/geodesic_image/hulk_correction.jpg Graphic file (type 
+jpg)
+ <use ./images/../images/geodesic_image/hulk_correction.jpg>
+Package pdftex.def Info: ./images/../images/geodesic_image/hulk_correction.jpg 
+used on input line 1344.
+(pdftex.def)             Requested size: 368.57744pt x 298.1803pt.
+ [108 <D:/dropBox/Dropbox/New folder/wli_final_thesis/tex/phd_thesis_template/i
+mages/geodesic_image/A_measurement.jpg>]
+<./images/../images/geodesic_image/B_measurement.jpg, id=1774, 1003.75pt x 1084
+.05pt>
+File: ./images/../images/geodesic_image/B_measurement.jpg Graphic file (type jp
+g)
+ <use ./images/../images/geodesic_image/B_measurement.jpg>
+Package pdftex.def Info: ./images/../images/geodesic_image/B_measurement.jpg us
+ed on input line 1380.
+(pdftex.def)             Requested size: 368.57744pt x 398.06517pt.
+ [109 <D:/dropBox/Dropbox/New folder/wli_final_thesis/tex/phd_thesis_template/i
+mages/geodesic_image/hulk_correction.jpg>]
+<./images/../images/geodesic_image/C_measurement.jpg, id=1779, 1003.75pt x 1084
+.05pt>
+File: ./images/../images/geodesic_image/C_measurement.jpg Graphic file (type jp
+g)
+ <use ./images/../images/geodesic_image/C_measurement.jpg>
+Package pdftex.def Info: ./images/../images/geodesic_image/C_measurement.jpg us
+ed on input line 1412.
+(pdftex.def)             Requested size: 368.57744pt x 398.06517pt.
+ [110 <D:/dropBox/Dropbox/New folder/wli_final_thesis/tex/phd_thesis_template/i
+mages/geodesic_image/B_measurement.jpg>]
+<./images/../images/geodesic_image/D_measurement.jpg, id=1785, 1003.75pt x 1084
+.05pt>
+File: ./images/../images/geodesic_image/D_measurement.jpg Graphic file (type jp
+g)
+ <use ./images/../images/geodesic_image/D_measurement.jpg>
+Package pdftex.def Info: ./images/../images/geodesic_image/D_measurement.jpg us
+ed on input line 1443.
+(pdftex.def)             Requested size: 368.57744pt x 398.06517pt.
+ [111 <D:/dropBox/Dropbox/New folder/wli_final_thesis/tex/phd_thesis_template/i
+mages/geodesic_image/C_measurement.jpg>] [112 <D:/dropBox/Dropbox/New folder/wl
+i_final_thesis/tex/phd_thesis_template/images/geodesic_image/D_measurement.jpg>
+]
+Overfull \hbox (4.5122pt too wide) in paragraph at lines 1522--1523
+[]\OT1/ptm/m/n/12 This chap-ter pro-posed a char-ac-ter body mea-sure-ments ex-
+trac-tion method
+ []
+
+)
+("D:\dropBox\Dropbox\New folder\wli_final_thesis\tex\phd_thesis_template\chapte
+rs/cloth_retargeting.tex" [113]
+Chapter 4.
+[114
+
+] [115]
+<./images/../images/general_workflow.jpg, id=1820, 661.9932pt x 414.8298pt>
+File: ./images/../images/general_workflow.jpg Graphic file (type jpg)
+
+<use ./images/../images/general_workflow.jpg>
+Package pdftex.def Info: ./images/../images/general_workflow.jpg used on input 
+line 36.
+(pdftex.def)             Requested size: 368.57744pt x 230.96751pt.
+ [116] [117 <D:/dropBox/Dropbox/New folder/wli_final_thesis/tex/phd_thesis_temp
+late/images/general_workflow.jpg>] <./images/../images/block_pattern.jpg, id=18
+42, 759.83875pt x 673.51625pt>
+File: ./images/../images/block_pattern.jpg Graphic file (type jpg)
+
+<use ./images/../images/block_pattern.jpg>
+Package pdftex.def Info: ./images/../images/block_pattern.jpg used on input lin
+e 58.
+(pdftex.def)             Requested size: 368.57744pt x 326.70638pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 58--59
+
+ []
+
+<./images/../images/garment_block.jpg, id=1847, 1168.365pt x 895.345pt>
+File: ./images/../images/garment_block.jpg Graphic file (type jpg)
+
+<use ./images/../images/garment_block.jpg>
+Package pdftex.def Info: ./images/../images/garment_block.jpg used on input lin
+e 64.
+(pdftex.def)             Requested size: 368.57744pt x 282.44502pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 64--65
+
+ []
+
+[118 <D:/dropBox/Dropbox/New folder/wli_final_thesis/tex/phd_thesis_template/im
+ages/block_pattern.jpg>]
+Overfull \hbox (2.68753pt too wide) in paragraph at lines 69--70
+[]\OT1/ptm/m/n/12 Figure []4.3[] demon-strates land-marks that are as-so-ci-ate
+d with da-tum points
+ []
+
+[119 <D:/dropBox/Dropbox/New folder/wli_final_thesis/tex/phd_thesis_template/im
+ages/garment_block.jpg>]
+<./images/../images/sknny_fatty.jpeg, id=1867, 1927.2pt x 1084.05pt>
+File: ./images/../images/sknny_fatty.jpeg Graphic file (type jpg)
+
+<use ./images/../images/sknny_fatty.jpeg>
+Package pdftex.def Info: ./images/../images/sknny_fatty.jpeg used on input line
+ 79.
+(pdftex.def)             Requested size: 368.57744pt x 207.31148pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 79--80
+
+ []
+
+[120 <D:/dropBox/Dropbox/New folder/wli_final_thesis/tex/phd_thesis_template/im
+ages/sknny_fatty.jpeg>] [121] [122]
+<./images/../images/pattern_example.jpg, id=1894, 1096.095pt x 828.09375pt>
+File: ./images/../images/pattern_example.jpg Graphic file (type jpg)
+
+<use ./images/../images/pattern_example.jpg>
+Package pdftex.def Info: ./images/../images/pattern_example.jpg used on input l
+ine 107.
+(pdftex.def)             Requested size: 368.57744pt x 278.46504pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 107--108
+
+ []
+
+[123 <D:/dropBox/Dropbox/New folder/wli_final_thesis/tex/phd_thesis_template/im
+ages/pattern_example.jpg>]
+<./images/../images/block.jpg, id=1901, 559.08875pt x 785.93625pt>
+File: ./images/../images/block.jpg Graphic file (type jpg)
+
+<use ./images/../images/block.jpg>
+Package pdftex.def Info: ./images/../images/block.jpg used on input line 120.
+(pdftex.def)             Requested size: 184.28871pt x 259.05995pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+<./images/../images/block_proportional_scaling.jpg, id=1904, 935.495pt x 728.72
+25pt>
+File: ./images/../images/block_proportional_scaling.jpg Graphic file (type jpg)
+
+ <use ./images/../images/block_proportional_scaling.jpg>
+Package pdftex.def Info: ./images/../images/block_proportional_scaling.jpg used
+ on input line 131.
+(pdftex.def)             Requested size: 258.00307pt x 200.97195pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+<./images/../images/all_block_proportional_scaling.jpg, id=1905, 866.23625pt x 
+721.69624pt>
+File: ./images/../images/all_block_proportional_scaling.jpg Graphic file (type 
+jpg)
+ <use ./images/../images/all_block_proportional_scaling.jpg>
+Package pdftex.def Info: ./images/../images/all_block_proportional_scaling.jpg 
+used on input line 139.
+(pdftex.def)             Requested size: 331.71744pt x 276.36176pt.
+
+[124] [125 <D:/dropBox/Dropbox/New folder/wli_final_thesis/tex/phd_thesis_templ
+ate/images/block.jpg> <D:/dropBox/Dropbox/New folder/wli_final_thesis/tex/phd_t
+hesis_template/images/all_block_proportional_scaling.jpg>]
+<./images/../images/confict.jpg, id=1915, 1333.98375pt x 666.49pt>
+File: ./images/../images/confict.jpg Graphic file (type jpg)
+
+<use ./images/../images/confict.jpg>
+Package pdftex.def Info: ./images/../images/confict.jpg used on input line 150.
+
+(pdftex.def)             Requested size: 368.57744pt x 184.14465pt.
+ [126 <D:/dropBox/Dropbox/New folder/wli_final_thesis/tex/phd_thesis_template/i
+mages/block_proportional_scaling.jpg> <D:/dropBox/Dropbox/New folder/wli_final_
+thesis/tex/phd_thesis_template/images/confict.jpg>] [127]
+Overfull \hbox (1.48825pt too wide) in paragraph at lines 168--169
+[]\OT1/ptm/m/n/12 For cur-rent gra-di-ent based op-ti-miza-tion meth-ods, han-d
+ling large amount
+ []
+
+
+Overfull \hbox (6.34709pt too wide) in paragraph at lines 168--169
+\OT1/ptm/m/n/12 quired by ge-netic al-go-rithm. More-over, un-like tra-di-tiona
+l op-ti-miza-tion method,
+ []
+
+[128] [129]
+<./images/../images/GA_SO_flowchart.jpg, id=1946, 251.9814pt x 496.7358pt>
+File: ./images/../images/GA_SO_flowchart.jpg Graphic file (type jpg)
+
+<use ./images/../images/GA_SO_flowchart.jpg>
+Package pdftex.def Info: ./images/../images/GA_SO_flowchart.jpg used on input l
+ine 184.
+(pdftex.def)             Requested size: 184.28871pt x 363.30385pt.
+ [130] [131 <D:/dropBox/Dropbox/New folder/wli_final_thesis/tex/phd_thesis_temp
+late/images/GA_SO_flowchart.jpg>]
+[132]
+<./images/../images/body_pattern_mapping.jpg, id=1965, 1112.155pt x 795.97375pt
+>
+File: ./images/../images/body_pattern_mapping.jpg Graphic file (type jpg)
+ <use ./images/../images/body_pattern_mapping.jpg>
+Package pdftex.def Info: ./images/../images/body_pattern_mapping.jpg used on in
+put line 218.
+(pdftex.def)             Requested size: 368.57744pt x 263.78954pt.
+ [133] [134 <D:/dropBox/Dropbox/New folder/wli_final_thesis/tex/phd_thesis_temp
+late/images/body_pattern_mapping.jpg>]
+Overfull \hbox (1.99231pt too wide) in paragraph at lines 254--255
+[]\OT1/ptm/m/n/12 Equation []4.2[] is a bi-lin-ear method that in-tro-duced by 
+[]Michalewicz[] ([]1996[])
+ []
+
+[135] [136] <./images/../images/crossover.jpg, id=1991, 803.0pt x 602.25pt>
+File: ./images/../images/crossover.jpg Graphic file (type jpg)
+
+<use ./images/../images/crossover.jpg>
+Package pdftex.def Info: ./images/../images/crossover.jpg used on input line 27
+2.
+(pdftex.def)             Requested size: 368.57744pt x 276.44102pt.
+ [137 <D:/dropBox/Dropbox/New folder/wli_final_thesis/tex/phd_thesis_template/i
+mages/crossover.jpg>] [138] [139]
+Underfull \hbox (badness 6220) in paragraph at lines 345--345
+[]\OT1/ptm/m/n/12 Reapply Equa-tion []4.3[] to each el-e-ment in
+ []
+
+
+Underfull \hbox (badness 6691) in paragraph at lines 345--345
+$\OML/cmm/m/it/12 Variables$ \OT1/ptm/m/n/12 and eval-u-ate the newly formed
+ []
+
+
+Underfull \hbox (badness 6220) in paragraph at lines 357--357
+[]\OT1/ptm/m/n/12 Reapply Equa-tion []4.3[] to each el-e-ment in
+ []
+
+
+Underfull \hbox (badness 6691) in paragraph at lines 357--357
+$\OML/cmm/m/it/12 Variables$ \OT1/ptm/m/n/12 and eval-u-ate the newly formed
+ []
+
+<./images/../images/mutation_evaluation.jpg, id=2040, 1086.0575pt x 578.16pt>
+File: ./images/../images/mutation_evaluation.jpg Graphic file (type jpg)
+
+<use ./images/../images/mutation_evaluation.jpg>
+Package pdftex.def Info: ./images/../images/mutation_evaluation.jpg used on inp
+ut line 373.
+(pdftex.def)             Requested size: 368.57744pt x 196.2101pt.
+ [140] [141] [142 <D:/dropBox/Dropbox/New folder/wli_final_thesis/tex/phd_thesi
+s_template/images/mutation_evaluation.jpg>] [143]
+<./images/../images/seam_line.jpg, id=2067, 601.24625pt x 664.4825pt>
+File: ./images/../images/seam_line.jpg Graphic file (type jpg)
+
+<use ./images/../images/seam_line.jpg>
+Package pdftex.def Info: ./images/../images/seam_line.jpg used on input line 40
+2.
+(pdftex.def)             Requested size: 258.00307pt x 285.14397pt.
+ [144] [145 <D:/dropBox/Dropbox/New folder/wli_final_thesis/tex/phd_thesis_temp
+late/images/seam_line.jpg>] [146]
+<./images/../images/MOP_shape_evaluation.jpg, id=2099, 1213.53375pt x 692.5875p
+t>
+File: ./images/../images/MOP_shape_evaluation.jpg Graphic file (type jpg)
+ <use ./images/../images/MOP_shape_evaluation.jpg>
+Package pdftex.def Info: ./images/../images/MOP_shape_evaluation.jpg used on in
+put line 438.
+(pdftex.def)             Requested size: 368.57744pt x 210.35645pt.
+ [147 <D:/dropBox/Dropbox/New folder/wli_final_thesis/tex/phd_thesis_template/i
+mages/MOP_shape_evaluation.jpg>]
+<./images/../images/sknny_fatty_fit_body.jpeg, id=2106, 1927.2pt x 1084.05pt>
+File: ./images/../images/sknny_fatty_fit_body.jpeg Graphic file (type jpg)
+
+<use ./images/../images/sknny_fatty_fit_body.jpeg>
+Package pdftex.def Info: ./images/../images/sknny_fatty_fit_body.jpeg used on i
+nput line 450.
+(pdftex.def)             Requested size: 368.57744pt x 207.31148pt.
+ [148 <D:/dropBox/Dropbox/New folder/wli_final_thesis/tex/phd_thesis_template/i
+mages/sknny_fatty_fit_body.jpeg>]
+<./images/../images/sknny_fatty_front_pattern.jpeg, id=2114, 827.09pt x 585.186
+25pt>
+File: ./images/../images/sknny_fatty_front_pattern.jpeg Graphic file (type jpg)
+
+ <use ./images/../images/sknny_fatty_front_pattern.jpeg>
+Package pdftex.def Info: ./images/../images/sknny_fatty_front_pattern.jpeg used
+ on input line 459.
+(pdftex.def)             Requested size: 368.57744pt x 260.77762pt.
+
+<./images/../images/sknny_fatty_fit_shirt.jpeg, id=2119, 1927.2pt x 1084.05pt>
+File: ./images/../images/sknny_fatty_fit_shirt.jpeg Graphic file (type jpg)
+
+<use ./images/../images/sknny_fatty_fit_shirt.jpeg>
+Package pdftex.def Info: ./images/../images/sknny_fatty_fit_shirt.jpeg used on 
+input line 466.
+(pdftex.def)             Requested size: 368.57744pt x 207.31148pt.
+ [149 <D:/dropBox/Dropbox/New folder/wli_final_thesis/tex/phd_thesis_template/i
+mages/sknny_fatty_front_pattern.jpeg>]
+<./images/../images/domination.jpg, id=2127, 886.31125pt x 842.14626pt>
+File: ./images/../images/domination.jpg Graphic file (type jpg)
+
+<use ./images/../images/domination.jpg>
+Package pdftex.def Info: ./images/../images/domination.jpg used on input line 4
+84.
+(pdftex.def)             Requested size: 331.71744pt x 315.18727pt.
+ [150 <D:/dropBox/Dropbox/New folder/wli_final_thesis/tex/phd_thesis_template/i
+mages/sknny_fatty_fit_shirt.jpeg>]
+[151 <D:/dropBox/Dropbox/New folder/wli_final_thesis/tex/phd_thesis_template/im
+ages/domination.jpg>] [152] [153]
+<./images/../images/pattern_and_boundingBox.jpg, id=2153, 962.59625pt x 685.561
+25pt>
+File: ./images/../images/pattern_and_boundingBox.jpg Graphic file (type jpg)
+ <use ./images/../images/pattern_and_boundingBox.jpg>
+Package pdftex.def Info: ./images/../images/pattern_and_boundingBox.jpg used on
+ input line 549.
+(pdftex.def)             Requested size: 350.14743pt x 249.36476pt.
+ [154]
+<./images/../images/bounding_surface.jpg, id=2158, 939.51pt x 676.5275pt>
+File: ./images/../images/bounding_surface.jpg Graphic file (type jpg)
+
+<use ./images/../images/bounding_surface.jpg>
+Package pdftex.def Info: ./images/../images/bounding_surface.jpg used on input 
+line 556.
+(pdftex.def)             Requested size: 331.71744pt x 238.86308pt.
+ [155 <D:/dropBox/Dropbox/New folder/wli_final_thesis/tex/phd_thesis_template/i
+mages/pattern_and_boundingBox.jpg> <D:/dropBox/Dropbox/New folder/wli_final_the
+sis/tex/phd_thesis_template/images/bounding_surface.jpg>]
+<./images/../images/normal_patterns.jpg, id=2164, 1215.54124pt x 714.67pt>
+File: ./images/../images/normal_patterns.jpg Graphic file (type jpg)
+
+<use ./images/../images/normal_patterns.jpg>
+Package pdftex.def Info: ./images/../images/normal_patterns.jpg used on input l
+ine 565.
+(pdftex.def)             Requested size: 368.57744pt x 216.7036pt.
+
+<./images/../images/sewing.jpg, id=2165, 1200.485pt x 685.56125pt>
+File: ./images/../images/sewing.jpg Graphic file (type jpg)
+
+<use ./images/../images/sewing.jpg>
+Package pdftex.def Info: ./images/../images/sewing.jpg used on input line 572.
+(pdftex.def)             Requested size: 368.57744pt x 210.48193pt.
+ [156 <D:/dropBox/Dropbox/New folder/wli_final_thesis/tex/phd_thesis_template/i
+mages/normal_patterns.jpg> <D:/dropBox/Dropbox/New folder/wli_final_thesis/tex/
+phd_thesis_template/images/sewing.jpg>]
+<./images/../images/all_characters.jpeg, id=2182, 3011.25pt x 1204.5pt>
+File: ./images/../images/all_characters.jpeg Graphic file (type jpg)
+
+<use ./images/../images/all_characters.jpeg>
+Package pdftex.def Info: ./images/../images/all_characters.jpeg used on input l
+ine 585.
+(pdftex.def)             Requested size: 368.57744pt x 147.4193pt.
+ [157]
+<./images/../images/shirt_pattern.jpg, id=2188, 903.375pt x 674.52pt>
+File: ./images/../images/shirt_pattern.jpg Graphic file (type jpg)
+
+<use ./images/../images/shirt_pattern.jpg>
+Package pdftex.def Info: ./images/../images/shirt_pattern.jpg used on input lin
+e 594.
+(pdftex.def)             Requested size: 258.00307pt x 192.6416pt.
+
+<./images/../images/trousers_pattern.jpg, id=2189, 452.69125pt x 674.52pt>
+File: ./images/../images/trousers_pattern.jpg Graphic file (type jpg)
+
+<use ./images/../images/trousers_pattern.jpg>
+Package pdftex.def Info: ./images/../images/trousers_pattern.jpg used on input 
+line 601.
+(pdftex.def)             Requested size: 110.57436pt x 164.74937pt.
+
+Overfull \hbox (4.56004pt too wide) in paragraph at lines 593--605
+ [][]  [] 
+ []
+
+<./images/../images/resultA.jpg, id=2194, 1164.35pt x 937.5025pt>
+File: ./images/../images/resultA.jpg Graphic file (type jpg)
+
+<use ./images/../images/resultA.jpg>
+Package pdftex.def Info: ./images/../images/resultA.jpg used on input line 610.
+
+(pdftex.def)             Requested size: 331.71744pt x 267.07654pt.
+ [158 <D:/dropBox/Dropbox/New folder/wli_final_thesis/tex/phd_thesis_template/i
+mages/all_characters.jpeg> <D:/dropBox/Dropbox/New folder/wli_final_thesis/tex/
+phd_thesis_template/images/shirt_pattern.jpg> <D:/dropBox/Dropbox/New folder/wl
+i_final_thesis/tex/phd_thesis_template/images/trousers_pattern.jpg>]
+<./images/../images/resultB.jpg, id=2200, 1164.35pt x 981.6675pt>
+File: ./images/../images/resultB.jpg Graphic file (type jpg)
+
+<use ./images/../images/resultB.jpg>
+Package pdftex.def Info: ./images/../images/resultB.jpg used on input line 618.
+
+(pdftex.def)             Requested size: 331.71744pt x 279.65831pt.
+
+<./images/../images/resultC.jpg, id=2201, 1164.35pt x 1004.75375pt>
+File: ./images/../images/resultC.jpg Graphic file (type jpg)
+
+<use ./images/../images/resultC.jpg>
+Package pdftex.def Info: ./images/../images/resultC.jpg used on input line 626.
+
+(pdftex.def)             Requested size: 331.71744pt x 286.23514pt.
+ [159 <D:/dropBox/Dropbox/New folder/wli_final_thesis/tex/phd_thesis_template/i
+mages/resultA.jpg> <D:/dropBox/Dropbox/New folder/wli_final_thesis/tex/phd_thes
+is_template/images/resultB.jpg>]
+<./images/../images/resultD.jpg, id=2206, 1164.35pt x 971.63pt>
+File: ./images/../images/resultD.jpg Graphic file (type jpg)
+
+<use ./images/../images/resultD.jpg>
+Package pdftex.def Info: ./images/../images/resultD.jpg used on input line 634.
+
+(pdftex.def)             Requested size: 331.71744pt x 276.79883pt.
+
+<./images/../images/all_characters_with_cloth.jpeg, id=2207, 3011.25pt x 1204.5
+pt>
+File: ./images/../images/all_characters_with_cloth.jpeg Graphic file (type jpg)
+
+ <use ./images/../images/all_characters_with_cloth.jpeg>
+Package pdftex.def Info: ./images/../images/all_characters_with_cloth.jpeg used
+ on input line 708.
+(pdftex.def)             Requested size: 368.57744pt x 147.4193pt.
+ [160 <D:/dropBox/Dropbox/New folder/wli_final_thesis/tex/phd_thesis_template/i
+mages/resultC.jpg> <D:/dropBox/Dropbox/New folder/wli_final_thesis/tex/phd_thes
+is_template/images/resultD.jpg>]
+<./images/../images/all_characters_with_cloth2.jpeg, id=2212, 3011.25pt x 1204.
+5pt>
+File: ./images/../images/all_characters_with_cloth2.jpeg Graphic file (type jpg
+)
+ <use ./images/../images/all_characters_with_cloth2.jpeg>
+Package pdftex.def Info: ./images/../images/all_characters_with_cloth2.jpeg use
+d on input line 715.
+(pdftex.def)             Requested size: 368.57744pt x 147.4193pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 727--727
+[]|\OT1/ptm/m/n/10.95 Evaluation
+ []
+
+
+Overfull \hbox (1.26349pt too wide) in paragraph at lines 729--729
+[]|\OT1/ptm/m/n/10.95 Measurements| 
+ []
+
+[161 <D:/dropBox/Dropbox/New folder/wli_final_thesis/tex/phd_thesis_template/im
+ages/all_characters_with_cloth.jpeg> <D:/dropBox/Dropbox/New folder/wli_final_t
+hesis/tex/phd_thesis_template/images/all_characters_with_cloth2.jpeg>]
+<./images/../images/7_characters.jpg, id=2219, 1927.2pt x 1084.05pt>
+File: ./images/../images/7_characters.jpg Graphic file (type jpg)
+
+<use ./images/../images/7_characters.jpg>
+Package pdftex.def Info: ./images/../images/7_characters.jpg used on input line
+ 747.
+(pdftex.def)             Requested size: 368.57744pt x 207.31148pt.
+
+<./images/../images/7_characters_dress1.jpg, id=2220, 1927.2pt x 1084.05pt>
+File: ./images/../images/7_characters_dress1.jpg Graphic file (type jpg)
+
+<use ./images/../images/7_characters_dress1.jpg>
+Package pdftex.def Info: ./images/../images/7_characters_dress1.jpg used on inp
+ut line 754.
+(pdftex.def)             Requested size: 368.57744pt x 207.31148pt.
+
+<./images/../images/7_characters_dress2.jpg, id=2221, 1927.2pt x 1084.05pt>
+File: ./images/../images/7_characters_dress2.jpg Graphic file (type jpg)
+
+<use ./images/../images/7_characters_dress2.jpg>
+Package pdftex.def Info: ./images/../images/7_characters_dress2.jpg used on inp
+ut line 761.
+(pdftex.def)             Requested size: 368.57744pt x 207.31148pt.
+ [162 <D:/dropBox/Dropbox/New folder/wli_final_thesis/tex/phd_thesis_template/i
+mages/7_characters.jpg> <D:/dropBox/Dropbox/New folder/wli_final_thesis/tex/phd
+_thesis_template/images/7_characters_dress1.jpg>]
+<./images/../images/7_characters_dress3.jpg, id=2226, 1927.2pt x 1084.05pt>
+File: ./images/../images/7_characters_dress3.jpg Graphic file (type jpg)
+
+<use ./images/../images/7_characters_dress3.jpg>
+Package pdftex.def Info: ./images/../images/7_characters_dress3.jpg used on inp
+ut line 768.
+(pdftex.def)             Requested size: 368.57744pt x 207.31148pt.
+ [163 <D:/dropBox/Dropbox/New folder/wli_final_thesis/tex/phd_thesis_template/i
+mages/7_characters_dress2.jpg> <D:/dropBox/Dropbox/New folder/wli_final_thesis/
+tex/phd_thesis_template/images/7_characters_dress3.jpg>] [164])
+("D:\dropBox\Dropbox\New folder\wli_final_thesis\tex\phd_thesis_template\chapte
+rs/conclusion_and_future_works.tex" [165]
+Chapter 5.
+[166
+
+]
+Overfull \hbox (1.0318pt too wide) in paragraph at lines 21--22
+[]\OT1/ptm/m/n/12 This the-sis pro-posed an au-to-matic pat-tern based cloth mo
+d-elling method
+ []
+
+[167] [168]
+Overfull \hbox (2.8298pt too wide) in paragraph at lines 36--37
+[]\OT1/ptm/m/n/12 An au-to-matic cloth pat-tern ad-just-ment method is pro-pose
+d. This method
+ []
+
+[169] [170])
+("D:\dropBox\Dropbox\New folder\wli_final_thesis\tex\phd_thesis_template\wenxi_
+thesis.bbl" [171] [172
+
+]
+Underfull \hbox (badness 1325) in paragraph at lines 117--122
+\OT1/ptm/m/n/12 site.  http://http://www.media-freaks.com/articles/3d-animation
+-studios-
+ []
+
+[173] [174]
+LaTeX Font Info:    Try loading font information for OMS+ptm on input line 245.
+
+ ("d:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\omsptm.fd"
+File: omsptm.fd 
+)
+LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 245.
+
+[175] [176] [177] [178] [179] [180] [181]
+Missing character: There is no Ã in font ptmr7t!
+Missing character: There is no   in font ptmr7t!
+Missing character: There is no Ã in font ptmr7t!
+Missing character: There is no © in font ptmr7t!
+Missing character: There is no Ã in font ptmr7t!
+Missing character: There is no   in font ptmr7t!
+Missing character: There is no Ã in font ptmri7t!
+Missing character: There is no © in font ptmri7t!
+Missing character: There is no Ã in font ptmri7t!
+Missing character: There is no © in font ptmri7t!
+ [182] [183] [184] [185]) [186]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 73.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 73.
+
+("D:\dropBox\Dropbox\New folder\wli_final_thesis\tex\phd_thesis_template\wenxi_
+thesis.aux")
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 73.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 73.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 73.
+ ) 
+Here is how much of TeX's memory you used:
+ 11654 strings out of 493921
+ 192149 string characters out of 3144852
+ 268703 words of memory out of 3000000
+ 14043 multiletter control sequences out of 15000+200000
+ 40746 words of font info for 85 fonts, out of 3000000 for 9000
+ 841 hyphenation exceptions out of 8191
+ 38i,27n,43p,2541b,738s stack positions out of 5000i,500n,10000p,200000b,50000s
+pdfTeX warning (dest): name{Hfootnote.1} has been referenced but does not exi
+st, replaced by a fixed one
+
+{d:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<d:/Program 
+Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><d:/Program Fi
+les (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><d:/Program File
+s (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><d:/Program Files 
+(x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi6.pfb><d:/Program Files (x8
+6)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><d:/Program Files (x86)/
+MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><d:/Program Files (x86)/MiK
+TeX 2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb><d:/Program Files (x86)/MiKTeX 
+2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><d:/Program Files (x86)/MiKTeX 2.9/
+fonts/type1/public/amsfonts/cm/cmsy10.pfb><d:/Program Files (x86)/MiKTeX 2.9/fo
+nts/type1/public/amsfonts/cm/cmsy6.pfb><d:/Program Files (x86)/MiKTeX 2.9/fonts
+/type1/public/amsfonts/cm/cmsy8.pfb><d:/Program Files (x86)/MiKTeX 2.9/fonts/ty
+pe1/public/amsfonts/symbols/msbm10.pfb><d:/Program Files (x86)/MiKTeX 2.9/fonts
+/type1/urw/courier/ucrr8a.pfb><d:/Program Files (x86)/MiKTeX 2.9/fonts/type1/ur
+w/times/utmb8a.pfb><d:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/times/utm
+r8a.pfb><d:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
+Output written on wenxi_thesis.pdf (203 pages, 31260875 bytes).
+PDF statistics:
+ 2686 PDF objects out of 2984 (max. 8388607)
+ 582 named destinations out of 1000 (max. 500000)
+ 882 words of extra memory for PDF output out of 10000 (max. 10000000)
+

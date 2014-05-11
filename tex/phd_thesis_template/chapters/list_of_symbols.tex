@@ -1,0 +1,75 @@
+
+\ifx\isEmbedded\undefined
+\input{../format/format-setup}
+\begin{document}
+%\maketitle
+\fi
+
+\pagebreak
+
+
+\chapter*{List of Symbols}
+\addcontentsline{toc}{chapter}{List of symbols}
+%${}$\vspace{4em}\\
+%{\raggedright \huge \textbf{List of Symbols}}
+
+
+\begin{longtable}{ m{20mm}|m{90mm} }
+
+  %\hline
+  $C$ & Smooth curve \\ 
+  $L$ & Euclidean distance \\
+  $S$ & Smooth surface\\
+  $T{p}$ & The tangent plane of a surface $p$\\
+  $C'$ & First order derivative of $C$ \\
+  $C^{'}_{s}$ &First order derivative of $C$ at point that has arc length $s$ to $C$ \\
+  $C^{''}$ & Second order derivative of $C$\\
+  $C^{''}_{s}$ & Second order derivative of $C$ at point that has arc length $s$ to $C$ \\
+  $\kappa$ & Curvature \\
+  $\tau$ & Torsion \\
+  $\kappa{g}$ & Geodesic curvature \\
+  $\mathbb{R}^{3}$ & Three-dimensional Euclidean space \\
+  $C(t)$ & A curve in Euclidean space parametrized as a function of time \\
+  $s$ & Arc length of a curve \\
+  $C(s)$ & A point on curve $C$ at arc length $s$ to $C$ \\
+%  \hline
+%\end{tabular}
+%
+%\begin{tabular}{ m{20mm}|m{90mm} }
+%
+%  \hline
+%  $\vec{T}$ & Tangent vector of a curve \\
+%  $\vec{N}$ & Unit vector of $C'$ \\
+%  $\vec{B}$ & Unit vector of $C^{''}$ \\
+  $C(s,t)$ & Geodesic curvature flow \\
+  $\vec{n}$ & Normal vector at a point on $S$ \\
+  $\vec{t}$ & Tangent vector at a point on curve $C$\\
+  $\vec{n_{p}}$ & Principle normal vector at a point on curve $C$\\
+  $\vec{n_{b}}$ & Binormal vector at a point on curve $C$\\
+  $\overrightarrow{p_{i}p_{i+1}}$ & A vector from $p_{i}$ to $p_{i+1}$ \\
+  $\left \langle A,B \right \rangle$ & Dot product of vector $A$ and $B$ \\
+  $\times$ & Cross product of two vectors\\
+  $\widetilde{p_{i-1}p_{i}p_{i+1}}$ & A section of the piecewise curve consisted by three points\\
+  $\mu$ & Iterative step length for geodesic curvature flow convergence \\
+  $p_{i_{x}}$ & The $x$ value of the three-dimensional Euclidean coordination of point $p$ with index $i$ \\
+  $p'$ & The new location of point $p$ after it is updated by geodesic algorithm presented in this thesis \\
+  $\bar{p}$ & The projection of point $p$ on to the tangent plane $T{p}$ \\
+  $fp_{i}$ & Vertex on polyhedron with index $i$\\
+  %\hline
+\end{longtable}
+
+
+\ifx\isEmbedded\undefined
+% References
+\addcontentsline{toc}{chapter}{References}
+\bibliographystyle{ref/harvard}
+\bibliography{ref/master}
+\pagebreak
+\end{document}
+\fi
+
+
+
+
+
+

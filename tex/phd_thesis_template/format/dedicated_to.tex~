@@ -1,0 +1,9 @@
+
+\renewcommand{\abstractname}{Dedicated to:}
+\begin{abstract}
+\begin{center}
+\vspace{20 mm}
+\textit{\textbf{My XYZ}}\\
+who is ...
+\end{center}
+\end{abstract}

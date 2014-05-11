@@ -1,0 +1,29 @@
+
+\ifx\isEmbedded\undefined
+\input{../format/format-setup}
+\graphicspath{{../images/}}
+\begin{document}
+%\maketitle
+\fi
+
+%**************************************************************************
+%**************************************************************************
+\chapter{Introduction}
+\label{cha:introduction}
+
+%--------------------------------------------------------------------------
+\section{Motivation}
+Goes here ...inline ref \cite{poudel2013} and this is \citep{poudel2012}.
+
+%**************************************************************************
+%**************************************************************************
+
+
+\ifx\isEmbedded\undefined
+% References
+\addcontentsline{toc}{chapter}{References}
+\bibliographystyle{../ref/harvard}
+\bibliography{../ref/phd_references}
+\pagebreak
+\end{document}
+\fi

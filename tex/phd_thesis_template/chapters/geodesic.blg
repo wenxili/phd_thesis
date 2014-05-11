@@ -1,0 +1,53 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: geodesic.aux
+The style file: ../ref/harvard.bst
+Database file #1: ../ref/phd_references.bib
+Too many commas in name 1 of "Chopp, David L., Sethian, James A." for entry Chopp1993
+while executing---line 1179 of file ../ref/harvard.bst
+Too many commas in name 1 of "Chopp, David L., Sethian, James A." for entry Chopp1993
+while executing---line 1179 of file ../ref/harvard.bst
+Name 1 in "Clairaut," has a comma at the end for entry nlacat-vn853242
+while executing---line 1179 of file ../ref/harvard.bst
+Name 1 in "Clairaut," has a comma at the end for entry nlacat-vn853242
+while executing---line 1179 of file ../ref/harvard.bst
+`editor' is a missing field, not a string, for entry aleksandrov1967intrinsic
+while executing---line 1236 of file ../ref/harvard.bst
+`editor' is a missing field, not a string, for entry Butcher1987
+while executing---line 1236 of file ../ref/harvard.bst
+`editor' is a missing field, not a string, for entry butcher2008numerical
+while executing---line 1236 of file ../ref/harvard.bst
+Too many commas in name 1 of "Chopp, David L., Sethian, James A." for entry Chopp1993
+while executing---line 1236 of file ../ref/harvard.bst
+Too many commas in name 1 of "Chopp, David L., Sethian, James A." for entry Chopp1993
+while executing---line 1236 of file ../ref/harvard.bst
+Name 1 in "Clairaut," has a comma at the end for entry nlacat-vn853242
+while executing---line 1236 of file ../ref/harvard.bst
+`editor' is a missing field, not a string, for entry nlacat-vn853242
+while executing---line 1236 of file ../ref/harvard.bst
+Name 1 in "Clairaut," has a comma at the end for entry nlacat-vn853242
+while executing---line 1236 of file ../ref/harvard.bst
+`editor' is a missing field, not a string, for entry cormen2001introduction
+while executing---line 1236 of file ../ref/harvard.bst
+`editor' is a missing field, not a string, for entry de2008computational
+while executing---line 1236 of file ../ref/harvard.bst
+`editor' is a missing field, not a string, for entry enns2000nonlinear
+while executing---line 1236 of file ../ref/harvard.bst
+`editor' is a missing field, not a string, for entry hairer2010solving
+while executing---line 1236 of file ../ref/harvard.bst
+`editor' is a missing field, not a string, for entry hundsdorfer2003numerical
+while executing---line 1236 of file ../ref/harvard.bst
+`editor' is a missing field, not a string, for entry jiang1998least
+while executing---line 1236 of file ../ref/harvard.bst
+`editor' is a missing field, not a string, for entry jolliffe2002principal
+while executing---line 1236 of file ../ref/harvard.bst
+`editor' is a missing field, not a string, for entry kreyszig1991differential
+while executing---line 1236 of file ../ref/harvard.bst
+`editor' is a missing field, not a string, for entry trefethen1997numerical
+while executing---line 1236 of file ../ref/harvard.bst
+`editor' is a missing field, not a string, for entry xiong2000
+while executing---line 1236 of file ../ref/harvard.bst
+Warning--can't use both author and editor fields in armstrong2000
+Too many commas in name 1 of "Chopp, David L., Sethian, James A." for entry Chopp1993
+while executing---line 1252 of file ../ref/harvard.bst
+Name 1 in "Clairaut," has a comma at the end for entry nlacat-vn853242
+while executing---line 1252 of file ../ref/harvard.bst
+(There were 24 error messages)

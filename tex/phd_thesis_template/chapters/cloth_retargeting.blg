@@ -1,0 +1,34 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: cloth_retargeting.aux
+The style file: ../ref/harvard.bst
+Database file #1: ../ref/phd_references.bib
+Repeated entry---line 3014 of file ../ref/phd_references.bib
+ : @book{Holland:1992
+ :                   ,
+I'm skipping whatever remains of this entry
+`author' is a missing field, not a string, for entry maya2012
+while executing---line 1236 of file ../ref/harvard.bst
+`editor' is a missing field, not a string, for entry deb2001multi
+while executing---line 1236 of file ../ref/harvard.bst
+`editor' is a missing field, not a string, for entry reader2010new
+while executing---line 1236 of file ../ref/harvard.bst
+`editor' is a missing field, not a string, for entry ghosh2003advances
+while executing---line 1236 of file ../ref/harvard.bst
+`editor' is a missing field, not a string, for entry gwiazda2006crossover
+while executing---line 1236 of file ../ref/harvard.bst
+`editor' is a missing field, not a string, for entry haupt2004practical
+while executing---line 1236 of file ../ref/harvard.bst
+`editor' is a missing field, not a string, for entry Holland:1992
+while executing---line 1236 of file ../ref/harvard.bst
+`editor' is a missing field, not a string, for entry michalewicz1996genetic
+while executing---line 1236 of file ../ref/harvard.bst
+`editor' is a missing field, not a string, for entry moore2001concepts
+while executing---line 1236 of file ../ref/harvard.bst
+`editor' is a missing field, not a string, for entry Pareto:1971
+while executing---line 1236 of file ../ref/harvard.bst
+`editor' is a missing field, not a string, for entry rosen2004patternmaking
+while executing---line 1236 of file ../ref/harvard.bst
+`editor' is a missing field, not a string, for entry xiong2000
+while executing---line 1236 of file ../ref/harvard.bst
+Warning--can't use both author and editor fields in armstrong2000
+Warning--empty journal in Kendall1977
+(There were 13 error messages)

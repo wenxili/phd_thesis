@@ -1,0 +1,61 @@
+\contentsline {chapter}{Copyright statement}{i}{Doc-Start}
+\contentsline {chapter}{Abstract}{ii}{chapter*.1}
+\contentsline {chapter}{Table of contents}{iv}{chapter*.1}
+\contentsline {chapter}{List of figures}{vii}{chapter*.1}
+\contentsline {chapter}{List of tables}{xi}{chapter*.1}
+\contentsline {chapter}{Abbreviations}{xii}{chapter*.2}
+\contentsline {chapter}{List of symbols}{xiii}{chapter*.3}
+\contentsline {chapter}{Acknowledgements}{xv}{chapter*.4}
+\contentsline {chapter}{Declaration}{xvi}{chapter*.5}
+\contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}
+\contentsline {section}{\numberline {1.1}Cloth Making and Fashion Design}{2}{section.1.1}
+\contentsline {section}{\numberline {1.2}Virtual Clothing in Fashion Industry}{7}{section.1.2}
+\contentsline {section}{\numberline {1.3}Virtual Clothing in Computer Animation}{9}{section.1.3}
+\contentsline {subsection}{\numberline {1.3.1}Cloth Modelling}{11}{subsection.1.3.1}
+\contentsline {subsection}{\numberline {1.3.2}Cloth Simulation}{12}{subsection.1.3.2}
+\contentsline {section}{\numberline {1.4}Motivation}{12}{section.1.4}
+\contentsline {section}{\numberline {1.5}Research Aims and Objectives}{15}{section.1.5}
+\contentsline {section}{\numberline {1.6}Contributions}{16}{section.1.6}
+\contentsline {section}{\numberline {1.7}Thesis Outline}{17}{section.1.7}
+\contentsline {chapter}{\numberline {2}Literature Review}{19}{chapter.2}
+\contentsline {section}{\numberline {2.1}Patternmaking in Fashion Design}{20}{section.2.1}
+\contentsline {section}{\numberline {2.2}Anthropometry}{22}{section.2.2}
+\contentsline {section}{\numberline {2.3}Virtual Clothing in Computer Graphic}{27}{section.2.3}
+\contentsline {subsection}{\numberline {2.3.1}Geometrical Based Virtual Clothing}{27}{subsection.2.3.1}
+\contentsline {subsection}{\numberline {2.3.2}Physical Based Virtual Clothing}{34}{subsection.2.3.2}
+\contentsline {subsection}{\numberline {2.3.3}Hybrid Virtual Clothing}{38}{subsection.2.3.3}
+\contentsline {section}{\numberline {2.4}Geodesics}{40}{section.2.4}
+\contentsline {section}{\numberline {2.5}Genetic Algorithm}{45}{section.2.5}
+\contentsline {section}{\numberline {2.6}Summary}{49}{section.2.6}
+\contentsline {chapter}{\numberline {3}Character Measurements Extraction}{53}{chapter.3}
+\contentsline {section}{\numberline {3.1}Introduction}{59}{section.3.1}
+\contentsline {section}{\numberline {3.2}Geodesic Curvature Flow}{63}{section.3.2}
+\contentsline {section}{\numberline {3.3}Geodesic on Mesh}{70}{section.3.3}
+\contentsline {subsection}{\numberline {3.3.1}Tangent Space Constraint}{70}{subsection.3.3.1}
+\contentsline {subsection}{\numberline {3.3.2}Implicit Euler Scheme}{71}{subsection.3.3.2}
+\contentsline {subsection}{\numberline {3.3.3}Least Squares Scheme}{72}{subsection.3.3.3}
+\contentsline {subsection}{\numberline {3.3.4}Geodesic Path Projection}{76}{subsection.3.3.4}
+\contentsline {subsection}{\numberline {3.3.5}``Continuous Dijkstra'' Propagation}{81}{subsection.3.3.5}
+\contentsline {section}{\numberline {3.4}Performance Analysis}{95}{section.3.4}
+\contentsline {subsection}{\numberline {3.4.1}Efficiency}{95}{subsection.3.4.1}
+\contentsline {subsection}{\numberline {3.4.2}Accuracy}{98}{subsection.3.4.2}
+\contentsline {section}{\numberline {3.5}Results and Conclusions}{107}{section.3.5}
+\contentsline {chapter}{\numberline {4}Cloth Modelling and Re-targeting }{114}{chapter.4}
+\contentsline {section}{\numberline {4.1}Introduction}{114}{section.4.1}
+\contentsline {subsection}{\numberline {4.1.1}Patternmaking}{117}{subsection.4.1.1}
+\contentsline {subsection}{\numberline {4.1.2}Pattern Resizing Criteria}{120}{subsection.4.1.2}
+\contentsline {section}{\numberline {4.2}Cloth Resizing Algorithm }{122}{section.4.2}
+\contentsline {subsection}{\numberline {4.2.1}Genetic Algorithm}{127}{subsection.4.2.1}
+\contentsline {subsection}{\numberline {4.2.2}Definition of Population}{132}{subsection.4.2.2}
+\contentsline {subsection}{\numberline {4.2.3}Crossover and Mutation}{136}{subsection.4.2.3}
+\contentsline {subsection}{\numberline {4.2.4}Evaluation and Selection}{143}{subsection.4.2.4}
+\contentsline {subsubsection}{Measurements evaluation}{143}{section*.74}
+\contentsline {subsubsection}{Seam-lines evaluation}{144}{section*.75}
+\contentsline {subsubsection}{Shape evaluation}{146}{section*.77}
+\contentsline {subsubsection}{Selection}{150}{section*.82}
+\contentsline {section}{\numberline {4.3}Pattern Assembling}{153}{section.4.3}
+\contentsline {section}{\numberline {4.4}Conclusions}{163}{section.4.4}
+\contentsline {chapter}{\numberline {5}Conclusion and Future Work}{166}{chapter.5}
+\contentsline {section}{\numberline {5.1}Conclusion}{166}{section.5.1}
+\contentsline {section}{\numberline {5.2}Future work}{170}{section.5.2}
+\contentsline {chapter}{References}{171}{Item.22}

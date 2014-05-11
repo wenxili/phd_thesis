@@ -1,0 +1,108 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: literature_review.aux
+The style file: ../ref/harvard.bst
+Database file #1: ../ref/phd_references.bib
+Repeated entry---line 777 of file ../ref/phd_references.bib
+ : @book{stecker1996fashion
+ :                         ,
+I'm skipping whatever remains of this entry
+Warning--entry type for "McManus2003" isn't style-file defined
+--line 1705 of file ../ref/phd_references.bib
+Repeated entry---line 2139 of file ../ref/phd_references.bib
+ : @inproceedings{Chen:1990
+ :                         ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2351 of file ../ref/phd_references.bib
+ : @inproceedings{Sharir:1984
+ :                           ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2774 of file ../ref/phd_references.bib
+ : @article{Kunii1990
+ :                   ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2872 of file ../ref/phd_references.bib
+ : @inproceedings{Ruggeri:2006
+ :                            ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2961 of file ../ref/phd_references.bib
+ : @book{Holland:1992
+ :                   ,
+I'm skipping whatever remains of this entry
+Name 1 in "T. Agui, Y. Nagao, and M. Nakajima" has a comma at the end for entry agui1990
+while executing---line 1179 of file ../ref/harvard.bst
+Name 1 in "T. Agui, Y. Nagao, and M. Nakajima" has a comma at the end for entry agui1990
+while executing---line 1179 of file ../ref/harvard.bst
+Too many commas in name 1 of "Thomas Stumpp, Jonas Spillmann, Markus Becker, Matthias Teschner" for entry Thomas2008
+while executing---line 1179 of file ../ref/harvard.bst
+Too many commas in name 1 of "Thomas Stumpp, Jonas Spillmann, Markus Becker, Matthias Teschner" for entry Thomas2008
+while executing---line 1179 of file ../ref/harvard.bst
+`author' is a missing field, not a string, for entry Ratatouille
+while executing---line 1236 of file ../ref/harvard.bst
+`editor' is a missing field, not a string, for entry 2011practical
+while executing---line 1236 of file ../ref/harvard.bst
+`editor' is a missing field, not a string, for entry butterick1994butterick
+while executing---line 1236 of file ../ref/harvard.bst
+`editor' is a missing field, not a string, for entry cabrera1983classic
+while executing---line 1236 of file ../ref/harvard.bst
+`editor' is a missing field, not a string, for entry FAST
+while executing---line 1236 of file ../ref/harvard.bst
+`editor' is a missing field, not a string, for entry deb2001multi
+while executing---line 1236 of file ../ref/harvard.bst
+`editor' is a missing field, not a string, for entry gupta2014anthropometry
+while executing---line 1236 of file ../ref/harvard.bst
+`editor' is a missing field, not a string, for entry Holland:1992
+while executing---line 1236 of file ../ref/harvard.bst
+You can't pop an empty literal stack for entry macdonald2009principles
+while executing---line 1236 of file ../ref/harvard.bst
+`editor' is a missing field, not a string, for entry margolis1964complete
+while executing---line 1236 of file ../ref/harvard.bst
+`editor' is a missing field, not a string, for entry mehta2009human
+while executing---line 1236 of file ../ref/harvard.bst
+`editor' is a missing field, not a string, for entry noke1987history
+while executing---line 1236 of file ../ref/harvard.bst
+`editor' is a missing field, not a string, for entry norton1996anthropometrica
+while executing---line 1236 of file ../ref/harvard.bst
+`editor' is a missing field, not a string, for entry nugent2008computerized
+while executing---line 1236 of file ../ref/harvard.bst
+`editor' is a missing field, not a string, for entry Pareto:1971
+while executing---line 1236 of file ../ref/harvard.bst
+You can't pop an empty literal stack for entry pollio1914ten
+while executing---line 1236 of file ../ref/harvard.bst
+You can't pop an empty literal stack for entry quetelet2011anthropométrie
+while executing---line 1236 of file ../ref/harvard.bst
+You can't pop an empty literal stack for entry robins1994proportion
+while executing---line 1236 of file ../ref/harvard.bst
+`editor' is a missing field, not a string, for entry rosen2004patternmaking
+while executing---line 1236 of file ../ref/harvard.bst
+`editor' is a missing field, not a string, for entry samaras2007human
+while executing---line 1236 of file ../ref/harvard.bst
+You can't pop an empty literal stack for entry selin2008encyclopaedia
+while executing---line 1236 of file ../ref/harvard.bst
+`editor' is a missing field, not a string, for entry shoben1987pattern
+while executing---line 1236 of file ../ref/harvard.bst
+`editor' is a missing field, not a string, for entry 2007hand
+while executing---line 1236 of file ../ref/harvard.bst
+`editor' is a missing field, not a string, for entry stecker1996fashion
+while executing---line 1236 of file ../ref/harvard.bst
+You can't pop an empty literal stack for entry stemp2006secret
+while executing---line 1236 of file ../ref/harvard.bst
+Name 1 in "T. Agui, Y. Nagao, and M. Nakajima" has a comma at the end for entry agui1990
+while executing---line 1236 of file ../ref/harvard.bst
+Name 1 in "T. Agui, Y. Nagao, and M. Nakajima" has a comma at the end for entry agui1990
+while executing---line 1236 of file ../ref/harvard.bst
+You can't pop an empty literal stack for entry tanner_history_1981
+while executing---line 1236 of file ../ref/harvard.bst
+Too many commas in name 1 of "Thomas Stumpp, Jonas Spillmann, Markus Becker, Matthias Teschner" for entry Thomas2008
+while executing---line 1236 of file ../ref/harvard.bst
+Too many commas in name 1 of "Thomas Stumpp, Jonas Spillmann, Markus Becker, Matthias Teschner" for entry Thomas2008
+while executing---line 1236 of file ../ref/harvard.bst
+`editor' is a missing field, not a string, for entry volino2000virtual
+while executing---line 1236 of file ../ref/harvard.bst
+Warning--empty institution in Horn93multiobjectiveoptimization
+Warning--can't use both author and editor fields in pheasant2006bodyspace
+Warning--empty school in Rudomin1990
+Name 1 in "T. Agui, Y. Nagao, and M. Nakajima" has a comma at the end for entry agui1990
+while executing---line 1252 of file ../ref/harvard.bst
+Warning--empty booktitle in agui1990
+Too many commas in name 1 of "Thomas Stumpp, Jonas Spillmann, Markus Becker, Matthias Teschner" for entry Thomas2008
+while executing---line 1252 of file ../ref/harvard.bst
+(There were 43 error messages)

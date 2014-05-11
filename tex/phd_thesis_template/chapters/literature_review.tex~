@@ -1,0 +1,35 @@
+
+\ifx\isEmbedded\undefined
+\input{../format/format-setup}
+\graphicspath{{../images/}}
+\begin{document}
+%\maketitle
+\fi
+
+
+%**************************************************************************
+%**************************************************************************
+\chapter{Literature Review}
+\label{cha:literature_review}
+
+This chapter provides the overview of hand tracking research. Review on early hand tracking research has been published on \cite{pavlovic1997}, \cite{wu1999} and \cite{erol2007}. Next section describes the different types of hand tracking techniques. Section \ref{cha2:sec:human_body_tracking} discuss the similarities and differences between whole human body and the hand tracking techniques. In Section \ref{cha2:sec:rationale_of_selected_techniques} rationale behind selected methodologies/techniques for this thesis have been discussed. Remaining sections describes features, sampling techniques, probabilistic graphical model and hand joints detection techniques related with this thesis.
+
+
+%--------------------------------------------------------------------------
+\section{Background}
+Goes here ...
+
+
+
+%**************************************************************************
+%**************************************************************************
+
+
+\ifx\isEmbedded\undefined
+% References
+\addcontentsline{toc}{chapter}{References}
+\bibliographystyle{../ref/harvard}
+\bibliography{../ref/phd_references}
+\pagebreak
+\end{document}
+\fi

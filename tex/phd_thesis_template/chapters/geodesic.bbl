@@ -1,0 +1,191 @@
+\begin{thebibliography}{}
+
+\harvarditem[Aleksandrov \& Zalgaller]{Aleksandrov \&
+  Zalgaller}{1967}{aleksandrov1967intrinsic}
+A.~Aleksandrov \& V.~Zalgaller (1967).
+\newblock {\em Intrinsic geometry of surfaces}.
+\newblock Translations of mathematical monographs. American Mathematical
+  Society.
+
+\harvarditem[Armstrong]{Armstrong}{2000}{armstrong2000}
+H.~J. Armstrong (2000).
+\newblock {\em Patternmaking: for fashion design}.
+\newblock Pearson Prentice Hall.
+
+\harvarditem[Bunch \& Hopcroft]{Bunch \& Hopcroft}{1974}{James1918107}
+J.~R. Bunch \& J.~E. Hopcroft (1974).
+\newblock `{Triangular Factorization and Inversion by Fast Matrix
+  Multiplication}'.
+\newblock {\em Mathematics of Computation} {\bf 28}:231--231.
+
+\harvarditem[Butcher]{Butcher}{2008}{butcher2008numerical}
+J.~Butcher (2008).
+\newblock {\em Numerical Methods for Ordinary Differential Equations}.
+\newblock Wiley.
+
+\harvarditem[Butcher]{Butcher}{1987}{Butcher1987}
+J.~C. Butcher (1987).
+\newblock {\em The numerical analysis of ordinary differential equations:
+  Runge-Kutta and general linear methods}.
+\newblock Wiley-Interscience, New York, NY, USA.
+
+\harvarditem[Chopp]{Chopp}{1993}{Chopp1993}
+S.~J.~A. Chopp, David~L. (1993).
+\newblock `Flow under curvature: Singularity formation, minimal surfaces, and
+  geodesics.'.
+\newblock {\em Experimental Mathematics} {\bf 2}(4):235--255.
+
+\harvarditem[Clairaut]{Clairaut}{1731}{nlacat-vn853242}
+Clairaut (1731).
+\newblock {\em Recherches sur les courbes a double courbure [microform]}.
+\newblock Nyon, Didot, Quillau Paris.
+
+\harvarditem[Coppersmith \& Winograd]{Coppersmith \&
+  Winograd}{1987}{Coppersmith1987}
+D.~Coppersmith \& S.~Winograd (1987).
+\newblock `Matrix multiplication via arithmetic progressions'.
+\newblock In {\em Proceedings of the nineteenth annual ACM symposium on Theory
+  of computing}, STOC '87, pp. 1--6, New York, NY, USA. ACM.
+
+\harvarditem[Cormen et~al.]{Cormen, et~al.}{2001}{cormen2001introduction}
+T.~Cormen, et~al. (2001).
+\newblock {\em Introduction To Algorithms}.
+\newblock MIT Press.
+
+\harvarditem[de~Berg et~al.]{de~Berg, et~al.}{2008}{de2008computational}
+M.~de~Berg, et~al. (2008).
+\newblock {\em Computational Geometry: Algorithms and Applications}.
+\newblock Springer.
+
+\harvarditem[Dijkstra]{Dijkstra}{1959}{dijkstra59a}
+E.~W. Dijkstra (1959).
+\newblock `A note on two problems in connexion with graphs'.
+\newblock {\em Numerische Mathematik} {\bf 1}:269--271.
+
+\harvarditem[EN:13402]{EN:13402}{2001}{UKsizeChart2005}
+EN:13402 (2001).
+\newblock {\em Size designation of clothes}.
+
+\harvarditem[Enns \& McGuire]{Enns \& McGuire}{2000}{enns2000nonlinear}
+R.~Enns \& G.~McGuire (2000).
+\newblock {\em Nonlinear Physics With Maple for Scientists and Engineers}.
+\newblock Springer.
+
+\harvarditem[Graham]{Graham}{1972}{Graham1972}
+R.~L. Graham (1972).
+\newblock `An Efficient Algorithm for Determining the Convex Hull of a Finite
+  Planar Set'.
+\newblock {\em Inf. Process. Lett.} {\bf 1}(4):132--133.
+
+\harvarditem[Hairer]{Hairer}{2010}{hairer2010solving}
+G.~Hairer (2010).
+\newblock {\em Solving Ordinary Differential Equations II}.
+\newblock Springer Berlin Heidelberg.
+
+\harvarditem[Hundsdorfer \& Verwer]{Hundsdorfer \&
+  Verwer}{2003}{hundsdorfer2003numerical}
+W.~Hundsdorfer \& J.~Verwer (2003).
+\newblock {\em Numerical Solution of Time-Dependent
+  Advection-Diffusion-Reaction Equations}.
+\newblock Springer Series in Computational Mathematics. Springer.
+
+\harvarditem[Jiang]{Jiang}{1998}{jiang1998least}
+B.~Jiang (1998).
+\newblock {\em The Least-Squares Finite Element Method: Theory and Applications
+  in Computational Fluid Dynamics and Electromagnetics}.
+\newblock Lecture Notes in Mathematics. Springer.
+
+\harvarditem[Jolliffe]{Jolliffe}{2002}{jolliffe2002principal}
+I.~Jolliffe (2002).
+\newblock {\em Principal Component Analysis}.
+\newblock Springer Series in Statistics. Springer.
+
+\harvarditem[Kimmel \& Sethian]{Kimmel \& Sethian}{1998}{Kimmel:1998}
+R.~Kimmel \& J.~A. Sethian (1998).
+\newblock `Computing geodesic paths on manifolds'.
+\newblock {\em Proceedings of the National Academy of Sciences} {\bf
+  95}(15):8431--8435.
+
+\harvarditem[Kreyszig]{Kreyszig}{1991}{kreyszig1991differential}
+E.~Kreyszig (1991).
+\newblock {\em Differential Geometry}.
+\newblock Differential Geometry. Dover Publications.
+
+\harvarditem[Mitchell et~al.]{Mitchell, et~al.}{1987a}{Mitchell}
+J.~S.~B. Mitchell, et~al. (1987a).
+\newblock `The discrete geodesic problem'.
+\newblock {\em SIAM J. Comput.} {\bf 16}(4):647--668.
+
+\harvarditem[Mitchell et~al.]{Mitchell, et~al.}{1987b}{Mitchell:1987}
+J.~S.~B. Mitchell, et~al. (1987b).
+\newblock `The discrete geodesic problem'.
+\newblock {\em SIAM J. Comput.} {\bf 16}(4):647--668.
+
+\harvarditem[Peyr{\'e} \& Cohen]{Peyr{\'e} \& Cohen}{2006}{Peyre2006}
+G.~Peyr{\'e} \& L.~D. Cohen (2006).
+\newblock `Geodesic Remeshing Using Front Propagation'.
+\newblock {\em Int. J. Comput. Vision} {\bf 69}(1):145--156.
+
+\harvarditem[Polthier \& Schmies]{Polthier \& Schmies}{2006}{Polthier:2006}
+K.~Polthier \& M.~Schmies (2006).
+\newblock `Straightest geodesics on polyhedral surfaces'.
+\newblock In {\em ACM SIGGRAPH 2006 Courses}, SIGGRAPH '06, pp. 30--38, New
+  York, NY, USA. ACM.
+
+\harvarditem[Salden et~al.]{Salden, et~al.}{1999}{Sethian1999}
+A.~Salden, et~al. (1999).
+\newblock `Linearised Euclidean Shortening Flow of Curve Geometry'.
+\newblock {\em International Journal of Computer Vision} {\bf 34}(1):29--67.
+
+\harvarditem[Serret]{Serret}{1851}{Serret1851}
+J.-A. Serret (1851).
+\newblock `Sur quelques formules relatives à la théorie des courbes à double
+  courbure.'.
+\newblock {\em Journal de Mathématiques Pures et Appliquées} pp. 193--207.
+
+\harvarditem[Spira \& Kimmel]{Spira \& Kimmel}{2002}{Spira02geodesiccurvature}
+A.~Spira \& R.~Kimmel (2002).
+\newblock `Geodesic Curvature Flow on Parametric Surfaces'.
+\newblock In {\em In Curve and Surface Design: Saint-Malo 2002}, pp. 365--373.
+
+\harvarditem[Surazhsky et~al.]{Surazhsky, et~al.}{2005}{Surazhsky:2005}
+V.~Surazhsky, et~al. (2005).
+\newblock `Fast exact and approximate geodesics on meshes'.
+\newblock {\em ACM Trans. Graph.} {\bf 24}(3):553--560.
+
+\harvarditem[Thielhelm et~al.]{Thielhelm, et~al.}{2012}{ThielhelmVBW12}
+H.~Thielhelm, et~al. (2012).
+\newblock `Connecting geodesics on smooth surfaces.'.
+\newblock {\em The Visual Computer} {\bf 28}(6-8):529--539.
+
+\harvarditem[Trefethen \& Bau]{Trefethen \& Bau}{1997}{trefethen1997numerical}
+L.~Trefethen \& D.~Bau (1997).
+\newblock {\em Numerical Linear Algebra}.
+\newblock Miscellaneous Bks. Society for Industrial and Applied Mathematics.
+
+\harvarditem[Wu \& Tai]{Wu \& Tai}{2010}{Chunlin5226631}
+C.~Wu \& X.~Tai (2010).
+\newblock `A Level Set Formulation of Geodesic Curvature Flow on Simplicial
+  Surfaces'.
+\newblock {\em Visualization and Computer Graphics, IEEE Transactions on} {\bf
+  16}(4):647--662.
+
+\harvarditem[Xin \& Wang]{Xin \& Wang}{2009}{Xin:2009}
+S.-Q. Xin \& G.-J. Wang (2009).
+\newblock `Improving Chen and Han's algorithm on the discrete geodesic
+  problem'.
+\newblock {\em ACM Trans. Graph.} {\bf 28}(4):104:1--104:8.
+
+\harvarditem[Xiong]{Xiong}{2008}{xiong2000}
+N.~Xiong (2008).
+\newblock {\em World Classical fashion Design and Pattern}.
+\newblock Jiangxi Art Press.
+
+\harvarditem[Zigelman et~al.]{Zigelman, et~al.}{2002}{Zigelman998671}
+G.~Zigelman, et~al. (2002).
+\newblock `Texture mapping using surface flattening via multidimensional
+  scaling'.
+\newblock {\em Visualization and Computer Graphics, IEEE Transactions on} {\bf
+  8}(2):198--207.
+
+\end{thebibliography}

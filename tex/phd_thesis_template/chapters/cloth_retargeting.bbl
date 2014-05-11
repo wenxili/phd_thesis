@@ -1,0 +1,134 @@
+\begin{thebibliography}{}
+
+\harvarditem[Armstrong]{Armstrong}{2000}{armstrong2000}
+H.~J. Armstrong (2000).
+\newblock {\em Patternmaking: for fashion design}.
+\newblock Pearson Prentice Hall.
+
+\harvarditem[Autodesk]{Maya2012}{2012}{maya2012}
+Autodesk (2012).
+\newblock `Maya2012'.
+\newblock Software.
+\newblock Autodesk Inc.
+
+\harvarditem[Deb]{Deb}{2001}{deb2001multi}
+K.~Deb (2001).
+\newblock {\em Multi-Objective Optimization using Evolutionary Algorithms}.
+\newblock Wiley Interscience Series in Systems and Optimization. Wiley.
+
+\harvarditem[Deb et~al.]{Deb, et~al.}{2002}{Deb996017}
+K.~Deb, et~al. (2002).
+\newblock `A fast and elitist multiobjective genetic algorithm: NSGA-II'.
+\newblock {\em Evolutionary Computation, IEEE Transactions on} {\bf
+  6}(2):182--197.
+
+\harvarditem[Digest]{Digest}{2010}{reader2010new}
+R.~Digest (2010).
+\newblock {\em New Complete Guide to Sewing: Step-By-Step Techniquest for
+  Making Clothes and Home Accessories, Simplicity Patterns}.
+\newblock Reader's Digest. Reader's Digest Association, Incorporated.
+
+\harvarditem[EN:13402]{EN:13402}{2001}{UKsizeChart2005}
+EN:13402 (2001).
+\newblock {\em Size designation of clothes}.
+
+\harvarditem[Ghosh \& Tsutsui]{Ghosh \& Tsutsui}{2003}{ghosh2003advances}
+A.~Ghosh \& S.~Tsutsui (2003).
+\newblock {\em Advances in Evolutionary Computing: Theory and Applications}.
+\newblock Natural Computing Series. Springer.
+
+\harvarditem[Grefenstette]{Grefenstette}{1986}{Grefenstette4075583}
+J.~Grefenstette (1986).
+\newblock `Optimization of Control Parameters for Genetic Algorithms'.
+\newblock {\em Systems, Man and Cybernetics, IEEE Transactions on} {\bf
+  16}(1):122--128.
+
+\harvarditem[Gwiazda]{Gwiazda}{2006}{gwiazda2006crossover}
+T.~Gwiazda (2006).
+\newblock {\em Crossover for single-objective numerical optimization problems}.
+\newblock Genetic algorithms reference. TOMASZGWIAZDA E-BOOKS.
+
+\harvarditem[Hannah]{Hannah}{1919}{Millard:1919}
+G.~M. Hannah (1919).
+\newblock `Dressmaker's Pattern Outfit'.
+\newblock US Patent No.1313496.
+
+\harvarditem[Haupt \& Haupt]{Haupt \& Haupt}{2004}{haupt2004practical}
+R.~Haupt \& S.~Haupt (2004).
+\newblock {\em Practical Genetic Algorithms}.
+\newblock Wiley.
+
+\harvarditem[Holland]{Holland}{1992}{Holland:1992}
+J.~H. Holland (1992).
+\newblock {\em Adaptation in natural and artificial systems}.
+\newblock MIT Press, Cambridge, MA, USA.
+
+\harvarditem[Howland]{Howland}{2008}{Howland2008}
+K.~Howland (2008).
+\newblock `The Merits of a Basic Fitting Pattern'.
+\newblock {\em Threads} {\bf 79}:48 -- 52.
+
+\harvarditem[ISO/TR-10652]{ISO/TR-10652}{1991}{USsizeChart2010}
+ISO/TR-10652 (1991).
+\newblock {\em Standard sizing systems for clothes}.
+
+\harvarditem[Kendall]{Kendall}{1977}{Kendall1977}
+D.~G. Kendall (1977).
+\newblock `The Diffusion of Shape' .
+
+\harvarditem[Michalewicz]{Michalewicz}{1996}{michalewicz1996genetic}
+Z.~Michalewicz (1996).
+\newblock {\em Genetic Algorithms + Data Structures = Evolution Programs}.
+\newblock Artificial intelligence. Springer.
+
+\harvarditem[Moore et~al.]{Moore, et~al.}{2001}{moore2001concepts}
+C.~Moore, et~al. (2001).
+\newblock {\em Concepts of pattern grading: techniques for manual and computer
+  grading}.
+\newblock Fairchild Pub.
+
+\harvarditem[Pareto]{Pareto}{1906}{Pareto:1971}
+V.~Pareto (1906).
+\newblock {\em Manual of political economy (manuale di economia politica)}.
+\newblock Kelley, New York.
+\newblock Translated by Ann S. Schwier and Alfred N. Page.
+
+\harvarditem[Rosen]{Rosen}{2004}{rosen2004patternmaking}
+S.~Rosen (2004).
+\newblock {\em Patternmaking: a comprehensive reference for fashion design}.
+\newblock Pearson Custom Library: Fashion Series. Pearson Prentice Hall.
+
+\harvarditem[Schofield \& LaBat]{Schofield \& LaBat}{2005}{Schofield01012005}
+N.~A. Schofield \& K.~L. LaBat (2005).
+\newblock `Exploring the Relationships of Grading, Sizing, and Anthropometric
+  Data'.
+\newblock {\em Clothing and Textiles Research Journal} {\bf 23}(1):13--27.
+
+\harvarditem[Spears \& Anand]{Spears \& Anand}{1991}{Spears1991}
+W.~Spears \& V.~Anand (1991).
+\newblock `A study of crossover operators in genetic programming'.
+\newblock In Z.~Ras \& M.~Zemankova (eds.), {\em Methodologies for Intelligent
+  Systems}, vol. 542 of {\em Lecture Notes in Computer Science}, pp. 409--418.
+  Springer Berlin Heidelberg.
+
+\harvarditem[Srinivas \& Patnaik]{Srinivas \& Patnaik}{1994}{Srinivas286385}
+M.~Srinivas \& L.~Patnaik (1994).
+\newblock `Adaptive probabilities of crossover and mutation in genetic
+  algorithms'.
+\newblock {\em Systems, Man and Cybernetics, IEEE Transactions on} {\bf
+  24}(4):656--667.
+
+\harvarditem[Xiong]{Xiong}{2008}{xiong2000}
+N.~Xiong (2008).
+\newblock {\em World Classical fashion Design and Pattern}.
+\newblock Jiangxi Art Press.
+
+\harvarditem[Yaman \& Yilmaz]{Yaman \& Yilmaz}{2010}{Yaman5653114}
+F.~Yaman \& A.~Yilmaz (2010).
+\newblock `Investigation of fixed and variable mutation rate performances in
+  real coded Genetic Algorithm for uniform circular antenna array pattern
+  synthesis problem'.
+\newblock In {\em Signal Processing and Communications Applications Conference
+  (SIU), 2010 IEEE 18th}, pp. 594--597.
+
+\end{thebibliography}

@@ -1,0 +1,45 @@
+
+\ifx\isEmbedded\undefined
+\input{../format/format-setup}
+\begin{document}
+%\maketitle
+\fi
+
+\pagebreak
+
+
+\chapter*{Abbreviations}
+\addcontentsline{toc}{chapter}{Abbreviations}
+%${}$\vspace{4em}\\
+%{\raggedright \huge \textbf{List of Symbols}}
+
+
+\begin{longtable}{ m{20mm}|m{90mm} }
+
+  %\hline
+  $WWII$ & Second World War\\
+  $B.C.$ & Before Christ\\
+  $2D$ & Two Dimensional \\ 
+  $3D$ & Three Dimensional \\
+  $CAD$ & Computer Aided Design\\
+  $PCA$ & Principal Component Analysis\\
+  $KES$ & Kawabata Evaluation System\\
+  $FAST$ & Fabric Assurance by Simple Testing\\
+
+\end{longtable}
+
+
+\ifx\isEmbedded\undefined
+% References
+\addcontentsline{toc}{chapter}{References}
+\bibliographystyle{ref/harvard}
+\bibliography{ref/master}
+\pagebreak
+\end{document}
+\fi
+
+
+
+
+
+

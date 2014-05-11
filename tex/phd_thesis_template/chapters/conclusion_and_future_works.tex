@@ -1,0 +1,71 @@
+
+\ifx\isEmbedded\undefined
+\input{../format/format-setup}
+\graphicspath{{../images/}}
+\begin{document}
+%\maketitle
+\fi
+
+
+%**************************************************************************
+%**************************************************************************
+\chapter{Conclusion and Future Work}
+\label{cha:conclusion}
+
+\section{Conclusion}
+
+Virtual character has been widely used for the construction of virtual environment. It has become increasingly important in the production of films, TV series and computer games. The outfits of a virtual character is one of the most important elements constitutes the personality of characters. Today's virtual clothing techniques have been widely used in fashion industry and computer animation. 
+
+In fashion industry, cloth is constituted by a number of cloth patterns, is has provided a convenient approach for storing and distributing a cloth design. The main goal of virtual clothing application in fashion industry is to provide an efficient approach to create, manipulate and visualize cloth pattern. In film and game industry, cloth of a character is normally modelled by using general-purpose 3D modelling method, modelling cloth using this type of techniques require a large amount of manual operations. Because cloth is modelled manually, the appearance of the cloth is largely determined by the skill of modeller. With the increasing computer power, more and more characters can be simulated simultaneously in a virtual environment. Modelling cloth for multiple characters with different body shapes and proportions efficiently has become an imperative task for the production of the films and games. Moreover, cloth is a soft object which follows the profile of its wearer. The design of animation character varies largely from film to film. The large amount of manual labour and repetitive works involved in modelling and modifying a 3D cloth to fit to a different character with different body shapes and proportions makes reuse a existing 3D cloth difficult. In fact, usually, clothes for a different are modelled from scratch which make the reusability of 3D cloth very low.
+
+This thesis proposed an automatic pattern based cloth modelling method for computer animation. Current pattern based cloth modelling technique requires deep knowledge in textile engineering and tailoring expertise, few animation artists possess such a skill. Therefore, it is rarely used in the production of films and games. However, by automating the process of character measuring, pattern adjustment and pattern assembling, the presented modelling method no longer requires tailoring knowledge to adjust pattern size based on measurements. It eliminates the tediousness of traditional cloth modelling method and opens a door to animation artists to directly use a large amount of existing cloth pattern designs in fashion industry to create cloth for their characters. Moreover, each cloth design is represented by a set of 2D patterns, for a new character with different body shapes and proportions, only the body measurements need to be acquired from new characters and 3D cloth can be modelled automatically. 
+
+The cloth modelling method presented in this thesis consists of two major parts, character measuring and pattern adjustment. In order to use cloth patterns to generate 3D cloth for a character, measurements of the character need to be extracted first. Because the standard posture used for modelling character differs from person to person. The traditional anthropomorphic data acquisition method no longer suits the requirement of modelling cloth for animation character. In order to solve this problem, a geodesic path based character measuring method is presented to simulate tape measuring in real world.
+
+For geodesic computation, this thesis presented a novel scheme that utilises geodesic curvature flow to calculate geodesics on character model. Calculating geodesic on a high resolution model is a very time consuming task, in order to improve the computational efficiency, a linear time complexity geodesic algorithm is presented. With this algorithm, the time used for solving geodesic problem on a high resolution character model for extracting length measurements has been largely reduced.
+
+For pattern adjustment, an automatic cloth pattern resizing method is presented. This method combines traditional tailoring techniques with modern evolutionary algorithm to generate fit cloth for characters. This method takes 2D cloth patterns and measurements of a character as inputs. Considering the measurement, seam-line among the patterns as well as the shape of each pattern, the original design of the cloth is preserved through out the fitting process. Then, all patterns are transformed into polygon mesh and positioned around the character body for assembling. Last but not least, physical simulation is performed to the positioned cloth pattern meshes for assembling. One of the most significant advantages of this method is the ability of dressing character with any body shapes and proportions automatically. By automating the process of cloth pattern adjustment, a pattern can be reused on different characters with different body shapes and proportions. Moreover, not only the tailoring expertise required by current pattern based cloth modelling method can be avoided, but also the reusability of character cloth in a animation film has been largely improved by this method.
+
+Main contributions of the research presented in this thesis are,
+\begin{enumerate}
+
+	\item An automatic virtual clothing method is presented to bridge the gap between traditional tailoring techniques and cloth modelling method in computer animation. This method enables animation artists to use existing cloth design patterns in fashion industry to create 3D clothes that fits to their character automatically. Also, by extracting measurements from new characters, a cloth pattern can be reused onto different characters with different body shapes and proportions. Based on those new measurements, 3D cloth can be fitted automatically to a new character without changing the original cloth style. 
+
+	\item This thesis described a character measuring method based on geodesic path and convex-hull computation. For geodesic computation, a novel geodesic curvature flow based geodesic computation scheme is introduced. The most important contribution is that, one of the proposed geodesic algorithms (Algorithm.\ref{algorithm:app_geo}) has a linear time complexity with a small bounded error on triangulated manifolds. Numerical comparisons with existing algorithms (i.e. MMP, ICH\_1 and ICH\_2) have further demonstrated the advantages of this algorithm in terms of both speed and accuracy. By integrating Algorithm.\ref{algorithm:app_geo} into the measuring system, the time used for extracting multiple measurements from a high resolution character model has been largely reduced while the accuracy of the solution is still maintained. 
+			
+  	\item An automatic cloth pattern adjustment method is proposed. This method utilizes evolutionary algorithm to generate fit cloth for animation character. It preserves the original cloth design by evaluating body measurements, seam-lines as well as the cloth pattern shape through out the fitting process. By automating the process of pattern adjustment, using pattern based cloth modelling technique no longer requires expertises in tailoring. Animation artists can directly use existing cloth design patterns in fashion industry to create cloth for their characters. The unintuitiveness and tediousness of the current cloth modelling method can be largely reduced. Moreover, the reusability of character cloth in a animation film has been significantly improved.
+  	
+\end{enumerate}
+
+
+
+%--------------------------------------------------------------------------
+\section{Future work}
+There are several directions where the work of this thesis could be extended to and improved in the future.
+
+\begin{enumerate}
+  \item \textbf{Cloth animation}\\
+  The method presented in this thesis only applies to the task of cloth modelling, it cannot generates motion of the cloth. The full cycle of virtual clothing involves simulating dynamic behaviour of the cloth, therefore, the proposed method could be improved by adding the simulation module. Data driven wrinkle generation is suggested. By creating wrinkle database for each type of fabrics, cloth patterns can be associated with a wrinkle database for a particular type of fabric. Therefore, same wrinkle database can be applied to multiple character to generate fine deformation details. This allows the efficiency of creating virtual cloth for multiple character to be further improved. 
+
+  \item \textbf{Automatic datum point detection}\\
+  The presented measuring method requires user to manually define the datum points on a character. This method can be further improved by applying character body segmentation method \Citep{Liu2011367} to identify each body part and select corresponding datum points automatically. This will also improves the efficiency of cloth modelling process.  
+  
+  \item \textbf{Interactive cloth design}\\
+ Given a set of accurate measurements, the cloth modelling method presented in this thesis can generates fit cloth for any character. However, sometimes, during fashion design, for a particular kind of body proportion, the design of cloth need to be amended for the best appearance. Therefore, the research in this thesis can be improved by adding a pattern editing interface to allow cloth pattern to be edited by users.
+  
+
+\end{enumerate}
+
+
+%**************************************************************************
+%**************************************************************************
+
+
+\ifx\isEmbedded\undefined
+% References
+\addcontentsline{toc}{chapter}{References}
+\bibliographystyle{../ref/harvard}
+\bibliography{../ref/phd_references}
+\pagebreak
+\end{document}
+\fi

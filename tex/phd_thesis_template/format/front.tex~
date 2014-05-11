@@ -1,0 +1,32 @@
+
+\begin{titlepage}
+
+\begin{center}
+
+~\\[1.5cm]
+{ \huge \bfseries 3D Hand Tracking}\\[3.5cm]
+
+
+
+{\large
+
+\textsc{Rudra Poudel}\\[1.5cm]
+
+A thesis submitted in partial fulfilment of the requirements of\\ Bournemouth University for the degree of\\[1.5cm]
+
+\textbf{Doctor of Philosophy}\\[0.5cm]
+%\includegraphics[width=0.15\textwidth]{images/bu_core_logo-small}\\[1cm]
+\includegraphics[width=0.3\textwidth]{images/bu_logo}\\[1cm]
+
+
+\emph{Supervisor:} Dr.~Hammadi Nait-Charif, Prof.~Jian J Zhang
+
+}
+
+\vfill
+
+{\large Sept, 2013}
+
+\end{center}
+
+\end{titlepage}

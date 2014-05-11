@@ -1,0 +1,77 @@
+
+
+\ifx\isEmbedded\undefined
+\input{../format/format-setup}
+\begin{document}
+%\maketitle
+\fi
+
+\pagebreak
+
+%\addcontentsline{toc}{subsection}{Abstract}
+%\textbf{Abstract}
+
+{ \large \textbf{List of Symbols}}
+
+
+\begin{tabular}{ m{20mm}|m{90mm} }
+
+  \hline
+  $C$ & Smooth curve \\
+  $L$ & Euclidean distance \\
+  $S$ & Smooth surface\\
+  $T{p}S$ & Tangent plane of Smooth surface $S$ at point $p$\\
+  $C'$ & First order derivative of $C$ \\
+  $C^{'}_{s}$ &First order derivative of $C$ at point that has arc length $s$ to $C$ \\
+  $C^{''}$ & Second order derivative of $C$\\
+  $C^{''}_{s}$ & Second order derivative of $C$ at point that has arc length $s$ to $C$ \\
+  $\vec{n}$ & Normal vector of $S$ \\
+  $\kappa$ & Curvature \\
+  $\tau$ & Torsion \\
+  $\kappa{g}$ & Geodesic curvature \\
+  $\mathbb{R}^{3}$ & Three-dimensional Euclidean space \\
+  $C(t)$ & A curve in Euclidean space parametrized as a function of time \\
+  $s$ & Arc length of a curve \\
+  $C(s)$ & A point on curve $C$ at arc length $s$ to $C$ \\
+  $\vec{T}$ & Tangent vector of a curve \\
+  $\vec{N}$ & Unit vector of $C'$ \\
+  $\vec{B}$ & Unit vector of $C^{''}$ \\
+  $C{s,t}$ & Geodesic curvature flow \\
+  $\overrightarrow{p_{i}p_{i+1}}$ & A vector from $p_{i}$ to $p_{i+1}$ \\
+  $\left \langle A,B \right \rangle$ & Dot product operation of matrix $A$ and $B$ \\
+  \hline
+\end{tabular}
+
+\begin{tabular}{ m{20mm}|m{90mm} }
+
+  \hline
+  $\times$ & Cross product operation bwtween two vectors\\
+  $\widetilde{p_{i-1}p_{i}p_{i+1}}$ & A section of the piecewise curve consisted by three points\\
+  $\mu$ & Iterative step length for geodesic curvature flow convergence \\
+  $p_{i_{x}}$ & The $x$ value of the three-dimensional Euclidean coordination of point $p$ with index $i$ \\
+  $p'$ & The new location of point $p$ after it is updated by geodesic algorithm presented in this thesis \\
+  $\bar{p}$ & The projection of point $p$ on to the tangent plane $T{p}S$ \\
+  $fp_{i}$ & Vertex on polyhedron with index $i$\\
+  $I$ & Identity matrix \\
+  $\overline{fp_{1}fp_{2}}$ & Edge on polyhedron that has two end points $fp_{1}$ and $fp_{2}$.
+  $W$ & A set of vertices on polyhedron denoted as ``wavefront''
+  $w$ & A small patch(``window'') on a curve
+  $\Vert{p_{1}p_{2}}\Vert$ & Euclidean distance between $p_{1}$ and $p_{2}$
+  \hline
+\end{tabular}
+
+
+\ifx\isEmbedded\undefined
+% References
+\addcontentsline{toc}{chapter}{References}
+\bibliographystyle{ref/harvard}
+\bibliography{ref/master}
+\pagebreak
+\end{document}
+\fi
+
+
+
+
+
+

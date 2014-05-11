@@ -1,0 +1,36 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: introduction.aux
+The style file: ../ref/harvard.bst
+Database file #1: ../ref/phd_references.bib
+Repeated entry---line 705 of file ../ref/phd_references.bib
+ : @book{stecker1996fashion
+ :                         ,
+I'm skipping whatever remains of this entry
+`editor' is a missing field, not a string, for entry ashdown2007sizing
+while executing---line 1236 of file ../ref/harvard.bst
+`editor' is a missing field, not a string, for entry barnard2002fashion
+while executing---line 1236 of file ../ref/harvard.bst
+`editor' is a missing field, not a string, for entry crane2012fashion
+while executing---line 1236 of file ../ref/harvard.bst
+`author' is a missing field, not a string, for entry Kaledo
+while executing---line 1236 of file ../ref/harvard.bst
+`editor' is a missing field, not a string, for entry margolis1964complete
+while executing---line 1236 of file ../ref/harvard.bst
+`author' is a missing field, not a string, for entry MD
+while executing---line 1236 of file ../ref/harvard.bst
+`author' is a missing field, not a string, for entry PDS
+while executing---line 1236 of file ../ref/harvard.bst
+`editor' is a missing field, not a string, for entry rosen2004patternmaking
+while executing---line 1236 of file ../ref/harvard.bst
+`author' is a missing field, not a string, for entry Poser2012
+while executing---line 1236 of file ../ref/harvard.bst
+`editor' is a missing field, not a string, for entry stecker1996fashion
+while executing---line 1236 of file ../ref/harvard.bst
+`editor' is a missing field, not a string, for entry steele1998paris
+while executing---line 1236 of file ../ref/harvard.bst
+`editor' is a missing field, not a string, for entry steele2005encyclopedia
+while executing---line 1236 of file ../ref/harvard.bst
+`editor' is a missing field, not a string, for entry volino2000virtual
+while executing---line 1236 of file ../ref/harvard.bst
+`author' is a missing field, not a string, for entry WidGingerSoftware
+while executing---line 1236 of file ../ref/harvard.bst
+(There were 15 error messages)
