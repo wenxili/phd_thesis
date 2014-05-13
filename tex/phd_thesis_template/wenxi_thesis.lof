@@ -25,22 +25,22 @@
 \contentsline {figure}{\numberline {3.9}{\ignorespaces Geodesic on a smooth surface and its projection on its inscribed polygon mesh}}{77}{figure.caption.29}
 \contentsline {figure}{\numberline {3.10}{\ignorespaces Projection of a geodesic path.\relax }}{79}{figure.caption.30}
 \contentsline {figure}{\numberline {3.11}{\ignorespaces Formation of an initial path for a unvisited vertex}}{82}{figure.caption.31}
-\contentsline {figure}{\numberline {3.12}{\ignorespaces Tape measuring on human body\relax }}{91}{figure.caption.32}
-\contentsline {figure}{\numberline {3.13}{\ignorespaces Curve normal and vertex normal on a geodesic path on the arm of character A\relax }}{92}{figure.caption.33}
-\contentsline {figure}{\numberline {3.14}{\ignorespaces Demonstration of path correction process\relax }}{93}{figure.caption.34}
-\contentsline {figure}{\numberline {3.15}{\ignorespaces A straightened path for measuring arm length.\relax }}{94}{figure.caption.35}
+\contentsline {figure}{\numberline {3.12}{\ignorespaces Tape measuring on human body\relax }}{90}{figure.caption.32}
+\contentsline {figure}{\numberline {3.13}{\ignorespaces Curve normal and vertex normal on a geodesic path on the arm of character A\relax }}{91}{figure.caption.33}
+\contentsline {figure}{\numberline {3.14}{\ignorespaces Demonstration of path correction process\relax }}{92}{figure.caption.34}
+\contentsline {figure}{\numberline {3.15}{\ignorespaces A straightened path for measuring arm length.\relax }}{93}{figure.caption.35}
 \contentsline {figure}{\numberline {3.16}{\ignorespaces Geodesic path on a bent arm of Character A\relax }}{94}{figure.caption.36}
-\contentsline {figure}{\numberline {3.17}{\ignorespaces Shape corrected path with a section selected by user (green section) to be ignored by shape correction process\relax }}{95}{figure.caption.37}
+\contentsline {figure}{\numberline {3.17}{\ignorespaces Shape corrected path with a section selected by user (green section) to be ignored by shape correction process\relax }}{94}{figure.caption.37}
 \contentsline {figure}{\numberline {3.18}{\ignorespaces Running time comparison for geodesic algorithms}}{97}{figure.caption.38}
-\contentsline {figure}{\numberline {3.19}{\ignorespaces Geodesics on a sphere.\relax }}{99}{figure.caption.40}
+\contentsline {figure}{\numberline {3.19}{\ignorespaces Geodesics on a sphere.\relax }}{98}{figure.caption.40}
 \contentsline {figure}{\numberline {3.20}{\ignorespaces Distribution of the relative errors of MMP and Algorithm \ref {algorithm:acc_geo}\relax }}{99}{figure.caption.41}
-\contentsline {figure}{\numberline {3.21}{\ignorespaces Distribution of the relative errors of MMP approximate algorithm and Algorithm \ref {algorithm:app_geo}\relax }}{100}{figure.caption.42}
-\contentsline {figure}{\numberline {3.22}{\ignorespaces Error estimation of Algorithm \ref {algorithm:app_geo}}}{101}{figure.caption.43}
-\contentsline {figure}{\numberline {3.23}{\ignorespaces Error estimation of the approximate algorithm with different window size\relax }}{103}{figure.caption.44}
-\contentsline {figure}{\numberline {3.24}{\ignorespaces The convergenecy of error to the window size of the approximate algorithm\relax }}{104}{figure.caption.45}
+\contentsline {figure}{\numberline {3.21}{\ignorespaces Distribution of the relative errors of MMP approximate algorithm and Algorithm \ref {algorithm:app_geo}\relax }}{99}{figure.caption.42}
+\contentsline {figure}{\numberline {3.22}{\ignorespaces Error estimation of Algorithm \ref {algorithm:app_geo}}}{100}{figure.caption.43}
+\contentsline {figure}{\numberline {3.23}{\ignorespaces Error estimation of the approximate algorithm with different window size\relax }}{102}{figure.caption.44}
+\contentsline {figure}{\numberline {3.24}{\ignorespaces The convergenecy of error to the window size of the approximate algorithm\relax }}{103}{figure.caption.45}
 \contentsline {figure}{\numberline {3.25}{\ignorespaces Performance of Algorithm \ref {algorithm:app_geo} with varying window size.\relax }}{104}{figure.caption.46}
 \contentsline {figure}{\numberline {3.26}{\ignorespaces Histogram of the ratio $\varepsilon $ on the bunny model\relax }}{106}{figure.caption.48}
-\contentsline {figure}{\numberline {3.27}{\ignorespaces The distribution of estimated errors and real errors}}{107}{figure.caption.49}
+\contentsline {figure}{\numberline {3.27}{\ignorespaces The distribution of estimated errors and real errors}}{106}{figure.caption.49}
 \contentsline {figure}{\numberline {3.28}{\ignorespaces Measurements on Character A\relax }}{108}{figure.caption.51}
 \contentsline {figure}{\numberline {3.29}{\ignorespaces Measurements with geodesic shape correction on Character A\relax }}{109}{figure.caption.52}
 \contentsline {figure}{\numberline {3.30}{\ignorespaces Measurements on Character B\relax }}{110}{figure.caption.54}

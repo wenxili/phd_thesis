@@ -410,7 +410,7 @@ where $\mu$ is an iterative step size which heavily affects the stability of cur
 
 In order to calculate geodesics on a polyhedral surface using Equation \ref{equation:piecewise_curvature_matrix}, the normal vector needs to be estimated at every iteration for all the points on polyhedral surface corresponding to every sample point till Equation \ref{equation:piecewise_curvature_matrix} converged.
 
-Because Equation \ref{equation:piecewise_curvature_matrix} updates points on $C(s)$ in the direction that is on tangent plane of surface $S$ at the initial position of $p$. If $S$ is a non-flat surface, moving a point on tangent plane will cause this point to deviate from the $S$. In order to solve this problem, a constrain in the tangent space needs to be applied to the movement of sample points. This can be implemented as follow. 
+Because Equation \ref{equation:piecewise_curvature_matrix} updates points on $C(s)$ in the direction that is on tangent plane of surface $S$ at the initial position of $p$. If $S$ is a non-flat surface, moving a point on tangent plane will cause this point to deviate from $S$. In order to solve this problem, a constrain in the tangent space needs to be applied to the movement of sample points. This can be implemented as follow. 
 
 Firstly,let $P$ denotes all the sample points on curve $C$, all the normal vectors of one-ring neighbour faces of the closest vertex to $p_{i}$ on $S$ is stored in to a matrix $N$,
 
@@ -865,7 +865,7 @@ In real world, when using tape ruler to measure the length of a body part, it fo
 
 \begin{figure}[H]
 	\centering
-	\includegraphics[width=\textwidth]{../images/tape_measuring}
+	\includegraphics[width=0.8\textwidth]{../images/tape_measuring}
 	\caption{Tape measuring on human body}
 	\label{figure:tape_measuring}
 \end{figure}
